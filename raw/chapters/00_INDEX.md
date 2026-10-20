@@ -1,0 +1,64 @@
+# Vikkypaedia Rare Disease Learner Course — Raw Split Chapter Files (`raw/chapters/`)
+
+- [000: Front Matter, Contributors, Preface & Table of Contents](000_Front_Matter.md)
+- [Chapter 1: Finding the Rare Among the Common: Diagnosis, Diagnostic Error, and When to Suspect a Rare Disease](001_Finding_the_Rare_Among_the_Common_Diagnosis_Diagnostic_Error_and_Whe.md) *(Section I: Introductory Chapters · 5,637 words · 4 figs)*
+- [Chapter 2: Diagnostic Methods: Genomics, Omics, Biomarkers, Imaging, and Other Technologies](002_Diagnostic_Methods_Genomics_Omics_Biomarkers_Imaging_and_Other_Techn.md) *(Section I: Introductory Chapters · 11,367 words · 25 figs)*
+- [Chapter 3: The Approach to Rare Diseases: From Local to Global](003_The_Approach_to_Rare_Diseases_From_Local_to_Global.md) *(Section I: Introductory Chapters · 9,252 words · 1 figs)*
+- [Chapter 4: Epigenetics, Genomic Imprinting, and Imprinting Disorders](004_Epigenetics_Genomic_Imprinting_and_Imprinting_Disorders.md) *(Section II: Developmental Structural Disorders · 7,319 words · 16 figs)*
+- [Chapter 5: Dysmorphology and Phenotyping](005_Dysmorphology_and_Phenotyping.md) *(Section II: Developmental Structural Disorders · 7,742 words · 18 figs)*
+- [Chapter 6: Ciliary Signaling and Dysmorphology](006_Ciliary_Signaling_and_Dysmorphology.md) *(Section II: Developmental Structural Disorders · 5,231 words · 4 figs)*
+- [Chapter 7: Ciliopathies: Clinical Presentations and Syndromes](007_Ciliopathies_Clinical_Presentations_and_Syndromes.md) *(Section II: Developmental Structural Disorders · 8,044 words · 11 figs)*
+- [Chapter 8: Mosaic Overgrowth Syndromes](008_Mosaic_Overgrowth_Syndromes.md) *(Section II: Developmental Structural Disorders · 7,670 words · 13 figs)*
+- [Chapter 9: Ectodermal Dysplasia](009_Ectodermal_Dysplasia.md) *(Section II: Developmental Structural Disorders · 7,716 words · 9 figs)*
+- [Chapter 10: Heritable Disorders of Connective Tissue](010_Heritable_Disorders_of_Connective_Tissue.md) *(Section II: Developmental Structural Disorders · 27,367 words · 16 figs)*
+- [Chapter 11: Genetic Disorders of Bone](011_Genetic_Disorders_of_Bone.md) *(Section II: Developmental Structural Disorders · 34,728 words · 11 figs)*
+- [Chapter 12: Rare Causes of Autistic Spectrum-Like Disorders and Syndromes With Autistic-Like Behaviors](012_Rare_Causes_of_Autistic_Spectrum_Like_Disorders_and_Syndromes_With_A.md) *(Section III: Neuro-Sensory Disorders · 10,208 words · 0 figs)*
+- [Chapter 13: Neurodegeneration With Brain Iron Accumulation](013_Neurodegeneration_With_Brain_Iron_Accumulation.md) *(Section III: Neuro-Sensory Disorders · 6,238 words · 7 figs)*
+- [Chapter 14: Disorders of Movement (Hereditary Ataxias, Choreas, Dystonia)](014_Disorders_of_Movement_Hereditary_Ataxias_Choreas_Dystonia.md) *(Section III: Neuro-Sensory Disorders · 14,362 words · 12 figs)*
+- [Chapter 15: Fever-Associated Seizures and Epilepsies](015_Fever_Associated_Seizures_and_Epilepsies.md) *(Section III: Neuro-Sensory Disorders · 10,363 words · 5 figs)*
+- [Chapter 16: Nonfebrile Epilepsy Syndromes Including Epileptic Encephalopathies](016_Nonfebrile_Epilepsy_Syndromes_Including_Epileptic_Encephalopathies.md) *(Section III: Neuro-Sensory Disorders · 9,733 words · 12 figs)*
+- [Chapter 17: Hereditary Motor-Sensory Neuropathies or Charcot-Marie-Tooth Disease and Related Neuropathies](017_Hereditary_Motor_Sensory_Neuropathies_or_Charcot_Marie_Tooth_Disease.md) *(Section III: Neuro-Sensory Disorders · 10,994 words · 12 figs)*
+- [Chapter 18: Sensory and Autonomic Neuropathies Including Familial Dysautonomia and Small Fiber Neuropathies](018_Sensory_and_Autonomic_Neuropathies_Including_Familial_Dysautonomia_a.md) *(Section III: Neuro-Sensory Disorders · 8,355 words · 7 figs)*
+- [Chapter 19: Metabolic Myopathies](019_Metabolic_Myopathies.md) *(Section III: Neuro-Sensory Disorders · 11,847 words · 15 figs)*
+- [Chapter 20: Skeletal Muscle Channelopathies: Periodic Paralyses and Nondystrophic Myotonias](020_Skeletal_Muscle_Channelopathies_Periodic_Paralyses_and_Nondystrophic.md) *(Section III: Neuro-Sensory Disorders · 9,397 words · 7 figs)*
+- [Chapter 21: Congenital Blindness](021_Congenital_Blindness.md) *(Section III: Neuro-Sensory Disorders · 12,347 words · 22 figs)*
+- [Chapter 22: Late-Onset Blindness](022_Late_Onset_Blindness.md) *(Section III: Neuro-Sensory Disorders · 7,792 words · 28 figs)*
+- [Chapter 23: Sensorineural Hearing Loss](023_Sensorineural_Hearing_Loss.md) *(Section III: Neuro-Sensory Disorders · 5,409 words · 2 figs)*
+- [Chapter 24: Interstitial Lung Diseases of Childhood](024_Interstitial_Lung_Diseases_of_Childhood.md) *(Section IV: Cardiopulmonary Disorders · 9,373 words · 11 figs)*
+- [Chapter 25: Primary Ciliary Dyskinesia](025_Primary_Ciliary_Dyskinesia.md) *(Section IV: Cardiopulmonary Disorders · 7,094 words · 2 figs)*
+- [Chapter 26: Pulmonary Alveolar Proteinosis](026_Pulmonary_Alveolar_Proteinosis.md) *(Section IV: Cardiopulmonary Disorders · 5,082 words · 10 figs)*
+- [Chapter 27: Respiratory and Autonomic Disorders of Infancy, Childhood, and Adulthood (RADICA): CCHS and ROHHAD](027_Respiratory_and_Autonomic_Disorders_of_Infancy_Childhood_and_Adultho.md) *(Section IV: Cardiopulmonary Disorders · 8,637 words · 10 figs)*
+- [Chapter 28: Pediatric Cardiomyopathies](028_Pediatric_Cardiomyopathies.md) *(Section IV: Cardiopulmonary Disorders · 9,753 words · 11 figs)*
+- [Chapter 29: Congenital/Familial Arrhythmia Syndromes](029_Congenital_Familial_Arrhythmia_Syndromes.md) *(Section IV: Cardiopulmonary Disorders · 9,965 words · 17 figs)*
+- [Chapter 30: Vascular and Lymphatic Malformations](030_Vascular_and_Lymphatic_Malformations.md) *(Section IV: Cardiopulmonary Disorders · 14,202 words · 19 figs)*
+- [Chapter 31: Very Early Onset Inflammatory Bowel Disease and Congenital Diarrheal Disorders](031_Very_Early_Onset_Inflammatory_Bowel_Disease_and_Congenital_Diarrheal.md) *(Section V: Gastrointestinal and Hepatic Disorders · 10,338 words · 4 figs)*
+- [Chapter 32: Pediatric Intestinal Pseudo-Obstruction](032_Pediatric_Intestinal_Pseudo_Obstruction.md) *(Section V: Gastrointestinal and Hepatic Disorders · 7,193 words · 4 figs)*
+- [Chapter 33: Rare Inborn Defects Causing Malabsorption](033_Rare_Inborn_Defects_Causing_Malabsorption.md) *(Section V: Gastrointestinal and Hepatic Disorders · 12,021 words · 1 figs)*
+- [Chapter 34: Genetic Etiologies of Neonatal and Infantile Cholestasis](034_Genetic_Etiologies_of_Neonatal_and_Infantile_Cholestasis.md) *(Section V: Gastrointestinal and Hepatic Disorders · 9,700 words · 8 figs)*
+- [Chapter 35: Congenital Nephrotic Syndromes](035_Congenital_Nephrotic_Syndromes.md) *(Section VI: Renal Disorders · 8,688 words · 8 figs)*
+- [Chapter 36: Bartter and Gitelman Syndromes](036_Bartter_and_Gitelman_Syndromes.md) *(Section VI: Renal Disorders · 11,226 words · 11 figs)*
+- [Chapter 37: Monogenic Etiologies of Hypertension](037_Monogenic_Etiologies_of_Hypertension.md) *(Section VI: Renal Disorders · 5,781 words · 17 figs)*
+- [Chapter 38: Genetic Etiologies of Hemolytic Uremic Syndrome](038_Genetic_Etiologies_of_Hemolytic_Uremic_Syndrome.md) *(Section VI: Renal Disorders · 8,711 words · 7 figs)*
+- [Chapter 39: Autoimmune Polyglandular Syndromes and Other Disorders Associated With Immune-Related Endocrinopathies](039_Autoimmune_Polyglandular_Syndromes_and_Other_Disorders_Associated_Wi.md) *(Section VII: Endocrine Disorders · 9,104 words · 8 figs)*
+- [Chapter 40: Cancer Predisposition Syndromes in Children](040_Cancer_Predisposition_Syndromes_in_Children.md) *(Section VII: Endocrine Disorders · 9,662 words · 1 figs)*
+- [Chapter 41: Precocious and Delayed Puberty](041_Precocious_and_Delayed_Puberty.md) *(Section VII: Endocrine Disorders · 10,910 words · 15 figs)*
+- [Chapter 42: Monogenic Diabetes: MODY and Other Rare Genetic Etiologies](042_Monogenic_Diabetes_MODY_and_Other_Rare_Genetic_Etiologies.md) *(Section VII: Endocrine Disorders · 9,053 words · 2 figs)*
+- [Chapter 43: An Approach to Inborn Errors of Metabolism](043_An_Approach_to_Inborn_Errors_of_Metabolism.md) *(Section VIII: Metabolic Disorders · 20,205 words · 15 figs)*
+- [Chapter 44: Genetic Disorders of Neurotransmitters](044_Genetic_Disorders_of_Neurotransmitters.md) *(Section VIII: Metabolic Disorders · 6,659 words · 9 figs)*
+- [Chapter 45: Metabolic Crisis With Inborn Errors of Metabolism](045_Metabolic_Crisis_With_Inborn_Errors_of_Metabolism.md) *(Section VIII: Metabolic Disorders · 10,849 words · 17 figs)*
+- [Chapter 46: Differentiating Features of Storage Diseases](046_Differentiating_Features_of_Storage_Diseases.md) *(Section VIII: Metabolic Disorders · 12,975 words · 8 figs)*
+- [Chapter 47: Congenital Disorders of Glycosylation](047_Congenital_Disorders_of_Glycosylation.md) *(Section VIII: Metabolic Disorders · 10,120 words · 13 figs)*
+- [Chapter 48: Mitochondrial Disorders](048_Mitochondrial_Disorders.md) *(Section VIII: Metabolic Disorders · 10,529 words · 10 figs)*
+- [Chapter 49: Nonimmune Hemolytic Anemias](049_Nonimmune_Hemolytic_Anemias.md) *(Section IX: Hematologic Disorders · 11,235 words · 17 figs)*
+- [Chapter 50: Lymphoproliferative Disorders](050_Lymphoproliferative_Disorders.md) *(Section IX: Hematologic Disorders · 15,472 words · 20 figs)*
+- [Chapter 51: Hereditary Bone Marrow Failure Syndromes](051_Hereditary_Bone_Marrow_Failure_Syndromes.md) *(Section IX: Hematologic Disorders · 7,054 words · 6 figs)*
+- [Chapter 52: Hereditary Etiologies of Thrombosis](052_Hereditary_Etiologies_of_Thrombosis.md) *(Section IX: Hematologic Disorders · 6,635 words · 1 figs)*
+- [Chapter 53: When to Consider a Primary Immune Deficiency Disorder: Pathogens Associated With Specific Immune Defects](053_When_to_Consider_a_Primary_Immune_Deficiency_Disorder_Pathogens_Asso.md) *(Section X: Immune/Inflammatory Disorders · 9,659 words · 12 figs)*
+- [Chapter 54: Primary T Cell Immunodeficiencies](054_Primary_T_Cell_Immunodeficiencies.md) *(Section X: Immune/Inflammatory Disorders · 13,614 words · 3 figs)*
+- [Chapter 55: Innate Defects in Host Defenses Against Infections](055_Innate_Defects_in_Host_Defenses_Against_Infections.md) *(Section X: Immune/Inflammatory Disorders · 9,121 words · 8 figs)*
+- [Chapter 56: Rare and Unusual Etiologies of Atopic Diseases (Eczema, Urticaria)](056_Rare_and_Unusual_Etiologies_of_Atopic_Diseases_Eczema_Urticaria.md) *(Section X: Immune/Inflammatory Disorders · 6,587 words · 8 figs)*
+- [Chapter 57: Hereditary Autoinflammatory Disorders](057_Hereditary_Autoinflammatory_Disorders.md) *(Section X: Immune/Inflammatory Disorders · 13,126 words · 5 figs)*
+- [Chapter 58: Type I Interferonopathies](058_Type_I_Interferonopathies.md) *(Section X: Immune/Inflammatory Disorders · 6,522 words · 4 figs)*
+- [Chapter 59: Disorders of Immune Regulation](059_Disorders_of_Immune_Regulation.md) *(Section X: Immune/Inflammatory Disorders · 5,995 words · 3 figs)*
+- [Chapter 60: Complement Deficiencies](060_Complement_Deficiencies.md) *(Section X: Immune/Inflammatory Disorders · 4,937 words · 5 figs)*
+- [Chapter 61: Antibody Deficiencies](061_Antibody_Deficiencies.md) *(Section X: Immune/Inflammatory Disorders · 5,403 words · 4 figs)*

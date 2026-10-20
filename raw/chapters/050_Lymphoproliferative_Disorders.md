@@ -1,0 +1,908 @@
+
+<!-- p.1134 -->
+
+# 50 Lymphoproliferative Disorders **EMMA AUSTENFELD, JAMES J. NOCTON** 
+
+Lymphoproliferative disorders are conditions in which the production of lymphocytes is greatly enhanced, resulting in lymphocytosis, potential enlargement of lymph nodes and lymphoid organs, and variable systemic symptoms and organ manifestations. These disorders range from relatively benign conditions to life-threatening and severe illnesses. Some are associated with a greater risk of neoplasia, and some are associated with immunodeficiencies. There are genetic variants that have been associated with several of the lymphoproliferative disorders, and for others the etiology is unknown. The diagnosis of a lymphoproliferative disorder should be considered in all children with unexplained lymphadenopathy; in those with unexplained systemic inflammation, such as fevers, night sweats, and weight loss; and in those with unexplained elevations of nonspecific serum inflammatory markers such as the erythrocyte sedimentation rate or C-reactive protein. The diagnosis of most of the lymphoproliferative disorders is dependent on histology obtained with a biopsy of a lymph node or other accessible tissue. The histological features along with the history and physical examination, laboratory, and imaging findings often lead to a definitive diagnosis. Each of the lymphoproliferative disorders has characteristic pathology, although there may be some overlapping features among the various disorders that could potentially lead to diagnostic ambiguity. Treatment of these conditions involves the use of broad immunomodulating or immunosuppressive therapy and, in some instances, more targeted biological therapy aimed at suppressing inflammation mediated by specific inflammatory cytokines. 
+
+The clinical manifestations of lymphoproliferation have significant overlapping features of infection, malignancy, and inborn errors of immunity (Fig. 50.1). The diagnostic approach will vary depending on the suspicion for primary infection, malignancy (Fig. 50.2), or rarer etiologies of lymphoproliferation including inborn errors of immunity (Fig. 50.3). 
+
+## **Langerhans Cell Histiocytosis** 
+
+Langerhans cells (LC) are  cluster of differentiation 1a (CD1a) and CD207 positive epidermal dendritic cells that normally function to process and present antigen to T cells. Langerhans cell histiocytosis (LCH) is a disease in which excessive 
+
+proliferation of cells with LC characteristics (LCH cells) occurs and is associated with the development of inflammatory lesions in almost any organ, most often in the pituitary gland, bone, and skin. Inflammatory lesions in those with LCH certainly contain some LCs; however, most of the lesions consist of T cells, multinucleated giant cells, macrophages, eosinophils, stromal cells, and natural killer cells. Langerhans cell histiocytosis (LCH), while rare (incidence of approximately 5 per million children), is the most common of the histiocytic disorders in children (Table 50.1). 
+
+It is not clear if LCH is a disorder resulting from a neoplastic process, immune dysregulation, or a combination of these processes. Mitogen-activated protein kinase (MAPK) pathway gene alterations are present in more than 85% of cases of LCH (most commonly _BRAF_ -V600E pathogenic variants), and activation of this pathway appears to be a primary inducer of lymphoproliferation, suggestive of a neoplastic process. However, the intense inflammatory appearance of LCH lesions and the activation of proinflammatory cytokines that accompanies LCH are evidence of a potential immune dysregulation process (Fig. 50.4). 
+
+### **Clinical Features** 
+
+The potential clinical manifestations of LCH are protean and range from self-resolving lesions to life-threatening multisystem disease. LCH most frequently affects the bones (80%), skin (33%), and the pituitary gland (25%), and rash is the most common symptom. The rash appears similar to seborrheic dermatitis with scaly papules, nodules, or plaques (Fig. 50.5). Bone involvement is often asymptomatic and discovered incidentally on imaging studies (Fig. 50.6). The skull, ribs, axial skeleton, and extremities may all be affected, and bone pain is sometimes present. Involvement of the mastoid bones may lead to chronic ear infections and drainage. Diabetes insipidus with polydipsia and polyuria may occur as a result of pituitary involvement. Pulmonary infiltration, lymphadenopathy, and hepatosplenomegaly may also occur. LCH may present as early as the neonatal period and occasionally in utero with fetal pleural effusion, hydrops fetalis, or intrauterine fetal demise. Follicular lymphoma or B or T cell lymphoblastic leukemia
+
+<!-- p.1135 -->
+
+![](../../figures/fig_p1136_01.jpg)
+
+
+
+![](../../figures/vfig_p1135_01.jpg)
+
+**Fig. 50.1** Overlaps in the pathogenesis of lymphoproliferation in IEI, infections, and malignancies. _EBV,_ Epstein-Barr virus; _HLH,_ hemophagocytic lymphohistiocytosis.  (The Etiologic Landscape of Lymphoproliferation in Childhood: Proposal for a Diagnostic Approach Exploring from Infections to Inborn Errors of Immunity and Metabolic Diseases, © 2024 Costagliola et al, taken from Therapeutics and Clinical Risk Management, © 2024 Dove Medical Press Limited, reprinted by permission of Informa UK Limited, trading Taylor & Francis Group https://www.tandfonline.com. This is an Open Access article distributed under the terms of the Creative Commons Attribution – Non Commercial [unported, v3.0] License [http://creativecommons.org/ licenses/by-nc/3.0/] which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.) 
+
+have occurred in individuals with LCH and are indicative of a poor prognosis. 
+
+LCH is classified into solitary and multisystem subtypes. **Solitary LCH** usually presents with indolent onset in older children or adults with isolated bone lesions **(eosinophilic granuloma)** . The **multisystem form** often occurs in patients under 1 year of age and is usually more aggressive. Fever, skin abnormalities (vesicles, bullae, dermatitis), multiple bone lesions, diabetes insipidus, hepatosplenomegaly, and soft tissue masses are common, and there is frequently laboratory evidence of systemic inflammation including cytopenias, direct hyperbilirubinemia, and hypoalbuminemia. Neurological features may include abnormal behavior, ataxia, dysarthria, and MRI signal intensity alterations throughout the brain. 
+
+### **Diagnosis** 
+
+The diagnosis of LCH may be difficult due to the myriad of possible organ systems affected. Seborrheic dermatitis (particularly in the diaper area) that is refractory to usual treatments and/or chronic ear infections with persistent drainage may be initial clues. Bone pain with or without cytopenias may initially be difficult to distinguish from leukemia; however, imaging of the bones will reveal lesions more suggestive of LCH. Likewise, central diabetes insipidus in a young child should prompt the consideration of LCH, and in addition to imaging of the pituitary gland, a skeletal survey should be performed to screen for asymptomatic bone involvement. 
+
+Ultimately the diagnosis will be made following the recognition of characteristic clinical and radiological findings followed by tissue biopsy. The skin is often the most accessible site for biopsy, with bone, bone marrow, lymph nodes, or other organs also potentially available. The biopsy will confirm the presence of histiocytes exhibiting LCs within an inflammatory infiltrate of lymphocytes, eosinophils, macrophages, and stromal cells (Fig. 50.7). LCs are identified by folded nuclei (coffee bean shape) and are immunoreactive for the presence of CD1a, CD68, CD207/langerin, and S100. Electron microscopy will reveal characteristic **Birbeck granules** , cytoplasmic structures that are shaped like a tennis racket. 
+
+### **Treatment** 
+
+Treatment of LCH is critical to decrease the risk of late complications including growth failure, delayed puberty, diabetes insipidus, hearing loss, secondary malignancies, pulmonary fibrosis, and liver disease. Treatment options for isolated skin lesions include topical steroids, oral methotrexate, and thalidomide. Systemic disease has been treated with chemotherapy protocols using various combinations of prednisone, vinblastine, vincristine, cytosine arabinoside, cladribine, and pamidronate. Surgical intervention has been effective for vertebral lesions. Because of the discovery of MAPK variants in LCH, MAPK pathway inhibitors have been utilized with promising results. 
+
+Factors that predict increased risk of mortality include failure to respond in the first 12 weeks of therapy and involvement of
+
+<!-- p.1136 -->
+
+![](../../figures/fig_p1137_02.jpg)
+
+
+
+![](../../figures/vfig_p1136_01.jpg)
+
+**Fig. 50.2** First-level approach to patients presenting with lymphoproliferation. _CMV,_ Cytomegalovirus; _CRP,_ C-reactive protein; _CT,_ computed tomography; _EBV,_ Epstein-Barr virus; _ESR,_ erythrocyte sedimentation rate; _GAS,_ group A _Streptococcus_ , _HLH,_ hemophagocytic lymphohistiocytosis; _IGRA,_ interferon-gamma release assay; _NTM,_ nontuberculous mycobacteria; _PET,_ positron emission tomography; _TST,_ tuberculin skin test; _US,_ ultrasound. _Notes:_ This algorithm identifies the patients with a clinical picture suggestive for infection _(green boxes)_ and malignancy _(red boxes)_ and those with a less defined clinical picture _(yellow boxes)_ . The diagnostic approach for patients with suspected infection or malignancy is provided, evidencing that first-level analysis and US imaging are mandatory in patients with high risk of malignancy. On the other hand, when infection is suspected, the choice about performing laboratory and imaging investigations relies on the individual situation. Patients without a clearly defined diagnosis should be periodically reassesses and eventually undergo further investigations. *There is no uniform consensus regarding the need to perform prolonged antibiotic treatment in NTM lymphadenitis, and some authors suggest to perform only clinical observation. **PET and CT can be performed also before lymph nodal biopsy based on the clinical judgment.  (The Etiologic Landscape of Lymphoproliferation in Childhood: Proposal for a Diagnostic Approach Exploring from Infections to Inborn Errors of Immunity and Metabolic Diseases, © 2024 Costagliola et al, taken from Therapeutics and Clinical Risk Management, © 2024 Dove Medical Press Limited, reprinted by permission of Informa UK Limited, trading Taylor & Francis Group https://www.tandfonline.com. This is an Open Access article distributed under the terms of the Creative Commons Attribution – Non Commercial [unported, v3.0] License [http://creativecommons.org/licenses/by-nc/3.0/] which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.)
+
+<!-- p.1137 -->
+
+![](../../figures/fig_p1138_01.jpg)
+
+
+liver, spleen, or bone marrow. In those where the disease has not affected these risk organs, patient survival exceeds 90%. Longterm morbidity of LCH may include chronic pain, growth disturbance, endocrinopathies, and neurocognitive deficits. 
+
+## **IgG4-Related Disease** 
+
+IgG4-related disease (IgG4-RD) is characterized by inflammation of various organs and soft tissues with IgG4+ plasma 
+
+cell infiltration and, often, increased serum IgG4 levels. Sites that may be affected include the salivary and lacrimal glands, lymph nodes, pancreas, kidneys, retroperitoneum, biliary tree, and orbits. The tumor-like swelling that accompanies these processes requires differentiation from malignancy and other lymphoproliferative conditions, and on occasion IgG4-RD is recognized as a paraneoplastic syndrome. 
+
+The pathophysiology of IgG4-RD remains unclear. IgG4 itself is not thought to be pathogenic and, instead, evidence
+
+
+![](../../figures/vfig_p1137_01.jpg)
+
+
+<!-- p.1138 -->
+
+#### **TABLE 50.1 Classifications of Histiocytic Disorders** 
+
+|**World Health Organ i**|**ization Classification**|
+|---|---|
+|Plasmacytoid<br>dendritic cell<br>neoplasms<br>•<br>•|Mature plasmacytoid dendritic cell<br>proliferation associated with<br>myeloid neoplasm<br>Blastic plasmacytoid dendritic cell<br>neoplasm|
+|**Langerhans Cell an**<br>**Neoplasms**|**d Other Dendritic Cell**|
+|• Langerhans<br>cell neoplasms<br>•<br>•|Langerhans cell histiocytosis (LCH)<br>Langerhans cell sarcoma|
+|• Other dendritic<br>cell neoplasms<br>•<br>•|Indeterminate dendritic cell tumor<br>Interdigitating dendritic cell<br>sarcoma|
+|Histiocytic<br>neoplasms<br>•<br>•<br>•<br>•<br>•|Juvenile xanthogranuloma<br>Erdheim–Chester disease<br>Rosai–Dorfman disease<br>ALK-positive histiocytosis<br>Histiocytic sarcoma|
+|**Histiocyte Society R i**<br>**Proposal**|**evised Classification**|
+|L group<br>•<br>•<br>•<br>•<br>•<br>•|Langerhans cell histiocytosis<br>Erdheim–Chester disease<br>Disseminated juvenile<br>xanthogranuloma (JXG)<br>ALK-positive histiocytosis<br>Indeterminate cell histiocytosis<br>Mixed LCH/ECD|
+|C group<br>•<br>•|Skin limited JXG<br>Other skin-limited<br>xanthogranulomas and non-<br>Langerhans histiocytoses|
+|R group<br>•<br>•<br>•<br>•<br>•|Familial Rosai–Dorfman disease<br>(RDD)<br>Classical (nodal) RDD<br>Extranodal RDD<br>Neoplasia-associated RDD<br>Immune-associated RDD|
+|M group<br>•<br>•|Primary malignant histiocytosis<br>Secondary malignant histiocytosis<br>(associated with other<br>hematological malignancy)|
+|H group<br>•<br>•<br>•|Primary hemophagocytic<br>lymphohistiocytosis (HLH)<br>Secondary HLH<br>HLH of uncertain origin|
+
+
+From Bielamowicz K, Dimitrion P, Abla O, et al. Langerhans cell histiocytosis: NACHO update on progress, chaos, and opportunity on the path to rational cures. _Cancer_ . 2024;130:2416-2439 (Table 1, p. 2419). 
+
+suggests that the increase in IgG4 often seen in serum and tissue is secondary and not directly related to the pathogenesis of the disease. IgG4 class-switching is driven by IL-4, an inflammatory cytokine with a significant role in allergic conditions, potentially explaining the frequency with which patients with IgG4-RD exhibit atopic dermatitis, asthma, and allergic 
+
+rhinitis. IL-4 also activates M2 macrophages and fibroblasts, which might contribute to the characteristic fibrosis that develops in affected organs and other sites in IgG4-RD. Specific CD4+, SLAMF7+, cytotoxic T lymphocytes also appear to play a prominent role in the pathogenesis of IgG4-RD. Biopsy material reveals abundant numbers of these CD4+T cells, which are known to produce profibrotic cytokines. B cells are also present histologically in the inflammatory infiltrates and are likely to contribute to pathogenesis, as suggested by the effectiveness of B-cell depletion therapy. Specific antigens that may be potential triggers of IgG4-RD have not been identified; however, galactin-3 has been suggested based on autoantibody responses to galactin-3 that appear to be mostly of the IgG4 and IgE subtypes. 
+
+### **Clinical Features** 
+
+IgG4-RD has been almost exclusively described in adult patients with symptoms usually beginning in the fifth and sixth decades of life. It has rarely been reported in children. The disorder can affect a wide variety of organs and tissues. Exocrine gland involvement of the lacrimal glands, salivary glands, or pancreas is common, and patients may initially develop enlargement of the parotids, periorbital swelling, or recurrent episodes of pancreatitis. The inflammation in IgG4-RD may form mass lesions in the retroperitoneum or lungs, and occasionally in other organs such as the thyroid or the kidneys. Lung involvement includes nodules, masses, pleural effusions or thickening, and pulmonary infiltrates (interstitial disease, ground glass opacities), which may be asymptomatic or minimally symptomatic. Lymphadenopathy is relatively common, and a history of atopy is identified in up to 70% of patients. Some patients will have symptoms of allergy such as rhinorrhea and conjunctival irritation. In addition to signs and symptoms dependent on the organ or site affected, general constitutional symptoms are common including fatigue, weight loss, headaches, and abdominal pain. 
+
+### **Diagnosis** 
+
+The diagnosis of IgG4-RD is dependent on considering it in patients with unexplained inflammation in an organ or site that is known to be associated with the condition and excluding other etiologies (Table 50.2). Laboratory testing may reveal findings that are consistent with but not diagnostic of IgG4-RD including peripheral blood eosinophilia (seen in approximately 40% of patients) and a polyclonal hypergammaglobulinemia. The production of both IgG4 and IgG1 are often increased in IgG4-RD with the increased production of IgG4 apparently an epiphenomenon rather than directly involved in the pathogenesis of the disease. IgE may also be increased, especially in patients who exhibit atopy and eosinophilia. IgA and IgM are typically modestly elevated, if at all. A markedly elevated serum IgG4 (>5 g/L) is approximately 90% specific for IgG4-RD. 
+
+Once IgG4-RD is suspected based on history and laboratory test results, the diagnosis usually requires a biopsy to identify
+
+<!-- p.1139 -->
+
+![](../../figures/fig_p1140_01.jpg)
+
+
+**Fig. 50.4** LCH pathogenic mechanisms. (A) Diagram of the MAPK signaling pathway. When growth factors/mitogens bind to RTKs, RTKs activate guanine exchange factors to exchange GDP for GTP on Ras, which activates Ras. Normally, GTP-bound Ras is required for the downstream activation and homodimerization of Rafs (BRAF or ARAF) and further signaling components of MAPK. The _BRAF_ V600E variant allows BRAF to function as a monomer independent of Ras activation, which leads to constitutive activation of the MAPK signaling pathway. (B) Studies in patients with LCH have shown that the acquisition of MAPK-activating allelic variants in myeloid precursors leads to HR LCH because pathological myeloid cells have access to the circulation, supported by the finding that HR patients (but never LR patients) harbor circulating, variant-bearing myeloid cells. Circulating CD11a-positive myeloid cells also contribute to LCH-ND. This risk stratification can be modeled using genetic knock-in models in which the expression of BRAF V600E can be enforced in hematopoietic stem cells (Scl<sup>Cre</sup> BRAF V600Elox-stop-lox; BRAF V600E<sup>scl</sup> or Map17<sup>Cre</sup> BRAF V600Elox-stop-lox; BRAF V600E<sup>Map17</sup> ) or the entire DC lineage (CD11c<sup>Cre</sup> BRAF V600Elox-stop-lox; BRAF V600E<sup>CD11c</sup> ), leading to lethal, LCH-like disease. By comparison, enforced expression of BRAF V600E in tissue-limited DCs (CD207<sup>Cre</sup> BRAF V600Elox-stop-lox; BRAF V600<sup>CD207</sup> ) form some lesions but do not typically die at early age from lesions. (C) Enforced expression of BRAF V600E in mouse models indicates that enhanced myeloid differentiation (so-called _myeloid skewing_ ), activation and exhaustion of T cells, tissue entrenchment by decreased CCR7 expression, and resistance to apoptosis promote the accumulation of pathological DCs in nearly any organ. The latter is part of the BRAF V600E-induced SASP, which is central to LCH pathophysiology. _BRAF V600E,_ B-Raf proto-onco gene valine to glutamic acid substitution at amino acid 600; _DCs,_ dendritic cells; _GDP,_ guanosine diphosphate; _GTP,_ guanosine triphosphate; _HR,_ high risk; _LCH,_ Langerhans cell histiocytosis; _LCHND,_ neurodegenerative Langerhans cell histiocytosis; _LR,_ low risk; _MAPK,_ mitogen-activated protein kinase; _RTK,_ receptor tyrosine kinase; _SASP,_ senescence-associated secretory phenotype.  (From Bielamowicz K, Dimitrion P, Abla O, et al. Langerhans cell histiocytosis: NACHO update on progress, chaos, and opportunity on the path to rational cures. _Cancer_ . 2024;130:2416-2439 [Fig. 2, p. 2420].) 
+
+histology consistent with IgG4-RD and to exclude other diagnoses such as malignancy. Characteristics of the histopathology of IgG4-RD are described in Table 50.3 and shown in Figure 50.8. If it is not feasible to biopsy an affected organ, lymph node biopsy may be sufficient for diagnosis, although the specificity is limited by variable histological patterns and the fact that increased IgG4 plasma cells are found in lymph nodes associated with other conditions including inflammatory vasculitides and Rosai-Dorfman-Destombes disease. 
+
+Five morphological subtypes of IgG4-related lymph node histopathology have been described: **multicentric** 
+
+**Castleman disease-like** (preserved architecture with hyperplastic follicles, abundant mature interfollicular plasma cells with eosinophils), **reactive follicular hyperplasia** (increased IgG4+ plasma cells in germinal centers and interfollicular zones with eosinophils), an **interfollicular expansion pattern** (expanded interfollicular zones with lymphocytes, plasmablasts, mature plasma cells and eosinophils), **progressive transformation of germinal center-like** (scattered larger follicles with plasma cells), and **inflammatory pseudotumor-like** (node partially effaced by fibro-inflammatory infiltrate and storiform fibrosis). The inflammatory
+
+<!-- p.1140 -->
+
+![](../../figures/fig_p1141_02.jpg)
+
+
+**Fig. 50.5** Langerhans cell histiocytosis—clinical spectrum. (A) Scalp involvement may initially be diagnosed as seborrheic dermatitis; however, there are usually more discrete papules and crusting. (B) Pink, thin plaques with fissuring along the inguinal creases can also resemble seborrheic dermatitis. (C) Advanced disease with coalescence of papules into large plaques and prominent inguinal lymphadenopathy. (D) Pale pink to skin-colored papules, several of which have central umbilication and resemble mollusca contagiosa. (E) The presence of petechiae and purpuric papules is a clue to the diagnosis. (F) In an adult, the clinical presentation of inguinal involvement is similar to that of infants. (G) This subcutaneous nodule on the scalp involved the skull and represented the initial manifestation of multisystem Langerhans cell histiocytosis in an infant. (H) In patients with highly pigmented skin, the papules can be hypopigmented. (I) Eroded erythematous plaque of the labial mucosa.  (From Fraitag S, Barete S: Histiocytosis in Bologmia JL, Schaffer JV, Cerroni L [editors] Dermatology, 5/e, 2025, Elsevier, Philadelphia [Fig. 91.1, p. 1632]. C. Courtesy of the Yale Dermatology Residents’ Slide Collection.) 
+
+pseudotumor-like subtype is considered most specific for IgG4-RD. All subtypes display increased IgG4 plasma cells. 
+
+CT of the chest, abdomen, and pelvis is used to further evaluate the potential extent of the disease after the diagnosis has been made. Screening for subclinical organ involvement is essential because retroperitoneal fibrosis, periaortitis, or coronary arteritis may be asymptomatic and potentially organor life-threatening if untreated. 
+
+### **Treatment** 
+
+Glucocorticoids can induce remission in the majority (98%) of patients with IgG4-RD. Rituximab has been used less frequently but has also been highly effective with a remission 
+
+rate of 97%. When disease is refractory to steroids and rituximab, lymphoma chemoimmunotherapy regimens (fludarabine and rituximab, bendamustine and rituximab) have been effective. Other options include the cytotoxic T-lymphocyte antigen-4 fusion protein abatacept, and the anti-IL-4 receptor monoclonal antibody dupilumab. 
+
+## **Hemophagocytic Lymphohistiocytosis** 
+
+Hemophagocytic lymphohistiocytosis (HLH) is a systemic hyperinflammatory syndrome that may occur as a result of a genetic variant or secondary to a primary chronic inflammatory disease (usually referred to as **macrophage activation syndrome [MAS]** ), an infectious disease, or a malignancy
+
+<!-- p.1141 -->
+
+![](../../figures/fig_p1142_01.jpg)
+
+
+- **Fig. 50.6** Langerhans cell histiocytosis in a 3-year-old. (A) Lateral skull radiograph shows numerous 
+
+- rounded defects in the calvaria and skull base _(arrow)_ . (B) Multiple defects _(arrows)_ in the ilia and femora, the latter of which shows cortical erosion indicating a medullary cavity origin. (C) Scapular defects _(arrows)_ and infiltration of the lungs and pleura.  (From Kauffman TH, Nielsen DB, Slovis TL. Neoplasma, neoplasmlike lesions, and infections of the skull. In: Coley BD ed. _Caffey’s Pediatric Diagnostic Imaging_ . 13th ed. Vol 1. Philadelphia: Elsevier; 2019 [Fig. 21.14, p. 188].) 
+
+
+![](../../figures/fig_p1142_03.jpg)
+
+
+- **Fig. 50.7** (A) Histopathology of Langerhans cell histiocytosis (LCH) shows eosinophilic granuloma of a lytic bone lesion of the femoral head. Multiple LCH cells with characteristic grooved nuclei, as well as numerous eosinophils, are visible in this mixed infiltrate. (B) CD1a staining, characteristic and diagnostic of lesions with LCH cells.  (Modified from Ladisch S. Histiocytosis syndromes of childhood. In: Kliegman RM, St. Geme JW III, eds. _Nelson Textbook of Pediatrics_ . 22nd ed. Philadelphia: Elsevier; 2025 [Fig. 556.1, p. 3172].)
+
+<!-- p.1142 -->
+
+##### **TABLE 50.2** 
+
+#### **Differential Diagnosis of IgG4-Related Disease** 
+
+|**Orbits and Periorbital Tissues**|**Lungs**|
+|---|---|
+|• Lymphoma|• Malignancy (adenocarcinoma or bronchioloalveolar|
+|• Graves orbitopathy|carcinoma)<br>l i|
+|• Granulomatosis with polyangiitis|• Inflammatory myofibroblastic tumor|
+|• Sarcoidosis|• Sarcoidosis<br>|
+|**Ears, Nose, and Sinuses**<br>|• Granulomatosis with polyangiitis<br>• Castleman disease|
+|• Allergic disease<br>|• Lymphomatoid granulomatosis|
+|• Eosinophilic granulomatosis with polyangiitis|• Idiopathic interstitial pneumonitis|
+|• Granulomatosis with polyangiitis<br>|• Erdheim-Chester disease|
+|• Sarcoma||
+|• Chronic infection|**Aorta**|
+|**Salivary Glands**|• Primary large-vessel vasculitis (giant-cell or Takayasu<br>arteritis)|
+|• Lymphoma|• Sarcoidosis|
+|• Sjögren syndrome|• Erdheim-Chester disease|
+|• Sarcoidosis|• Histiocytosis|
+|• Sialodocholithiasis|• Lymphoma|
+|**Meninges**|• Infectious aortitis|
+|• Idiopathic hypertrophic pachymeningitis<br>l i|**Retroperitoneum**|
+|• Inflammatory myofibroblastic tumor|• Lymphoma|
+|• Lymphoma|<br>• Sarcoma|
+|• Granulomatosis with polyangiitis|• Methysergide-induced retroperitoneal fibrosis|
+|• Giant-cell arteritis|i<br>• Idiopathic retroperitoneal fibrosis|
+|• Langerhans-cell histiocytosis|i<br>|
+|<br>• Sarcoidosis|**Kidney**|
+|**Pii**|• Lymphoma|
+|**tutary**|• Renal-cell carcinoma|
+|• Neoplasms|• Drug-induced tubulointerstitial nephritis|
+|• Histiocytosis|<br>• Idiopathic membranous glomerulonephritis|
+|• Primary hypophysitis|<br>• Pauci-immune, necrotizing glomerulonephritis|
+|• Secondary hypophysitis (sarcoidosis, ipilimumab-induced)|<br>• Sarcoidosis|
+|**Lmh Nodes**|• Sjögren syndrome|
+|**yp **|• Sstemic luus erthematosus (membranous nehroath)|
+|• Multicentric Castleman disease|y p y  ppy|
+|<br>|**P**|
+|• Lymphoma|**ancreas**|
+|• Sarcoidosis|• Pancreatic cancer|
+|• Systemic lupus erythematosus|**Biliary Tree**|
+|**Thyroid Gland**|<br>• Pancreatic cancer|
+|• Thyroid lymphoma|<br>• Cholangiocarcinoma|
+|<br>• Differentiated thyroid carcinoma (papillary variant)|<br>• Primary sclerosing cholangitis|
+|• Other malignant disease|<br>|
+||**Liver**|
+||• Cholangiocarcinoma<br>• Hepatocellular carcinoma<br>|
+||• Primary sclerosing cholangitis|
+||**Prostate**|
+||• Benign prostatic hypertrophy|
+||**Skin**|
+||• Cutaneous lymphoma|
+
+
+From Kamisawa T, Zen Y, Pillai S, Stone JH. IgG4-related disease. _Lancet_ . 2015;385:1460-1471 (Panel 2, p. 1462).
+
+<!-- p.1143 -->
+
+##### **TABLE** 
+
+#### **50.3 Histopathology of IgG4-Related Disease (IgG4-RD)** 
+
+|IgG4-RD<br>Dense, po<br>infiltrate|Histopathological Finding<br>Characteri<br>lyclonal lymphoplasmacytic<br>i enriched with IgG4 plasma cells<br>The ratio of|stics<br>IgG4/IgG plasma cells is>40% in IgG4-RD|
+|---|---|---|
+|Fibrosis<br>Obliterativ|Histological<br>Should be a<br>“cartwhe   i<br>and mig<br>e phlebitis<br>Venous cha     l<br>infiltrate (|requirement for the diagnosis<br>rranged at least focally in a storiform pattern: a swirling,<br>el” pattern of fibrosis which may have a patchy distribution<br>ht be missed with small biopsies (see Fig. 50.8)<br>nnels are obliterated by an inflammatory lymphoplasmacytic<br>i see Fig. 50.8)|
+||**A**|**B**|
+||**C**<br>**E**|**D**<br>**F**|
+
+
+- **Fig. 50.8** Pathology of IgG4-related disease. (A) Inflammatory cell infiltrate of a submandibular gland, consisting of lymphocytes, plasma cells, and whorls of fibrosis. (B) Storiform fibrosis in a bile duct of a patient with sclerosing cholangitis. (C) Obliterative phlebitis of a vein with an inflammatory nodule _(arrow)_ adjacent to an artery. (D) Elastin stain revealing obliterative phlebitis _(arrow)_ . (E and F) Immunostain for IgG4 reveals IgG4-positive plasma cells in a lacrimal gland biopsy.  Modified from Kamisawa T, Zen Y, Pillai S, Stone JH. IgG4-related disease. _Lancet_ . 2015;385[9976]:1460-1471 [Fig. 1. P. 1463].)
+
+<!-- p.1144 -->
+
+#### **TABLE Genetic Causes of HLH 50.4** 
+
+|HLH Type/Association<br>**Familial HLH**|Gene or Locus (Protein)|HLH-Related Dysfunction|Unique Clinical Features|
+|---|---|---|---|
+|Type 1 (F-HLH 1)|9q21.3-q22 (unknown)|Unknown|N/A|
+|Type 2 (F-HLH 2)|_PRF1_(perforin)|Cytolytic pore formation|None|
+|Type 3 (F-HLH 3)|_UNC13D_(Unc-13<br>homolog D)|Cytolytic vesicle priming|Increased incidence of CNS<br>disease|
+|Type 4 (F-HLH 4)|_STX11_(Syntaxin 11)|Cytolytic vesicle fusion|Mild, recurrent HLH, colitis|
+|Type 5 (F-HLH 5)|_STXBP2_(Syntaxin binding<br>protein 2)|Cytolytic vesicle fusion|Colitis; hypogammaglobulinemia,<br>and sensorineural hearing loss|
+|**Primary Immunodeficienc**|**y Syndromes**|||
+|Chédiak-Higashi syndrome|_LYST_(Lysosomal trafficking<br>regulator)|Cytolytic vesicle trafficking|Partial oculocutaneous albinism,<br>recurrent pyogenic infections,<br>and bleeding tendency|
+|Hermansky-Pudlak<br>syndrome type 2|_AP3B1_(Adaptor Related<br>Protein Complex 3<br>Subunit Beta 1)|Cytolytic vesicle trafficking|Partial albinism; immunodeficiency,<br>bleeding tendency, and platelet<br>storage pool deficiency|
+|Griscelli syndrome type 2|_RAB27A_(Rab-27A protein)|Cytolytic vesicle docking|Partial albinism and silvery gray hair|
+|**EBV-Triggered**||||
+|X-linked lymphoproliferative<br>disorder type 1 (XLP1)|_SH2D1A_(SH2 Domain<br>Containing 1A)|Defective killing of<br>EBV-infected B cells|Severe HLH;<br>Hypogammaglobulinemia, and<br>lymphoma|
+|X-linked lymphoproliferative<br>disorder type 2 (XLP2)|_XIAP_(X-linked inhibitor of<br>apoptosis protein)|Increased inhibition of<br>apoptosis in EBV-infected<br>cells (gain of function)|Mild, recurrent HLH (may be<br>triggered by non-EBV viruses)|
+|IL-2-inducible T cell kinase<br>deficiency|_ITK_(IL2 inducible T cell<br>kinase)|Impaired proliferation of<br>EBV-specific T cells|Hodgkin lymphoma|
+|CD27 deficiency|_CD27_|Impaired proliferation of<br>EBV-specific T cells|Combined immunodeficiency|
+|X-linked immunodeficiency<br>with magnesium defect<br>(XMEM)|_MAGT1_(Magnesium<br>transporter 1)|Impaired proliferation of<br>EBV-specific T cells|Combined immunodeficiency,<br>chronic viral infections, and<br>lymphoma|
+|**Inflammasome Activation**||||
+|Autoinflammatory disease|_NLRC4_(NLR Family CARD<br>Domain Containing 4)|Increased inflammasome<br>activation (gain of function)|Mild and recurrent HLH|
+
+
+_CNS,_ Central nervous system; _EBV,_ Epstein-Barr virus. From Griffin G, Shenoi S, Hughes GC. Hemophagocytic lymphohistiocytosis: an update on pathogenesis, diagnosis, and therapy. _Best Pract Res Clin Rheum_ . 2020;34:100515 (Table 1). 
+
+(Table 50.4, Fig. 50.9). There are multiple genetic causes of HLH including pathogenic variants in _PRF1, UNC13D, STX11, STXBP2,_ and _NLRC4_ . Many of these genes regulate lymphocyte cytotoxicity or inflammasome activity. **Systemic juvenile idiopathic arthritis (sJIA)** is the most common rheumatic disease associated with MAS. Infectious triggers have included a wide range of organisms including DNA viruses like Epstein-Barr virus (EBV) or cytomegalovirus (CMV), tick-borne illnesses, fungal infections, leishmaniasis, and tuberculosis. The most common malignancies associated with HLH are diffuse large B-cell lymphoma, Hodgkin lymphoma, and T-cell and NK-cell lymphomas or leukemias. 
+
+The precise etiology of HLH is unclear. An aberrant immune response appears to be an underlying contributor and, more specifically, uncontrolled activation of cytotoxic T cells appears to be the primary driver of the cytokine storm that accompanies HLH (Fig. 50.10). The sustained release of interferon-gamma from activated T cells leads to subsequent macrophage activation and the release of multiple proinflammatory cytokines. The T cells can be activated in multiple ways, with primary genetic abnormalities, infections, malignancies, and chronic inflammatory diseases all predisposing to the development of this disorder. In MAS, in particular NLRC4-associated disease, activation
+
+<!-- p.1145 -->
+
+**The HLH Syndrome** (All conditions that meet syndrome definition) 
+
+
+![](../../figures/fig_p1146_02.jpg)
+
+
+**Fig. 50.9** Categorizing HLH. _Note:_ The HLH syndrome includes all conditions meeting consensus diagnostic criteria. This syndrome includes conditions that would benefit from HLH-directed immunosuppressive therapies, which are termed “HLH disease,” and those conditions that would not benefit from such therapy or require entirely different treatments, termed “HLH disease mimics.” HLH disease includes recognizable subgroups: familial HLH with clear genetic etiology, HLH associated with malignancy, HLH associated with rheumatological conditions (also called MAS), HLH observed after immune activating therapies (iatrogenic HLH, also called cytokine release syndrome), HLH associated with immune compromise (either primary immune deficiency or treatment-related immune suppression), and HLH not associated with other specific conditions. Recognition of these subcategories is valuable as this may alter treatment, though some categories overlap with each other or have indistinct borders (as indicated above), and may include examples of both HLH disease and HLH disease mimics. Use of these category-specific terms is preferred over the historical terms of “primary” and “secondary” because the older concepts are ambiguous due to increasing understanding of genetic complexity, involvement of infection in triggering multiple distinct variations of HLH, and varied application. Incomplete, forme fruste episodes of HLH (similar but not completely fulfilling diagnostic criteria) are also well recognized in patients with familial HLH and may occur in others, such as “mild MAS” in patients with soJIA.  (From Jordan MB, Allen CE, Greenberg J, et al. Challenges in the diagnosis of hemophagocytic lymphohistiocytosis: recommendations from the North American consortium for histiocytosis [NACHO]. _Pediatr Blood Cancer_ . 2019;66:e27929 [Fig. 1].) 
+
+of the inflammasome induces IL-1 and IL-18 (which subsequently induces interferon gamma), ultimately leading to the clinical features of HLH. 
+
+### **Clinical Features** 
+
+Persistent unexplained fever is the dominant symptom of patients with HLH (or the secondary form MAS), often accompanied by nonspecific systemic symptoms of fatigue, malaise, and anorexia. Initially there may be no remarkable physical examination findings or perhaps isolated splenomegaly. Laboratory tests will often reveal results suggestive of marrow infiltrative disease and a hyp erinflammatory state, including pancytopenia, elevated serum transaminases, hyperferritinemia, and a coagulopathy with hypofibrinogenemia and prolonged prothrombin and partial thromboplastin times. The erythrocyte sedimentation rate may be normal as a result of profound hypofibrinogenemia. The combination of fever without an obvious source and characteristic laboratory test abnormalities should raise suspicion 
+
+for HLH. If unrecognized and untreated early, purpuric cutaneous lesions may appear and hepatosplenomegaly will become more apparent. Isolated central nervous system (CNS) disease, including demyelinating syndromes, have been recognized as a potential feature of HLH. Imaging of the CNS may reveal nonspecific inflammatory lesions or lesions that appear similar to those seen in other demyelinating syndromes. It is critical to recognize HLH as early as possible because it may quickly progress to multiorgan dysfunction with acute liver failure, disseminated intravascular coagulation, central nervous system involvement (seizures, meningismus, altered level of consciousness), and death. 
+
+### **Diagnosis** 
+
+Diagnostic criteria for HLH require the presence of either a genetic diagnosis consistent with HLH, or 5 out of 8 specific criteria (Table 50.5). _Diagnostic criteria have also been proposed for MAS in patients with sJIA._ These criteria classify a patient with known or suspected sJIA as having
+
+<!-- p.1146 -->
+
+![](../../figures/fig_p1147_02.jpg)
+
+
+**Fig. 50.10** HLH pathogenesis. HLH is not one disease but rather a highly distinct state of immunological hyperactivation that has many different causes. A sustained and uncontrolled activation of CD8<sup>+</sup> T cells is a core immunological feature of HLH; and in most forms of HLH, this activation is sustained by amplification loops involving antigen-presenting cells (APCs) and macrophages/monocytes. Depending on the individual, the development of HLH involves genetic and/or acquired risk factors. In familial HLH (F-HLH), genetic defects in cytolysis are the primary determinants of risk. In HLH associated with systemic juvenile idiopathic arthritis (sJIA), risk is determined by genetic and acquired factors, particularly chronic inflammation. In adults, HLH most often occurs in the settings of untreated hematological malignancy, chronic rheumatic disease, or immunosuppression. In many patients with HLH, a proximate inciting event or agent (trigger) is identified, most often an infection (particularly viral), occult hematological malignancy (particularly T or NK lymphoma), recent/ongoing immune-activating therapy (e.g., CAR-T therapy), or certain drugs associated with drug-induced hypersensitivity syndromes (DIHS). In F-HLH and certain forms of HLH associated with primary EBV infection, genetic defects in the killing of virally infected cells (e.g., PERF1 deficiency) results in sustained antigen presentation to, and activation of, CD8<sup>+</sup> T cells, which is amplified by IFN-g release and subsequent MHC-I upregulation (Loop #1). Sustained IFN-g release from activated CD8<sup>+</sup> T cells is believed to drive the activation of tissue macrophages/monocytes, which results in the release of inflammatory mediators such as IL-1b, IL-6, IL-18, and IL-12. IL-18 and IL-12 may serve to enhance IFN-g production by CD8<sup>+</sup> T cells (Loop #2). Macrophages/monocytes are further activated by chronic inflammation, tissue injury (through Il-1b and IL-33), and TLR stimulation from infection. In malignancy associated HLH, transformed cells may drive HLH through autonomous cytokine release and/ or sustained presentation of EBV antigen. HLH after CAR-T therapy likely reflects exuberant activation of therapeutic CD8<sup>+</sup> CAR-T cells. In HLH associated with DIHS, drug-MHC-I complexes may drive CD8<sup>+</sup> T cell hyperactivation. Important clinical and laboratory abnormalities appear to be driven by macrophage/ monocyteand T-cell-derived molecules, several of which serve as important disease biomarkers (*). _ASD,_ Adult onset Stills disease; _CAR-T,_ chimeric antigen receptor T cell; _CHS,_ Chédiak-Higashi syndrome; _DIHS,_ drug-induced hypersensitivity syndrome; _EBV,_ Epstein-Barr virus; _ICI,_ immune checkpoint inhibitor; _MHC-I,_ major histocompatibility complex I; _PERF-1,_ perforin-1; _sIL-2 R,_ soluble Il-2 receptor; _sJIA,_ systemic juvenile idiopathic arthritis; _TCR,_ T cell antigen receptor; _TLR,_ toll-like receptor; _XLP1,_ X-linked lymphoproliferative disorder type 1.  (From Griffin G, Shenoi S, Hughes GC. Hemophagocytic lymphohistiocytosis: an update on pathogenesis, diagnosis, and therapy. _Best Pract Res Clin Rheum_ . 2020;34:100515 [Fig. 1].) 
+
+MAS with an elevated ferritin >684 ng/mL plus 2 of the following: platelet count ≤181 × 10<sup>9</sup> /L, aspartate aminotransferase >48 U/L, triglycerides >156 mg/dL, and fibrinogen ≤360 mg/dL. While proposed specifically for JIA, these criteria may also be useful when considering MAS in the context of other underlying chronic inflammatory diseases. 
+
+Strict interpretation of these diagnostic criteria may overlook patients with unusual presentations, such as isolated inflammatory CNS disease; therefore, the diagnosis should be considered in all individuals with unexplained fever or inflammatory disease, especially if cytopenia or hyperferritinemia are also present. _Approximately 17% of patients with genetically proven HLH have an incomplete or atypical clinical presentation._
+
+<!-- p.1147 -->
+
+### **TABLE Diagnostic Criteria for Hemophagocytic 50.5 Lymphohistiocytosis (HLH)** 
+
+The Diagnosis of HLH is established by fulfilling 1 of either of the following 2: 
+
+1. A molecular diagnosis consistent with HLH 
+
+2. The presence of 5 of the following 8 criteria Fever Splenomegaly 
+
+Cytopenias affecting ≥2 of 3 cell lineages in peripheral blood 
+
+Hemoglobin <90 g/L Platelets <100 × 10<sup>9</sup> /L Neutrophils <1.0 × 10<sup>9</sup> /L Hypertriglyceridemia and/or hypofibrinogenemia Fasting triglycerides ≥265 mg/dL Fibrinogen ≤150 mg/dL 
+
+Hemophagocytosis in bone marrow, spleen, or lymph nodes 
+
+Low or absent NK-cell activity Ferritin >500 ng/mL 
+
+Soluble CD25 (IL-2 receptor) ≥2400 U/mL 
+
+Adapted from Canna SW, Marsh RA. Pediatric hemophagocytic lymphohistiocytosis. _Blood_ . 2020;135(16):1332-1343. Table 2. Elsevier. 
+
+When the diagnosis is being considered based on the history and physical findings, laboratory tests and imaging should be performed to assess the distribution and severity of organ involvement, with simultaneous comprehensive infectious and oncologic investigations including bone marrow evaluation (Fig. 50.11). 
+
+Laboratory assessment includes measuring blood levels of triglycerides, fibrinogen, ferritin, and the soluble interleukin-2 receptor (sIL-2R). While elevated ferritin is a common finding in various inflammatory processes, levels >2000 μg/L are more specific for HLH. The sIL-2R level also requires careful interpretation, as normal ranges are age-dependent, and elevations can also be found in patients with lymphoma and other conditions associated with T cell activation. CXCL9, a cytokine induced by interferon gamma, is markedly elevated in primary and secondary HLH. Rapid protein/functional screening tests for genetic forms of HLH are helpful. These include peripheral blood flow cytometry to perform quantitative assessment of intracellular perforin as well as degranulation of NK cells by measuring CD107 expression in activated NK cells. NK cell cytotoxicity assays can be difficult to interpret during acute illness and are affected by many variables, most importantly the relative NK percentage in the blood that can be low during illness. Rapid genetic sequencing can be performed and should be performed when the index of suspicion for HLH is high. 
+
+treatments may include intravenous immunoglobulin, rituximab, ruxolitinib, or emapalumab (a monoclonal antibody to interferon-gamma). The recombinant IL-1 receptor antagonist anakinra is effective in patients with MAS secondary to sJIA and other rheumatic diseases. For those identified as having HLH associated with a genetic variant, bone marrow transplantation is recommended since the risk of recurrent episodes is high. 
+
+# **X-Linked Lymphoproliferative Diseases** 
+
+X-linked lymphoproliferative disease (XLP) is defined by pathological immune responses to Epstein-Barr virus (EBV) infections and comes in two subtypes: XLP-1 and XLP-2. **Type 1 (XLP1)** is a primary immunodeficiency associated with an inability to clear infection with EBV. It affects one per million males born in the United States, and it typically presents in childhood or early adolescence. XLP1 is associated with impaired cellular activities of cytotoxic T lymphocytes and natural killer cells. This defect results in persistent viremia, lymphoproliferation, and EBV-associated lymphomas. It is possible to develop features of XLP1 without EBV infection, and therefore XLP1 is a syndrome of immune dysregulation with multiple triggers including, but not limited to, EBV. 
+
+XLP1 is caused by pathogenic variants in _SH2D1A_ and follows an X-linked recessive inheritance pattern. _SH2D1A_ encodes the Signaling Lymphocytic Activation Molecule (SLAM)-associated protein (SAP). This protein is expressed in T cells, natural killer (NK) cells, and natural killer T cells and modulates intracellular signal transduction by binding to the SLAM family of receptors. SAP allows the SLAM receptors to function as activating receptors in its presence; conversely, they serve an inhibitory role in T and NK cell activation in its absence. It is thought that in XLP1, the _SH2D1A_ variant results in impaired function of NK cells and other cells with subsequent deficient killing of EBV-infected cells. 
+
+**XLP type 2** is recognized as X-linked inhibitor of apoptosis (XIAP) deficiency. XIAP deficiency has similar but distinct clinical features from XLP1 and is the result of variants in _XIAP/BIRC4_ which is an inhibitor of apoptosis. The pathophysiology of XIAP deficiency differs from that of XLP1 and XIAP is usually not classified as a lymphoproliferative disease. XIAP is an anti-apoptotic factor that also is required for NOD1/NOD2 signaling. XIAP is thought to result in both an ineffective immune response and uncontrolled inflammasome activation with increased production of proinflammatory cytokines leading to recurrent infections, chronic hyperinflammation, particularly in the colon, and a predisposition to HLH. Colitis is similar to Crohn’s disease and typically occurs at an early age, and unlike XLP1, lymphomas do not occur. 
+
+## **Treatment** 
+
+Prompt treatment initiation is critical because HLH is potentially life-threatening. Dexamethasone combined with etoposide are often utilized in cases of HLH associated with cytotoxicity defects (e.g., perforin deficiency). Other 
+
+## **Clinical Features** 
+
+The primary clinical features consist of a severe infectious mononucleosis illness (fever, fatigue, pharyngitis, hepatosplenomegaly, lymphadenopathy), hemophagocytic
+
+<!-- p.1148 -->
+
+![](../../figures/fig_p1149_02.jpg)
+
+
+
+![](../../figures/vfig_p1148_01.jpg)
+
+**Fig. 50.11** Flowsheet for the diagnosis of hemophagocytic lymphohistiocytosis (HLH). _SAP,_ Signaling lymphocytic activating molecule; _TREC,_ T-cell receptor excision circles.  (From Canna SW, Marsh RA. Pediatric hemophagocytic lymphohistiocytosis. _Blood_ . 2020;135[16]:1332-1343. [Fig.1, p.1334].) 
+
+lymphohistiocytosis (HLH), hypogammaglobulinemia, and lymphoma. Symptoms usually begin in males under the age of 5 years. When hypogammaglobulinemia is the first manifestation, patients may have recurrent sinus and pulmonary infections and be misdiagnosed as common variable immunodeficiency. One-third of patients with XLP1 develop lymphoma, most commonly abdominal B cell non-Hodgkin lymphoma. Other clinical features of XLP1 may include vasculitis, chronic gastritis, aplastic anemia, and skin lesions. Humoral immune abnormalities detected in XLP1 patients include hypogammaglobulinemia and impaired vaccine responses with resultant recurrent infections. 
+
+## **Diagnosis** 
+
+The diagnosis of XLP1 should be suspected in young males with particularly fulminant infectious mononucleosis, those with EBV-associated HLH, those with recurrent upper airway infections and documented hypogammaglobulinemia, and those with lymphoma diagnosed at an early age. There may be a family history of XLP1, and it has been estimated that 35% of patients have been diagnosed as a 
+
+result of family history in the absence of a known previous EBV infection. Peripheral blood flow cytometry is the most rapid way to evaluate SAP expression and the demonstration of deficient expression in lymphocytes will strongly suggest the diagnosis of XLP1. Genetic sequencing can then be performed to identify deletions, splice site, nonsense, and missense changes in _SH2D1A_ . 
+
+## **Treatment** 
+
+Antiviral agents are not effective for EBV-associated disease; rituximab may enhance viral clearance but is not curative. Allogeneic hematopoietic stem cell transplantation (HSCT) is the only definitive treatment for XLP1. Other treatment approaches are targeted to the patient’s specific clinical phenotype. Patients with HLH are treated with standardized protocols for HLH including steroids and chemotherapy. Routine intravenous immunoglobulin replacement is used for patients with hypogammaglobulinemia or recurrent infections. 
+
+Improvements in protocols for chemotherapy and HSCT have decreased the overall mortality of XLP1.
+
+<!-- p.1149 -->
+
+# **POEMS (Peripheral Neuropathy, Organomegaly, Endocrinopathy, Monoclonal Gammopathy, and Skin) Syndrome** 
+
+POEMS syndrome results from an underlying disorder of plasma cells and is named for a subset of its defining clinical features: peripheral neuropathy, organomegaly (hepatosplenomegaly), endocrinopathy, monoclonal gammopathy, and skin changes. The acronym is misleading because it neither includes all the important clinical features of this condition, nor is it necessary for a patient to exhibit all the listed features to be diagnosed with POEMS syndrome. 
+
+POEMS syndrome is often a paraneoplastic syndrome in patients with osteosclerotic myeloma. Patients with POEMS syndrome can be _simultaneously_ diagnosed with **multicentric Castleman disease (POEMS-MCD)** , both of which result from pathological plasma cells. 
+
+The pathophysiology of POEMS syndrome is unknown but may result from clonal expansion of plasma cells which produce monoclonal gammopathy and the excessive production of proinflammatory and angiogenic cytokines. Plasma cells in those with POEMS contain substantial amounts of vascular endothelial growth factor (VEGF); this factor correlates with disease activity. Potential VEGF effects on target endothelial cells include increased vascular permeability and angiogenesis. Increased serum levels of matrix metalloproteinases are also present and are thought to contribute to the development of the peripheral neuropathy that is the hallmark of this syndrome. 
+
+## **Clinical Features** 
+
+Progressive peripheral neuropathy is the prominent clinical feature in POEMS syndrome and is similar to chronic inflammatory demyelinating polyneuropathy (CIDP). Sensory abnormalities of paresthesia or hyperesthesia and pain are often the first symptom. Distal extremity weakness follows with foot drop, difficulty ambulating, eventual muscle atrophy, and areflexia. Hypogonadism and thyroid abnormalities are the most common endocrinopathies identified, with adrenal insufficiency or parathyroid dysfunction also possible. Skin abnormalities may include hemangiomas, hypertrichosis, hyperpigmentation, flushing, acrocyanosis, and clubbing. Additional potential clinical features include sclerotic bone lesions, hepatosplenomegaly, lymphadenopathy, papilledema, extravascular volume overload leading to ascites or peripheral edema, thrombocytosis, polycythemia, hypercoagulability, and abnormal pulmonary function tests. 
+
+## **Diagnosis** 
+
+The diagnosis of POEMS requires the presence of both a demyelinating polyneuropathy and a monoclonal gammopathy (Table 50.6). POEMS is often first suspected in patients with a demyelinating polyneuropathy confirmed 
+
+### **TABLE Diagnostic Criteria for Polyneuropathy 50.6 Organomegaly Endocrinopathy Monoclonal Gammopathy and Skin (POEMS) Syndrome*** 
+
+|Mandatory<br>major criteria|Polyneuropathy (typically<br>demyelinating)|
+|---|---|
+||Monoclonal plasma cell proliferative<br>disorder (almost always lambda)|
+|Other major|Castleman disease<sup>†</sup>|
+|criteria||
+|(1 required)|Sclerotic bone lesions|
+||Increased levels of vascular<br>endothelial growth factor|
+|Minor criteria|Organomegaly (splenomegaly,<br>hepatomegaly, or<br>lymphadenopathy)|
+||Extravascular volume overload<br>(edema, pleural effusion, or ascites)|
+||Endocrinopathy (adrenal, thyroid,<sup>‡</sup><br>pituitary, gonadal, parathyroid,<br>pancreatic<sup>‡</sup>)|
+||Skin changes (hyperpigmentation,<br>hypertrichosis, glomeruloid<br>hemangiomata, plethora,<br>acrocyanosis flushing white nails)|
+||, l,<br>Papilledema<br>Thrombocytosis/polycythemia<sup>§</sup>|
+|Other symptoms<br>and signs<br>*The diagnosis is confir<br>3 other major criteria, a<br>†The Castleman disea<br>separately.<br>‡Diabetes mellitus or t    i<br>criterion.|Clubbing, weight loss, hyperhidrosis,<br>pulmonary hypertension/restrictive<br>lung disease, thrombotic diatheses,<br>diarrhea, low vitamin B12values<br>imed when both mandatory major criteria, 1 of the<br>nd 1 of the 6 minor criteria are present.<br>se variant of POEMS should be considered<br>hyroid disease alone is insufficient to meet this|
+|§Anemia or thromboc<br>Castleman disease vari<br>From Dispenzieri A, Ko<br>and investigative work-<br>119-139 (Table 1, p. 12|ytopenia are very unusual in POEMS unless<br>ant is present.<br>urelis T, Buadi F. POEMS syndrome: diagnosis<br>up._Hematol Oncol Clin North Am_. 2018;32(1):<br>0).|
+
+
+with nerve conduction studies and, in some instances, a nerve biopsy. Due to the similarities with CIDP, POEMS should be considered in all patients with CIDP, especially if the CIDP has been refractory to the usual treatment. Serum/urine protein electrophoresis will establish the presence of an M-protein and the presence of these two primary features (demyelinating polyneuropathy and monoclonal gammopathy) suggests the diagnosis of POEMS. Additional laboratory evaluation may reveal endocrinopathies, polycythemia, or thrombocytosis and imaging can be performed to screen for potential sclerotic bone lesions. Serum VEGF may be elevated. Histology is not required for diagnosis and is not specific. If performed, a lymph node biopsy will reveal hyaline vascular histopathological features
+
+<!-- p.1150 -->
+
+that are identical to those seen in Castleman disease; bone marrow biopsy will reveal clonal plasma cells with megakaryocyte hyperplasia and atypia. 
+
+## **Treatment** 
+
+Successful treatment in POEMS syndrome targets the underlying clonal plasma cell disorder. Patients with two or fewer bone lesions are treated with localized radiation therapy, while those with either more bone lesions or clonal plasma cells on an iliac crest biopsy receive systemic chemotherapy. Patients with osteosclerotic lesions and significant peripheral neuropathy are treated with standard myeloma therapy, which involves high-dose chemotherapy with autologous stem cell transplant (ASCT). Anti-IL-6 therapy with siltuximab, anti-CD20 therapy with rituximab, and anti-VEGF treatment with bevacizumab have also been used as adjunctive treatment with varying efficacy. 
+
+# **Autoimmune Lymphoproliferative Syndrome (ALPS)** 
+
+Autoimmune lymphoproliferative syndrome (ALPS) is an inherited lymphoproliferative disorder resulting from heterozygous variants in the FAS receptor signaling pathway. Inheritance of these variants is usually autosomal dominant, but cases of autosomal recessive transmission and sporadic variants have also been reported. Disease penetrance is variable; it is not clear why some individuals with variants develop ALPS and others do not. 
+
+In unaffected individuals, T-cell activation induces the expression of FAS ligand (FASL), which then bind to and activate FAS receptors. This process recruits the FASassociated protein with death domain (FADD) and procaspases 8 and 10, which combine with FAS to create the death-inducing signaling complex (DISC). The DISC sends pro-apoptotic signals by activating terminal caspases, which completes the process known as activation-induced cell death (AICD). In the absence of appropriate FAS-mediated apoptosis, patients with ALPS develop an expanded population of autoreactive CD4− and CD8− (double-negative) T cells. These cells, which are positive for the α/β T-cell receptor (TCR), are unusually proliferative due to upregulated growth pathways including mammalian target of rapamycin (mTOR) signaling. 
+
+## **Clinical Features** 
+
+The accumulation of autoreactive B and T lymphocytes and nonmalignant lymphoid hyperplasia lead to the clinical features of ALPS, which consist of variable combinations of lymphoproliferation, autoimmunity, and immune dysregulation. The median age of clinical symptom onset varies from infancy to 3 years. Patients most often present with profound lymphadenopathy and splenomegaly. Autoimmune cytopenias 
+
+are the second most common manifestation (hemolytic anemia, thrombocytopenia, and/or neutropenia). The cytopenias may occur first, and in these patients, pallor, fatigue, petechiae, and ecchymoses will often be the first indications of disease. Up to 50% of individuals diagnosed with **Evans syndrome** (combined autoimmune hemolytic anemia and thrombocytopenia) will eventually be diagnosed with ALPS (Fig. 50.12). Hypergammaglobulinemia is characteristic. There is also a significantly increased risk of lymphoma, particularly Epstein-Barr virus-associated non-Hodgkin lymphoma. 
+
+Less common disease features include glomerulonephritis, hepatitis, uveitis, and urticarial rashes. ALPS may also present concomitantly with other autoimmune conditions including systemic lupus erythematosus, thyroiditis, and Guillain-Barré syndrome. 
+
+## **Diagnosis** 
+
+The diagnosis of ALPS is suggested by massive adenopathy with splenomegaly; it should also be considered in all of those with unexplained autoimmune cytopenias. Peripheral blood flow cytometry revealing an increased number of CD4− and CD8− (double-negative) T cells is required for the diagnosis (Table 50.7) and can be combined with assays to quantitate defective lymphocyte apoptosis. Genetic sequencing to identify ALPS-related genes will reveal a pathogenic variant 70% of the time. Lymph node biopsy is not required for the diagnosis but may be performed to exclude malignancy and other causes of lymphoproliferation. The biopsy will reveal follicular hyperplasia with an exuberant paracortical expansion of lymphocytes, plasma cells, and immunoblasts. Immunohistochemical staining will demonstrate characteristic paracortical double-negative T cells. 
+
+Diagnostic subtypes of ALPS are listed in Table 50.8, and ALPS-related disorders are noted in Table 50.9. An algorithm for the diagnosis of ALPS is shown in Figure 50.13. Imaging is noted in Figure 50.14 
+
+## **Treatment** 
+
+Treatment for ALPS includes the combination of corticosteroids and immunomodulatory agents including mycophenolate mofetil, sirolimus, and rituximab. The treatment of ALPS-related cytopenias may also include intravenous immunoglobulin and recombinant granulocyte-colony stimulating factor. In severe cases that do not respond to immunosuppressive regimens, hematopoietic stem cell transplant has been effective. Many patients exhibit a favorable treatment response with respect to the splenomegaly, lymphadenopathy, and autoimmune phenomena. A major risk in patients with ALPS is splenectomy-related sepsis; secondary lymphomas have also been reported. 
+
+# **Kimura Disease** 
+
+Kimura disease (eosinophilic hyperplastic lymphoid granuloma) (KD) is a rare benign lymphoproliferative disorder.
+
+<!-- p.1151 -->
+
+![](../../figures/fig_p1152_01.jpg)
+
+
+- **Fig. 50.12** Autoimmune lymphoproliferative syndrome-like illness: patient classification according to 
+
+- clinical and laboratory manifestations. (A) Alternative classification of patients with ALPID with sufficient genetic diagnostics (n = 240) to the diagnostic categories of autoimmune lymphoproliferative syndromelike (lymphoproliferation and autoimmune cytopenia), Evans syndrome (autoimmune hemolytic anemia and immune thrombocytopenia), and lymphoproliferative common variable immunodeficiency (hypogammaglobulinemia and lymphoproliferation). The diagnostic categories were not mutually exclusive. (B) Distribution of diagnoses among patients classified according to one of the three diagnostic categories versus all patients with ALPID. _AD-ALPID,_ Autosomal-dominant ALPID; _ALPID,_ autoimmune lymphoproliferative immunodeficiencies; _ALPID-U,_ unresolved ALPID; _IEI,_ inborn error of immunity; _sFasL,_ soluble Fas ligand. *Categorized as AD-ALPID.  (Modified from Hagele P, Staus P, Scheible R, et al. Diagnostic evaluation of paediatric autoimmune lymphoproliferative immunodeficiencies [ALPID]: a prospective cohort study. _Lancet Haematol_ . 2024;11:e114-e126 [Fig. 3, p.e122-e123].) 
+
+### **TABLE 50.7 Revised Diagnostic Criteria for the Diagnosis of Autoimmune Lymphoproliferative Syndrome (ALPS)** 
+
+#### **Required*** 
+
+1. Chronic (>6 months), nonmalignant, noninfectious lymphadenopathy or splenomegaly or both 
+
+2. Elevated CD3<sup>+</sup> TCRαβ<sup>+</sup> CD4<sup>−</sup> CD8<sup>−</sup> double negative T cells (≥1.5% of total lymphocytes or 2.5% of CD3<sup>+</sup> lymphocytes) in the setting of normal or elevated lymphocyte counts 
+
+#### **Accessory*** 
+
+Primary 
+
+1. Defective lymphocyte apoptosis (in 2 separate assays) 
+
+2. Somatic or germline pathogenic variants in _FAS_ , _FASLG_ , or _CASP10_ 
+
+Secondary 
+
+1. Elevated plasma sFASL levels (>200 pg/mL) OR elevated plasma interleukin-10 levels (>20 pg/mL) OR elevated serum or plasma vitamin B12 levels (>1500 ng/L) OR elevated plasma interleukin-18 levels >500 pg/mL 
+
+2. Typical immunohistological findings as reviewed by an experienced hematopathologist 
+
+3. Autoimmune cytopenias (hemolytic anemia, thrombocytopenia, or neutropenia) AND elevated immunoglobulin G levels (polyclonal hypergammaglobulinemia) 
+
+4. Family history of a nonmalignant/noninfectious lymphoproliferation with or without autoimmunity 
+
+*A definitive diagnosis is based on the presence of both required criteria plus one primary accessory criterion. A probable diagnosis is based on the presence of both required criteria plus one secondary accessory criterion. 
+
+From Oliveira JB, Bleesing JJ, Dianzani U, et al. Revised diagnostic criteria and classification for the autoimmune lymphoproliferative syndrome (ALPS): report from the 2009 NIH International Workshop. _Blood_ . 2010;116(14):e35-e40 (Table 2, p. e36).
+
+
+![](../../figures/vfig_p1151_01.jpg)
+
+
+<!-- p.1152 -->
+
+|**TABLE**<br>**50.8**|
+|---|
+
+
+### **Diagnostic Subtypes of Autoimmune Lymphoproliferative Syndrome (ALPS)** 
+
+|Previous|Revised||i|
+|---|---|---|---|
+|Nomenclature|Nomenclature|Gene|Definition|
+|ALPS type 0|ALPS-FAS|_FAS_|Patients fulfill ALPS diagnostic criteria and have germline homozygous<br>variants in_FAS_.|
+|ALPS type Ia|ALPS-FAS|_FAS_|Patients fulfill ALPS diagnostic criteria and have germline heterozygous<br>variants in_FAS_.|
+|ALPS type Im|ALPS-sFAS|_FAS_|Patients fulfill ALPS diagnostic criteria and have somatic variants in_FAS_.|
+|ALPS type Ib|ALPS-FASLG|_FASLG_|Patients fulfill ALPS diagnostic criteria and have germline variants in FAS<br>ligand.|
+|ALPS type IIa|ALPS-CASP10|_CASP10_|Patients fulfill ALPS diagnostic criteria and have germline variants in<br>caspase 10.|
+|ALPS type III|ALPS-U|Unknown|Patients meet ALPS diagnostic criteria; however, genetic defect is<br>undetermined (no FAS, FASL, or CASP10 defect).|
+|From Oliveira JB, Blee          i<br>from the 2009 NIH Inte|sing JJ, Dianzani U, et al     i<br>rnational Workshop._Bloo_|. Revised diagn   i<br>_d_. 2010;116(14|ostic criteria and classification for the autoimmune lymphoproliferative syndrome (ALPS): report<br>):e35-e40 (Table 3, p. e38).|
+
+
+KD most commonly affects the salivary glands, lymph nodes, and subcutaneous tissue of the head and neck, and has been reported most often in males of Asian descent. 
+
+The etiology of KD is unknown; various triggers such as allergies, infections, tissue injury, and autoimmunity may trigger immunological dysregulation involving IgE-mediated type 1 hypersensitivity and T helper (Th) 2 cytokine release. Peripheral blood mononuclear cells often exhibit elevated mRNA expression of these Th 2 cytokines, including interleukin (IL)-4, IL-5, and IL-13. 
+
+eosinophilia, a history of atopy, and/or the presence of renal disease may increase the suspicion of KD. Imaging studies, particularly MRI, may be helpful in delineating the extent of the lesion(s) and identifying a potential biopsy site. Tissue is necessary for diagnosis and to exclude other diseases such as lymphoma or other lymphoproliferative diseases; biopsy of either a lymph node or an associated mass will reveal characteristic findings of lymphoid follicular hyperplasia with eosinophilic infiltration, as well as eosinophilic abscesses, fibrosis, sclerosis, and angiogenesis. 
+
+## **Clinical Features** 
+
+Patients often exhibit a triad of features: either painless unilateral cervical adenopathy or a subcutaneous mass in the head and neck, specific histological patterns, and laboratory findings of peripheral blood eosinophilia and elevated serum IgE levels. There is frequently a history of atopy. Masses may occur outside of the head and neck region, such as the groin, breast, orbit, and extremities, and may be locally aggressive. 
+
+KD may affect the kidneys in a variety of ways including minimal change nephrotic syndrome, acute tubular necrosis, focal and segmental glomerulosclerosis, membranous glomerulonephritis, membranoproliferative glomerulonephritis, and eosinophilic tubulointerstitial nephritis. Other features may include skin irritation and pruritus secondary to an inflammatory infiltration of nerve fibers. 
+
+## **Treatment** 
+
+Treatment consists of surgical resection and/or corticosteroids. The recurrence rate after surgical resection is estimated to range from 30–100%. Immunomodulatory and immunosuppressive therapy has been employed in cases with features associated with a higher recurrence risk: tumor diameter ≥3 cm, symptom duration of 5 years or longer, higher peripheral eosinophil counts, and higher elevations of serum IgE. Cyclosporine, mycophenolate, leflunomide, tacrolimus, and methotrexate have all been utilized. Anti-IgE (omalizumab), anti-IL-4/IL-13 (dupilumab), anti-IL-5 receptor (benralizumab), and anti-IL-5 (mepolizumab) antibody treatment have also been effective anecdotally. 
+
+# **Kikuchi Disease** 
+
+## **Diagnosis** 
+
+There are no accepted diagnostic criteria for Kimura disease. The disease should be suspected in any individual with unexplained soft tissue masses of the head and neck with lymphadenopathy or salivary gland enlargement. Peripheral 
+
+Kikuchi-Fujimoto disease (KFD) **(histiocytic necrotizing lymphadenitis)** is characterized by subacute necrotizing localized lymphadenopathy, most often affecting the posterior cervical lymph nodes. The etiology and pathogenesis of KFD are unknown. It is speculated that KFD, like other idiopathic inflammatory conditions, represents an immune
+
+<!-- p.1153 -->
+
+**TABLE 50.9** 
+
+### **Autoimmune Lymphoproliferative Syndrome (ALPS)-Related Syndromes** 
+
+|Disease|Nomenclature|Gene|Clinical Features|Laboratory Biomarkers|Potential<br>Targeted Therapies|
+|---|---|---|---|---|---|
+|Ras-associated<br>autoimmune<br>leukoproliferative<br>disorder|RALD|Somatic_NRAS_and_KRAS_variants<br>RAS markedly decreases Bim<br>protein expression leading to<br>impaired lymphoid withdrawal<br>and T-cell receptor (TCR)-<br>induced apoptosis.|Primary immunodeficiency disorder<br>of defective apoptosis leading to<br>lymphadenopathy, massive<br>splenomegaly, increased circulating<br>B cells, hypergammaglobulinemia,<br>and autoimmunity increased risk for<br>hematopoietic malignancies.|Persistent absolute or relative<br>monocytosis,<br>hypergammaglobulinemia,<br>B lymphocytosis<br>Does not exhibit elevated<br>“double negative T cells”<br>(DNTs), vitamin B12<br>Activating somatic variants in<br>_KRAS_or_NRAS_|<br>Mitogen-activated<br>pathway kinase<br>(MAPK) inhibitors<br>(for example,<br>trametinib),<br>mammalian target of<br>rapamycin (mTOR)<br>inhibitors (sirolimus,<br>everolimus)|
+|Caspase-8 deficiency<br>state|CEDS|Loss-of-function variant in<br>_CASP8_thought to play a<br>dual role in the induction of the<br>nuclear factor-kappa B (NF-kB)<br>transcription factor during<br>lymphocyte activation as well<br>as in apoptosis mediated by<br>the Fas death-inducing<br>signaling complex (DISC)|Exhibit lymphoproliferation and<br>apoptosis defects observed in<br>ALPS but manifests immunodeficiency<br>rather than autoimmunity; recurrent<br>sinopulmonary infections. May show<br>multiorgan lymphocytic infiltration with<br>increased age. Possible early-onset<br>colitis.|Serum Ig levels, antibody<br>function, lymphocyte<br>activation<br>Defective activation of T, B<br>and natural killer (NK) cells<br>_CASP8_deficiency||
+|Fas-associated death<br>domain deficiency|_FADD_deficiency|AR,_FADD_deficiency|Characterized by severe bacterial and<br>viral infections, congenital heart<br>defects and recurrent episodes of<br>fever, liver dysfunction, and seizures|_FADD_deficiency||
+|PRKCD deficiency|Protein kinase C<br>delta_(PRKCD)_<br>deficiency|AR,_PRKCD_primary<br>immunodeficiency. Increased B<br>cell proliferation and T and NK<br>cell activation defects.|Characterized by recurrent<br>infections, lymphadenopathy,<br>hepatosplenomegaly, autoimmunity,<br>and NK cell dysfunction; early onset<br>SLE in some patients.|IL-10 overexpression by B<br>cells|mTOR inhibitors|
+|Activated PI3K delta<br>syndrome|APDS, also known<br>as PASLI|Heterozygous gain-of-function<br>variants in_PI3_KCD or_PI3_KR1|Recurrent respiratory infections and<br>increased susceptibility to viral<br>infections with both B- and T-cell<br>defects|Decreased naïve T cells, low<br>IgG, IgA, and normal or<br>elevated IgM||
+|Gain-of-function<br>variants in signal<br>transducer and activator<br>of transcription 1 defect|<br>GOF_STAT1_<br>defect|_STAT1_—gain-of-function variant|Chronic mucocutaneous candidiasis,<br>recurrent_Staphylococcus aureus_<br>infections, cerebral aneurysms, and<br>multiple autoimmune features|Decreased TH17 response|JAK/STAT inhibitors<br>(for example,<br>ruxolitinib)|
+|Gain-of-function<br>variants in signal<br>transducer and activator<br>of transcription 3|<br>GOF_STAT3_—<br>variants|_STAT3_—gain-of-function variant|Lymphoproliferation and childhood-<br>onset autoimmunity thought to result<br>from dysregulated cytokine signaling<br>and interstitial lung disease||Anti-IL-6R monoclonal<br>antibody<br>(tocilizumab)|
+
+
+_ALPS-CASP10,_ ALPS caused by caspase-10 variants; _ALPS-FAS,_ ALPS caused by germline FAS variants; _ALPS-FASLG,_ ALPS caused by variants in FAS ligand; _ALPS-sFAS,_ ALPS caused by somatic FAS variants; _ALPSU,_ ALPS that fulfills criteria buts lacks any identifiable variant; _AR,_ autosomal recessive; _BENTA,_ B cell expansion with NF-κB and T cell anergy; _RALD,_ RAS-associated autoimmune leukoproliferative disorder. From Bosco de Oliveria Filho J. Autoimmune lymphoproliferative syndrome. In: Sullivan KE, Stiehm ER, eds. _Stiehm’s Immune Deficiencies_ . 2nd ed. Philadelphia: Elsevier; 2020 (Table 24.1, p. 574).
+
+<!-- p.1154 -->
+
+##### **Proposed genetic work-up of ALPID patients** 
+
+
+![](../../figures/fig_p1155_03.jpg)
+
+
+
+![](../../figures/vfig_p1154_01.jpg)
+
+**Fig. 50.13** Proposed genetic workup of patients with autoimmune lymphoproliferative immunodeficiencies (ALPID). _AD,_ Autosomal dominant; _CNV,_ copy number variation; _DNT,_ double negative T cells; _NGS,_ next-generation sequencing; _SMu,_ somatic variant.  (From Magerus A, Rensing-Egl A, Rao K, et al. Autoimmune lymphoproliferative immunodeficiences [ALPIDs]: a proposed approach to redefining ALPS and other lymphoproliferative immune disorders. _J Allergy Clin Immunol_ . 2024;153[1]:67-76 [Fig. 1, p. 73].) 
+
+
+![](../../figures/fig_p1155_05.jpg)
+
+
+**Fig. 50.14** Lymphadenopathy and splenomegaly in ALPS revealed by fluorodeoxyglucose (<sup>18</sup> F) positron emission tomography (PET) scan images. Note the extensive cervical adenopathy and splenomegaly. (From Bosco de Oliveria Filho J. Autoimmune lymphoproliferative syndrome. In: Sullivan KE, Stiehm ER, eds. _Stiehm’s Immune Deficiencies_ . 2nd ed. Elsevier: Philadelphia; 2020 [Fig. 24.3, p. 579].) 
+
+response to multiple potential antigens in a genetically predisposed individual. The disease has been associated with the human leukocyte antigen (HLA) class II alleles HLADPA1 and HLA-DPB1, which are found more often in patients of Asian descent. 
+
+Despite clinical features mimicking viral infection, no study has proven a causal relationship between a virus and KFD. KFD has been identified in association with autoimmune conditions including **systemic lupus erythematosus (SLE)** and **granulomatosis with polyangiitis (GPA)** ; serological autoantibodies associated with these systemic diseases are not consistently identified in those with KFD. KFD has also been described in the setting of a wide range of other pathological conditions, suggesting that KFD is a nonspecific, reactive lymphoproliferative condition to a variety of stimuli. 
+
+## **Clinical Features** 
+
+KFD is more common in Asian populations but occurs in all racial and ethnic groups. It is most common in adults younger than 40 years, rarely occurs under the age of 10, but can occur at any age. There is a slight female predominance. Children have exhibited more severe clinical features including protracted fevers. KFD most often causes cervical lymphadenopathy and mild fever which evolve over several weeks. The cervical lymph nodes are affected most; other nodes in the axillary and/or supraclavicular regions may also be involved. The lymph nodes are tender
+
+<!-- p.1155 -->
+
+and painful and there may be a sore throat. Less common symptoms may include vomiting, weight loss, headache, arthralgias, night sweats, and upper respiratory symptoms. Involvement of extranodal sites, such as skin (nonspecific erythematous papules and erythema multiforme) and bone marrow, has rarely been reported. Laboratory testing may be normal or may reveal mild nonspecific abnormalities such as anemia, other cytopenias, or elevated serum inflammatory markers. Some patients have features of SLE at presentation; some develop SLE after an initial episode of isolated KFD. 
+
+## **Diagnosis** 
+
+KFD should be considered in those developing unexplained painful, tender posterior cervical adenopathy evolving over several weeks in the absence of identified infectious causes, or in those with similar symptoms and signs suggestive of adenitis that is not responding to antibiotic treatment. The diagnosis is made with histology obtained with an _excisional_ lymph node biopsy. The biopsy will reveal follicular hyperplasia with well-circumscribed areas of necrosis within an expanded paracortex. There will be a large accumulation of histiocytes and clusters of plasmacytoid dendritic cells at the edge of this necrosis, and the necrotic foci contain karyorrhectic nuclear debris and crescentic histiocytes. Thrombosed vessels are also frequently seen at the periphery of the necrotic zones. Neutrophils or eosinophils are typically not present. Immunohistochemical staining will demonstrate histiocytes that stain positive for lysozyme, myeloperoxidase, CD68, CD163, and CD4. 
+
+**SLE lymphadenopathy** is difficult to distinguish histologically from KFD. _Overlapping_ features include necrotic foci surrounded by histiocytes with an absence of neutrophils and eosinophils. Identification of hematoxylin bodies is more specific for SLE lymphadenopathy. Assessment of additional clinical and laboratory features will distinguish SLE from isolated KFD; there will be some individuals with the simultaneous onset of both conditions. 
+
+## **Treatment** 
+
+KFD is a benign, self-limited disease, and will usually resolve within several months with symptomatic treatment alone. The recurrence rate is approximately 4%. Corticosteroids are used in patients with a more severe clinical course or with relapsing disease. Anakinra (IL-1 receptor antagonist) has also been effective in patients with recurrent KFD. 
+
+# **Rosai-Dorfman-Destombes Disease** 
+
+Rosai-Dorfman-Destombes disease (RDD) is a _histiocytic_ disorder that typically causes massive painless bilateral cervical lymphadenopathy in children and young adults. Extranodal involvement occurs in approximately 40% of patients and may affect a variety of sites including the parotid glands, bone, skin, sinuses, and thyroid gland. 
+
+The etiology of RDD is incompletely understood, complex, and variable. There is some evidence of associations with viral infections, but no proven infectious trigger has been identified. Pathogenic variants in several genes including _KRAS, MAP2K1, NRAS, ARAF, FAS,_ and _SLC29A3_ have been identified in patients with RDD. The _SLC29A3_ variants have been associated with several familial forms of the disease. **Faisalabad syndrome** is one such form and has features of sensorineural deafness, short stature, and generalized lymphadenopathy. **H syndrome** is another familial form and is associated with hyperpigmentation, hypertrichosis, hepatosplenomegaly, hearing loss, heart anomalies, hypogonadism, short stature, hyperglycemia/diabetic mellitus, and hallux valgus/flexion contractures. Variants in _FAS_ result in autoimmune lymphoproliferative syndrome (ALPS) which can occur in combination with RDD. RDD has also been associated with lymphomas and other malignancies, as well as autoimmune diseases such as SLE and JIA or with other immune-mediated disorders such as IgG4-RD. 
+
+## **Clinical Features** 
+
+The average age of onset of RDD is 20 years; it is more common in males and those of African descent. Symptoms and signs vary depending on the extent of involvement of lymph nodes and extranodal tissues (Table 50.10). Classic nodal RDD is associated with bilateral, massive, painless cervical adenopathy, sometimes with fever, night sweats, and weight loss. Axillary, inguinal, and mediastinal lymph nodes may also be enlarged. Extranodal disease is less common and may affect multiple sites with the skin, nasal cavity, and orbits most often involved. Skin lesions are typically papules, nodules, or plaques that may be red, yellow, or brown and are not painful or pruritic. Orbital masses, nasal obstruction, oral nodules, and tongue enlargement may occur (Fig. 50.15). Lung involvement is rare and may cause interstitial lung disease, pleural effusions, and pulmonary nodules. Osteolytic or mixed osteolytic and sclerotic bone lesions may occur. The kidneys are affected in 4%; this may result in either a discrete mass or diffuse kidney infiltration, potentially associated with flank pain, hematuria, renal failure, and renal vein thrombosis. Central nervous system (CNS) involvement is uncommon and causes headaches, seizures, and motor sensory abnormalities as a result of intracranial and/or spinal inflammatory masses. Gastrointestinal disease is also uncommon and may affect the ileocecal area and colon. 
+
+## **Diagnosis** 
+
+The disorder should be suspected in children and young adults with massive cervical adenopathy, with or without evidence of systemic or extranodal disease. Laboratory testing will reveal nonspecific evidence of inflammation with leukocytosis, elevated erythrocyte sedimentation rate, hypergammaglobulinemia, and sometimes autoimmune hemolytic anemia. Whole-body imaging with PET, CT, or MRI should
+
+<!-- p.1156 -->
+
+
+#### **TABLE 50.10** Clinical S i ymptoms and Signs of Nodal and i Extranodal RDD—Organ and Tiss i ue Specified
+
+|Site|Incidence|Symptoms/Signs|Radiologic Findings|
+|---|---|---|---|
+|**Nodal**||||
+|Lymph node|57% of cases|Bilateral cervical lymphadenopathy<br>or other LN sites, manifested with<br>palpable masses|Enlarged LNs|
+|**Extranodal**||||
+|Skin|10% of cases|Painless, macular, slow-growing<br>papules, subcutaneous nodules.<br>Any skin site can be affected.|Nodule(s) or mass(es)|
+|CNS|<5% of cases (75% intracranial and<br>25% spinal lesions). Cervical and<br>thoracic regions are the most<br>common areas affected in spinal-<br>dural or epidural lesion|Headaches, seizures, gait difficulty.<br>In familial cases, there is an<br>association with damage to the<br>auditory nerve pathway and<br>deafness.|Dural lesion, extra-axial,<br>homogeneously enhancing,<br>mimicking nodular<br>meningioma; or<br>parenchymal (infratentorial)<br>involvement|
+|Orbit|11% of cases|Presents as a mass in different parts<br>of the orbit, e.g., conjunctiva,<br>lacrimal glands, and cornea. It can<br>also present as uveitis.|Orbital mass|
+|Head and neck|11% of cases involving nasal cavity,<br>more common among Asians|Nasal obstruction, epistaxis, and<br>nasal dorsum deformity|Nodules, swelling, mass(es)|
+|Intrathoracic|2% of patients, with pulmonary<br>disease concurrent<br>lymphadenopathy or systemic<br>disease. Cardiac involvement<br>is extremely rare~0.1–0.2%<br>of cases.|Chronic dry cough, progressive<br>dyspnea, or acute respiratory<br>failure. RDD affecting lower<br>respiratory tract have a high<br>mortality rate, reaching 45%.|Pulmonary nodular<br>consolidation in all lobes of<br>the lungs; pleural effusion<br>with fibrosis or nodules|
+|Retroperitoneal/<br>genitourinary<br>tract|Kidneys are affected in approximately<br>4% of cases.|Abdominal or flank pain, fullness,<br>hematuria, renal failure,<br>hypercalcemia, and/or nephrotic<br>syndrome|Mass(es), hydronephrosis,<br>urethral obstruction|
+|Gastrointestinal<br>tract|<1% of cases, commonly in middle-<br>aged women with concurrent nodal<br>or extranodal affection|Abdominal pain, constipation,<br>hematochezia, and intestinal<br>obstruction|Mass(es)|
+|Bone|5 to 10% of cases, usually with<br>concurrent nodal affection|Bone pain and, rarely, pathological<br>fractures|Cortex-based osteolytic lesion,<br>commonly long bones,<br>vertebrae, and sacrum|
+
+
+_CNS,_ Central nervous system; _LN,_ lymph node; _RDD,_ Rosai–Dorfman disease. From Younes IE, Sokol L, Zhang L. Rosai-Dorfman disease between proliferation and neoplasia. _Cancers_ . 2022;14:5271 (Table 1). 
+
+be performed when the disease is suspected to identify extranodal involvement and assess the extent of disease. If CNS disease is suspected, cerebrospinal fluid analysis should be performed and may reveal a lymphocytic pleocytosis, elevated protein, decreased glucose, and emperipolesis (histiocytes engulfing other blood cells). 
+
+The diagnosis of RDD is made in the appropriate clinical context via histopathology with a biopsy of the most accessible site, most often a lymph node. It is critical to exclude an associated lymphoma or other malignancy, which may be associated with RDD and in which malignant histological changes may be superimposed on pathology that is otherwise consistent with RDD. An affected lymph node 
+
+in RDD will reveal extensive sinusoidal expansion containing an infiltration of large histiocytic cells (Fig. 50.15). These large histiocytes will have pale cytoplasm and a prominent nucleolus. The cortex has sparse follicles with many activated B cells and mature plasma cells. Emperipolesis is not specific to RDD and can appear focally in other histiocytic disorders but is consistent with RDD. RDD histiocytes stain positive for S100, CD68, and CD163; they are CD1a and langerin (CD207) negative, distinguishing RDD from Langerhans cell histiocytosis. If extranodal sites are biopsied, this will typically reveal fewer RDD histiocytes, less emperipolesis, and more fibrosis; however, immunostaining will demonstrate the same cell markers on
+
+<!-- p.1157 -->
+
+![](../../figures/fig_p1158_01.jpg)
+
+
+**Fig. 50.15** Pathological and clinical features of Rosai-Dorfman-Destombes (RDD) disease. (A–E) Lymph node tissue in RDD: biopsy (A–B) and fine-needle aspiration (C–E). (A) Mixed RDD/LCH case with sinus expansion. The large RDD histiocytes display conspicuous emperipolesis with pale cytoplasm, compared with the intermixed LCH cells with dense eosinophilic cytoplasm and convoluted nuclei. (B) The RDD histiocytes show pale watery-clear cytoplasm, a central round nucleus with a conspicuous nucleolus, and emperipolesis. Cell block preparation shows clusters of RDD histiocytes (C) with nuclear and cytoplasmic staining for S100 (D) and fascin (E); the trafficking intact leukocytes are negative. (F) A child with immunodeficiency and RDD with massive cervical lymphadenopathy. (G) RDD of the skin showing red nodular lesions. (H) Tongue enlargement in RDD.  (From Abla O, Jacobsen E, Picarsic J, et al. Consensus recommendations for the diagnosis and clinical management of Rosai-Dorfman-Destombes disease. _Blood_ . 2018;131[26]:2877-2890 [Fig. 2, p. 2880].) 
+
+histiocytes described for the nodal histiocytes. Once a diagnosis of RDD has been made, genetic sequencing should be performed to potentially confirm the presence of variants associated with the disorder. Distinguishing features of other histiocytic disorders is noted in Figure 50.16. 
+
+## **Treatment** 
+
+Up to 50% of cases of sporadic RDD exhibit spontaneous remission. For uncomplicated adenopathy or asymptomatic cutaneous disease, observation may be all that is needed. Surgery may be curative for those with unifocal disease and may also be effective in debulking large lesions. In those with more severe disease, including multifocal extranodal disease, treatment with radiation, corticosteroids, immunomodulation, and chemotherapy have been inconsistently effective and have not reliably resulted in persistent disease remission. 
+
+RDD prognosis correlates with the number of nodal groups involved. While nodal and cutaneous disease outcomes are usually favorable, the prognosis appears poorer for patients with multifocal and extranodal RDD, especially if the disease involves the kidney, liver, or lower respiratory tract. Complications of RDD, such as infections and 
+
+amyloidosis, have been implicated as the cause of death in up to 10% of RDD patients. 
+
+# **Castleman Disease** 
+
+Castleman disease (CD) is a disorder of variable clinical subtypes which share the combination of systemic inflammation associated with characteristic lymph node histopathological features. CD may be _unicentric_ (UCD), affecting a single lymph node or a single region of nodes, or _multicentric_ (MCD), in which multiple lymph node regions are affected. 
+
+**UCD** represents 30% of all CD, most commonly affects cervical, mediastinal, and abdominal/pelvic lymph nodes, and has a favorable outcome. Patients are often younger (average age 30–40 years) than those with MCD (average age 50–60 years) and are typically asymptomatic, with the enlarged node identified incidentally on imaging studies. 
+
+**MCD** represents 70% of cases, may involve any lymph node region, and is usually symptomatic with fever, night sweats, and weight loss, and often cytopenias, skin abnormalities, and multiorgan dysfunction. MCD has been proposed to consist of 4 subtypes, based on the clinical features and the potential etiology. One subtype is associated with human
+
+<!-- p.1158 -->
+
+|||Histiocytic|
+|---|---|---|
+|||infiltrates<br> <br>|
+||Diagnosis of a his<br>m<br>Radiol<br>susp<br>histiocyt<br>|Evaluation by<br>hematopathology<br>Abnormal:<br>Subclassify further<br>tiocytic neoplasm requires integration of clinical, radiologic,<br>orphologic, phenotypic, and genetic findings<br>ogy/clinical<br>icion for<br>ic neoplasm<br>Pathology suspicion<br>for histiocytic<br>neoplasm<br>**Immunohistochemistry**<br><br> <br>|
+||**Rosai-Dorfman**<br>**disease**|**Erdheim-Chester**<br>**disease**<br>**Langerhans cell**<br>**histiocytosis**<br>**ALK-positive**<br>**histiocytosis**|
+|**CD68**|+|+<br>+<br>+|
+|**CD163**|+/−|+<br>−/+<br>+|
+|**Cyclin D1**|+|+/−<br>+<br>+|
+|**S100**|+|−/+<br>+<br>+/−|
+|**OCT2**|+|−<br>−/+<br>+/−|
+|**Factor XIIla**|+/−|+<br>−<br>+|
+|**CD1a**|−|−<br>+<br>−|
+|**Langerin**|−|−<br>+<br>−|
+|||**Genetic alterations**|
+|**_ALK_fusions**|−|−<br>−<br>+<sup>a</sup>|
+|**_BRAF_V600E**|−<sup>b</sup>|+<sup>c</sup><br>+<sup>c</sup><br>−|
+|**Other MAPK/ERK**|+<sup>b</sup>|+<sup>c</sup><br>+<sup>c</sup><br>−|
+|**alterations**|||
+
+
+
+![](../../figures/vfig_p1158_01.jpg)
+
+**Fig. 50.16** An algorithmic approach for the workup of Rosai-Dorfman disease (RDD) and distinction from other histiocytic neoplasms. +/−, positive in most cases; −/+, negative in most cases.<sup>a</sup> ALK immunohistochemistry (IHC) positivity is a surrogate marker for ALK gene fusion and should be confirmed by RNA sequencing.<sup>b</sup> _BRAF_ V600E is extremely rare in RDD. Variants in other MAPK/ERK pathway genes are present in 30–50% of RDD cases.<sup>c</sup> _BRAF_ V600E variant is present in 50–60% of Erdheim-Chester disease (ECD) and Langerhans cell histiocytosis (LCH) cases, detectable by IHC or next-generation sequencing (NGS). Variants in other MAPK/ERK pathway genes are found by NGS in most _BRAF_ wild-type ECD and LCH cases.  (From Ravindran A, Rech KL. How I diagnose Rosai-Dorfman disease. _Am J Clin Pathol_ . 2023;160:1-10 [Fig. 4, p. 5].) 
+
+herpesvirus 8 infection **(HHV-8-MCD)** (usually in those with HIV); another is associated with the polyneuropathyorganomegaly-endocrinopathy-myeloma protein–skin changes syndrome **(POEMS-associated MCD)** ; a third subtype is known as idiopathic **MCD(iMCD)-TAFRO** (associated with thrombocytopenia, anasarca, fever/elevated C-reactive protein (CRP), renal dysfunction/reticulin myelofibrosis, organomegaly); and a fourth subtype is referred to as iMCD–Not otherwise specified **(iMCD-NOS)** . 
+
+UCD is likely a neoplastic process with evidence suggesting that gain-of-function variants in somatic plateletderived growth factor receptors may result in proliferation 
+
+of follicular dendritic cells and subsequent lymph node enlargement. HHV-8 infection appears to be the cause of some cases of MCD. POEMS-associated MCD, like other forms of POEMS, appears to be the result of a clonal expansion of plasma cells. The etiology of the remaining two subtypes of MCD (iMCD-TAFRO and iMCD-NOS) remains unclear. The cytokine IL-6 appears to be a primary mediator of inflammation in many of those with iMCD, and vascular endothelial growth factor (VEGF) is also elevated; however, IL-6 is not elevated in all patients, not all patients respond to treatment with IL-6 inhibition, and therefore other inflammatory pathways likely play a role in
+
+<!-- p.1159 -->
+
+![](../../figures/fig_p1160_01.jpg)
+
+
+**Fig. 50.17** Classification of Castleman disease. _Triangles_ and _diamond_ represent the relative frequency that each of these pathologies occurs within the different subtypes of CD. The relative green and orange shading reflects the extent to which each of the pathology types contains either hypervascular or plasmacytic pathology. _FDC,_ Follicular dendritic cell.  (From Dispenzieri A, Fajgenbaum DC. Overview of Castleman disease. _Blood_ . 2020;135[16]:1353-1364 [Fig. 1, p. 1354].) 
+
+a subset of patients with iMCD. A potential role for activated T cells and the mammalian target of rapamycin pathway have both been implicated. 
+
+Lymph node histopathology in Castleman disease varies with two histological patterns with features that occur across a spectrum and not entirely exclusive of each other (Fig. 50.17 and 50.18). Atrophic germinal centers with hypervascularization is referred to as the **hyaline vascular/ hypervascular subtype** . Hyalinized vessels penetrate atrophic germinal centers and are surrounded by concentric rings of small lymphocytes in a widened mantle zone (“onion skinning”). Hyperplastic germinal centers with polytypic plasmacytosis is referred to as the **plasmacytic subtype** . This variant displays hyperplastic germinal centers and an interfollicular proliferation of plasma cells. 
+
+## **Clinical Features** 
+
+- **UCD:** UCD can be found in any lymph node, but it most commonly occurs in the mediastinum, cervical nodes, and abdomen/pelvis. The nodes are often found incidentally; some patients may have symptoms resulting from compression of the node on surrounding tissues (e.g., abdominal discomfort, respiratory symptoms). Laboratory test results are often normal, although some may have anemia, hypergammaglobulinemia, and elevated 
+
+serum inflammatory markers. Severe complications of UCD are unusual but can include pulmonary disease, autoimmune hemolytic anemia, and polyneuropathy. 
+
+**MCD:** Patients with MCD most commonly present with constitutional symptoms (fever, weight loss, fatigue), cytopenias, edema or anasarca, and dysfunction of the liver and kidneys. A multitude of other signs and symptoms are possible, some of which will be present more commonly in a specific subtype of MCD (as in iMCDTAFRO or POEMS-associated MCD, where there will be features identified by these acronyms respectively). Hepatosplenomegaly, glomerulonephritis, cutaneous lesions, lymphoid interstitial pneumonitis, endocrinopathies, bronchiolitis obliterans, and peripheral neuropathy may all be present and may remit and recur over time. Patients with iMCD-NOS usually have a milder clinical course than the other forms of MCD, while the iMCD-TAFRO subtype is associated with greater clinical severity, often developing abruptly and with greater potential for rapid deterioration. 
+
+## **Diagnosis** 
+
+The diagnosis of UCD should be considered when a single enlarged lymph node or regional enlargement of lymph nodes is discovered incidentally on imaging studies or during
+
+<!-- p.1160 -->
+
+![](../../figures/fig_p1161_02.jpg)
+
+
+**Fig. 50.18** Histology of Castleman disease. (A–B) HV histopathology of lymph nodes. (A) Low power and (B) high power. There is capsular fibrosis with broad fibrous bands traversing the node; increased number of lymphoid follicles are scattered throughout the cortex and medulla. Mantle zones are composed of concentric rings of small lymphoid cells (“onion skin pattern”). Germinal centers are often depleted of B cells and are predominantly composed of follicular dendritic cells with prominent hyaline deposits. Sclerotic blood vessels penetrating within the germinal centers forming so-called “lollipop lesions” are observed. Follicular-dendritic cells can show dysplastic features. The interfollicular region is composed of prominent high endothelial venules with plump endothelial cells, often surrounded by clusters of plasmacytoid dendritic cells and stromal proliferation. (C–D) Plasmacytic histopathology of lymph nodes. (C) Low power and (D) high power. These are distinguished by the presence of sheets of plasma cells in the interfollicular zone. The interfollicular region can also contain prominent high endothelial venules. Some eosinophils and mast cells may be present. There is follicular/germinal center hyperplasia with sharply defined mantle zones and polarized germinal centers, with frequent mitosis and histiocytes with nuclear debris.  (From Dispenzieri A, Fajgenbaum DC. Overview of Castleman disease. _Blood_ . 2020;135[16]:1353-1364 [Fig. 2, p. 1355].) 
+
+an evaluation for compressive symptoms. The diagnosis of MCD should be considered in patients with nonspecific constitutional symptoms such as fever, fatigue, night sweats, and weight loss, and in those with multiorgan dysfunction and enlargement of one or more lymph nodes. Unexplained anasarca with thrombocytopenia may indicate the possibility of iMCD-TAFRO in a patient with adenopathy and the rapid onset of constitutional symptoms. The presence of peripheral neuropathic symptoms will increase the suspicion of POEMS-associated MCD. The proposed diagnostic criteria for iMCD are shown in Table 50.11 and those for iMCD-TAFRO are shown in Table 50.12. 
+
+Once CD is suspected, laboratory testing should be performed including serum and urine protein electrophoresis with immunofixation, serology for HIV and HHV-8, and imaging studies should include CT scanning of the chest, abdomen, and pelvis or PET/CT to identify regions of lymph node enlargement. Additional testing in patients suspected of iMCD-TAFRO should include an assessment of intravascular coagulation and fibrinolysis, as well as a bone marrow biopsy to evaluate for reticulin fibrosis and megakaryocytic hyperplasia. Lymph node biopsy is then essential to confirm the diagnosis and to exclude malignancy, infectious causes, and other lymphoproliferative processes.
+
+<!-- p.1161 -->
+
+### **TABLE Diagnostic Criteria for Idiopathic Multicentric 50.11 Castleman Disease** 
+
+- Inclusion Criteria Exclusion Criteria **I.  Major Criteria Infection-Related** **<u>(Need Both)</u> Disorders** 
+
+- 1. Histopathological lymph 1. HHV8 node 2. EBV-LPD 
+
+- 2. Enlarged lymph nodes 3. Inflammation and in ≥2 lymph node stations adenopathy by other infection 
+
+- **II.  Minor Criteria (Need $2 of 11 With $1 Laboratory Criterion)** 
+
+- Laboratory **Autoimmune/** 1. Elevated ESR or CRP **Inflammatory** 2. Anemia **Disease** 3. Thrombocytopenia/tosis 1. SLE 4. Renal dysfunction or 2. Rheumatoid arthritis proteinuria 3. Adult-onset Still 
+
+- 5. Polyclonal disease hypergammaglobulinemia 4. Juvenile idiopathic 
+
+- 6. Hypoalbuminemia arthritis 
+
+- Clinical 5. ALPS 1. Constitutional symptoms 2. Large spleen and/or liver **Malignant LPD** 3. Fluid accumulation 1. Lymphoma 4. Eruptive cherry 2. Multiple myeloma angiomata or violaceous 3. Primary lymph node papules plasmacytoma 
+
+- 5. Lymphocytic interstitial 4. FDC sarcoma pneumonitis 5. POEMS syndrome 
+
+_ALPS,_ Autoimmune lymphoproliferative syndrome; _LPD,_ lymphoproliferative disorder. From Dispenzieri A, Fajgenbaum DC. Overview of Castleman disease. _Blood_ . 2020;135(16):1353-1364 (Table 1, p. 1356). 
+
+## **Treatment** 
+
+**UCD** is treated with surgical resection of the enlarged node or nodes, which is curative. HHV-8- **MCD** is often treated successfully with rituximab and POEMS-associated MCD is treated with standard therapy for myeloma when bone lesions are present. Anti-IL-6-directed therapy is the primary treatment of the other forms of iMCD. Siltuximab with or without corticosteroids has been shown to be effective. Rituximab, tocilizumab, cyclosporin, sirolimus, IVIG, and chemotherapeutic regimens have also been utilized in refractory cases. 
+
+# **Bibliography** 
+
+#### **_Langerhan Cell Histiocytosis_** 
+
+- Allen CE, Merad M, McClain KL. Langerhans-cell histiocytosis. _N Engl J Med_ . 2018;379(9):856-868. 
+
+- Auerbach A, Aguilera NS. The changing landscape of pediatric histiocytoses: birth, life, and transdifferentiation of pediatric histiocytes. _Semin Diagn Pathol_ . 2023;40(6):420-428. 
+
+- Emile JF, Abla O, Fraitag S, et al. Revised classification of histiocytoses and neoplasms of the macrophage-dendritic cell lineages. _Blood_ . 2016;127(22):2672-2681. 
+
+- Krooks J, Minkov M, Weatherall AG. Langerhans cell histiocytosis in children: history, classification, pathobiology, clinical manifestations, and prognosis. _J Am Acad Dermatol_ . 2018;78(6):1035-1044. 
+
+- Rodriguez-Galindo C, Allen CE. Langerhans cell histiocytosis. _Blood_ . 2020;135(6):1319-1331. 
+
+- Simko SJ, Garmezy B, Abhyankar H, et al. Differentiating skinlimited and multisystem Langerhans cell histiocytosis. _J Pediatr_ . 2014;165(5):990-996. 
+
+#### **_IgG4 Related Diseases_** 
+
+### **TABLE Diagnostic Criteria for Idiopathic Multicentric 50.12 Castleman Disease-TAFRO** 
+
+#### **Criteria** 
+
+Histopathological Criteria: Need All 
+
+Typical LN pathology (atrophic GCs with enlarged nuclei of ECs, proliferation of endothelial venules, small numbers of mature PCs) Negative LANA-1 for HHV8 
+
+Major Criteria: Need 3 of 5 Thrombocytopenia (<100,000/μL) Anasarca (pleural effusions and ascites on CT) Fever (>38°C) Reticulin fibrosis Organomegaly 
+
+Minor Criteria: At Least 1 Hyper/normoplasia of megakaryocytes High alkaline phosphatase without markedly elevated transaminases 
+
+From Dispenzieri A, Fajgenbaum DC. Overview of Castleman disease. _Blood_ . 2020;135(16):1353-1364 (Table 3, p. 1358). 
+
+- Chen LYC, Mattman A, Seidman MA, Carruthers MN. IgG4-related disease: what a hematologist needs to know. _Haematologica_ . 2019;104(3):444-455. 
+
+- Ishikawa Y, Terao C. Genetic analysis of IgG4-related disease. _Mod Rheum_ . 2020;30(1):17-23. 
+
+- Kamisawa T, Zen Y, Pillai S, Stone JH. IgG4-related disease. _Lancet_ . 2015;385(9976):1460-1471. 
+
+- Karim F, Loeffen J, Bramer W, et al. IgG4-related disease: a systematic review of this unrecognized disease in pediatrics. _Pediatr Rheumatol Online J_ . 2016;14(1):18. 
+
+- Karim F, Loeffen J, Bramer W, et al. IgG4-related disease: a systematic review of this unrecognized disease in pediatrics. _Pediatr Rheumatol_ . 2016;14:18. 
+
+- Katz G, Stone JH. Clinical perspectives on IgG4-related disease and its classification. _Annu Rev Med_ . 2022;73:545-562. 
+
+- Matsui S. IgG4-related respiratory disease. _Mod Rheumatol_ . 2019; 29(2):251-256. 
+
+- Sasaki T, Akiyama M, Kaneko Y, Takeuchi T. Immunoglobulin G4-related disease and idiopathic multicentric Castleman’s disease: confusable immune-mediated disorders. _Rheumatology (Oxford)_ . 2022;61(2):490-501. 
+
+- Wallace ZS, Naden RP, Chari S, et al. The 2019 America College of Rheumatology/European League against rheumatism claasification criteria for IgG4-related disease. _Arthritis Rheimatol_ . 2020; 72(1):7-19.
+
+<!-- p.1162 -->
+
+#### **_Hemophagocytic Lymphohistiocytosis_** 
+
+- Canna SW, Marsh RA. Pediatric hemophagocytic lymphohistiocytosis. _Blood_ . 2020;135(16):1332-1343. 
+
+- El-Mallawany N, Curry CV, Allen CE. Haemophagocytic lymphohistiocytosis and Epstein-Barr virus: a complex relationship with diverse origins, expression, and outcomes. _Br Soc Haematol_ . 2022; 196:31-44. 
+
+- Kanegane H, Noguchi A, Yamada Y, Yasumi T. Rare disease presenting with hemophagocytic lymphohistiocytosis. _Pediatr Int_ . 2023;65: e15516. 
+
+- Vasco AE, Talano JA, Broglie L. Hemophagocytic lymphohistiocytosis on adolescents and young adults. _Med Clin N Am_ . 2024;108: 189-200. 
+
+#### **_Kimura Disease_** 
+
+- Han MM, Dermarkarian CR, Del Valle Estopinal MD, Tao JP. Kimura disease of the periorbita and earlobe in a 15-year-old male: a case report and review of the literature. _Ophthalmic Plast Reconstr Surg_ . 2023;39(1):26-33. 
+
+- Lee CC, Feng IJ, Chen YT, et al. Treatment algorithm for Kimura’s disease: a systematic review and meta-analysis of treatment modalities and prognostic predictors. _Int J Surg_ . 2022;100:106591. 
+
+- Lee CC, Yu KH, Chan TM. Kimura’s disease: a clinicopathological study of 23 cases. _Front Med (Lausanne)_ . 2022;9:1069102. 
+
+- Mai Y, Wang Y, Sun P, Jing Z, Dong P, Liu J. Kimura disease in children: a report of 11 cases and review of the literature. _Front Pediatr_ . 2023;11:1131963. 
+
+- Munemura R, Maehara T, Murakami Y, et al. Distinct disease-specific Tfh cell populations in 2 different fibrotic diseases: IgG4-related disease and Kimura disease. _J Allergy Clin Immunol_ . 2022; 150(2):440-455. 
+
+- Sato R, Bandoh N, Goto T, et al. Kimura disease presenting with buccal mass: a case report and literature review. _Head Neck Pathol_ . 2021;15(2):657-662. 
+
+- Yang B, Yu H, Jia M, et al. Successful treatment of dupilumab in Kimura disease independent of IgE: a case report with literature review. _Front Immunol_ . 2022;13:1084879. 
+
+#### **_Kikuchi Fujimoto Disease_** 
+
+- Anuntakarun S, Larbcharoensub N, Payungporn S, Reamtong O. Identification of genes associated with Kikuchi-Fujimoto disease using RNA and exome sequencing. _Mol Cell Probes_ . 2021;57:101728. 
+
+- Choi S, Choi HS, Ryu YJ, et al. Characterization of Kikuchi-Fujimoto disease in children and risk factors associated with its course. _J Pediatr_ . 2023;260:113515. 
+
+- Kim L, Tatarina-Numlan O, Yin YD, John M, Sundaram R. A case of Kikuchi-Fujimoto disease in a 7-year-old African American patient: a case report and review of literature. _Am J Case Rep_ . 2020;21:1-5. 
+
+- Liu C, Jin Y, Huang H, et al. Kikuchi-Fujimoto disease as the initial manifestation of systemic lupus erythematosus complicated with macrophage activation syndrome: two case reports and a review of literature. _BMC Pediatr_ . 2022;22(1):673. 
+
+- Mahajan VK, Sharma V, Sharma N, Rani R. Kikuchi-Fujimoto disease: a comprehensive review. _World J Clin Cases_ . 2023; 11(16):3664-3679. 
+
+- Perry AM, Choi SM. Kikuchi-Fujimoto disease: a review. _Arch Pathol Lab Med_ . 2018;142(11):1341-1346. 
+
+#### **_Rosai-Dorfman Disease_** 
+
+- Abla O, Jacobsen E, Picarsic J, et al. Consensus recommendations for the diagnosis and clinical management of Rosai-DorfmanDestombes disease. _Blood_ . 2018;131(26):2877-2890. 
+
+- Ahmed A, Crowson N, Magro CM. A comprehensive assessment of cutaneous Rosai-Dorfman disease. _Ann Diagn Pathol_ . 2019;40: 166-173. 
+
+- Auerbach A, Aguilera NS. The changing landscape of pediatric histiocytosis: birth, life, and transdifferentiation of pediatric histiocytosis. _Sem Diag Pathol_ . 2023;40:420-428. 
+
+- Azari-Yaam A, Abdolsalehi MR, Vasei M, Safavi M, Mehdizadeh M. Rosai-Dorfman disease: a rare clinicopathological presentation and review of the literature. _Head Neck Pathol_ . 2021;15(1): 352-360. 
+
+- Bruce-Brand C, Schneider JW, Schubert P. Rosai-Dorfman disease: an overview. _J Clin Pathol_ . 2020;73(11):697-705. 
+
+- Elbaz Younes I, Sokol L, Zhang L. Rosai-Dorfman Disease between Proliferation and Neoplasia. _Cancers (Basel)_ . 2022;14(21):5271. 
+
+- Garcia RA, DiCarlo EF. Rosai-Dorfman disease of bone and soft tissue. _Arch Pathol Lab Med_ . 2022;146(1):40-46. 
+
+- Li H, Li D, Xia J, et al. Radiological features of Rosai-Dorfman disease: case series and review of the literature. _Clin Radiol_ . 2022; 77(11):e799-e805. 
+
+#### **_Castleman Disease_** 
+
+- Butzmann A, Kumar J, Sridhar K, Gollapudi S, Ohgami RS. A review of genetic abnormalities in unicentric and multicentric Castleman disease. _Biology_ . 2021;10(4):251. 
+
+- Chisholm KM, Fleming MD. Histologic and laboratory characteristics of symptomatic and asymptomatic Castleman disease in the pediatric population. _Am J Clin Pathol_ . 2020;153:821-823. 
+
+- Dispenzieri A, Fajgenbaum DC. Overview of Castleman disease. _Blood_ . 2020;135(16):1353-1364. 
+
+- Fajgenbaum DC. Novel insights and therapeutic approaches in idiopathic multicentric Castleman disease. _Blood_ . 2018;132(22): 2323-2330. 
+
+- Hoffmann C, Oksenhendler E, Littler S, et al. The clinical picture of Castleman disease—a systematic review and meta-analysis. _Blood Adv_ . 2024;8(18):4924-4935. 
+
+- Liu AY, Nabel CS, Finkelman BS, et al. Idiopathic multicentric Castleman’s disease: a systematic literature review. _Lancet Haematol_ . 2016;3(4):e163-e175. 
+
+- Masaki Y, Arita K, Sakai T, Takai K, Aoki S, Kawabata H. Castleman disease and TAFRO syndrome. _Ann Hematol_ . 2022;101(3): 485-490. 
+
+- Sopfe J, Endres A, Campbell K, et al. Castleman disease in pediatrics: insights on presentation, treatment and outcomes from a two-site retrospective cohort study. _Pediatr Blood Cancer_ . 2019;66(5):e27613. 
+
+- Wang W, Medeiros LJ. Castleman disease. _Surg Pathol Clin_ . 2019; 12(3):849-863. 
+
+#### **_POEMS_** 
+
+- Ali T, Qazilbash MH. POEMS syndrome: a multisystem clonal disorder. _Eur J Haematol_ . 2021;106(1):14-18. 
+
+- Bou Zerdan M, George TI, Bunting ST, Chaulagain CP. Recent advances in the treatment and supportive care of POEMS syndrome. _J Clin Med_ . 2022;11(23):7011. 
+
+- Dispenzieri A, Kourelis T, Buadi F. POEMS syndrome: diagnosis and investigative work-up. _Hematol Oncol Clin North Am_ . 2018; 32(1):119-139. 
+
+- Dispenzieri A. POEMS syndrome: 2019 update on diagnosis, riskstratification, and management. _Am J Hematol_ . 2023;98: 1934-1950. 
+
+- Jurczyszyn A, Olszewska-Szopa M, Vesole D. POEMS syndrome— clinical picture and management. Current knowledge. _Clin Lymphoma Myeloma Leuk_ . 2023;8:575-582.
+
+<!-- p.1163 -->
+
+#### **_ALPS_** 
+
+- Consonni F, Gambineri E, Favre C. ALPS, FAS, and beyond: from inborn errors of immunity to acquired immunodeficiencies. _Ann Hematol_ . 2022;101(3):469-484. 
+
+- Hoyt R, Dasgupta A, Ye Z. Unusual polyclonal IgM in an IgG deficient patient with autoimmune lymphoproliferative syndrome: a case study and literature review. _Ann Clin Lab Sci_ . 2022;52(6): 996-1001. https://pubmed.ncbi.nlm.nih.gov/36564075/. Accessed July 17, 2023. 
+
+- Oliveira JB, Bleesing JJ, Dianzani U, et al. Revised diagnostic criteria and classification for the autoimmune lymphoproliferative syndrome (ALPS): report from the 2009 NIH International Workshop. _Blood_ . 2010;116(14):e35-e40. 
+
+- Rieux-Laucat F, Magérus-Chatinet A, Neven B. The autoimmune lymphoproliferative syndrome with defective FAS or FAS-Ligand functions. _J Clin Immunol_ . 2018;38(5):558-568. 
+
+#### **_XLP1_** 
+
+- Iglesias Cardenas F, Agarwal AM, Vagher J, Maese L, Fluchel M, Afify Z. Two clonally distinct B-cell lymphomas reveal the diagnosis of XLP1 in a male child and his asymptomatic male relatives: case report and review of the literature. _J Pediatr Hematol Oncol_ . 2021;43(8):e1210-e1213. 
+
+- Panchal N, Booth C, Cannons JL, Schwartzberg PL. X-linked lymphoproliferative disease Type 1: a clinical and molecular perspective. _Front Immunol_ . 2018;9:666.

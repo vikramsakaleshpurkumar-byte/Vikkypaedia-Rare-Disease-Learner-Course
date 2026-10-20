@@ -1,0 +1,304 @@
+# Chapter 26: Pulmonary Alveolar Proteinosis
+> **Course:** Vikkypaedia Rare Disease Learner Course (*Nelson Pediatric Textbook of Rare Diseases: Genomic Etiologies and Genetic Diagnosis (1st Edition)*)  
+> **Section IV:** Cardiopulmonary Disorders  
+> **Authors:** Melanie Anderson, Gregory Burg, Christopher Towe  
+> **Metrics:** 5,082 words · 5 tables · 10 figures · 13 genes · 28 flashcards · 14 MCQs  
+> **Quick Navigation:** [🃏 Study 28 Flashcards](../flashcards/026_flashcards.md) · [📝 Take 14-Q MCQ Quiz](../mcqs/026_mcqs.md) · [📚 Section IV Guide](../sections/Section_IV.md) · [🧬 Master OMIM/Gene Atlas](../omim_gene_atlas.md) · [💊 Precision Therapies Matrix](../therapies_matrix.md) · [🏠 Course Index](../../index.md)
+
+## Key Chapter Topics
+`Surfactant Physiology` · `PAP Classifications` · `Primary PAP—Autoimmune` · `Primary PAP—Hereditary` · `Congenital PAP—Pulmonary Surfactant Metabolic Dysfunction (PMSD)` · `Secondary PAP` · `Features of Hereditary Disorders of Surfactant Production and Clearance—cont’d` · `Features of Hereditary Disorders of Surfactant Productions and Clearance —cont’d` · `Disorders Associated With Secondary PAP` · `Evaluation` · `Imaging` · `Clinical Presentation` · `Pulmonary Function Testing` · `Laboratory Markers`
+
+## Key Genes & Molecular Targets
+`ABCA3`, `AEC2`, `CSF2RA`, `CSF2RB`, `CSFR2B`, `GATA2`, `MARS1`, `NKX2`, `NKX2-1`, `OAS1`, `SFTPB`, `SFTPC`, `SLC7A7`
+
+## ⚡ High-Yield Clinical & Diagnostic Pearls
+- Pulmonary alveolar proteinosis (PAP) is a rare disease characterized by abnormal accumulation of pulmonary surfactant within alveoli.
+- Primary PAP is characterized by disruption or dysfunction of GM-CSF signaling pathway, while secondary PAP occurs when pulmonary disease develops in the setting of underlying medical conditions or exposures (Tables 26.1 and 26.2).
+- Autoimmune primary PAP is thought to be the most common form of PAP.
+- Gene therapy approaches for treatment of hereditary PAP are currently being investigated.
+- Surfactant is comprised of approximately 90% lipids (85% phospholipids and 5% neutral lipids) and 10% proteins.
+- PAP is defined as a defect in the removal or clearance of surfactant from the alveolar lumen.
+- CSFR2B , which result in a similar phenotype of impaired GM-CSF function (Tables 26.1 and 26.2).
+
+---
+## Full Chapter Text, Tables & Figures
+
+<!-- p.598 -->
+
+# 26 Pulmonary Alveolar Proteinosis 
+
+**MELANIE ANDERSON, GREGORY BURG, CHRISTOPHER TOWE** 
+
+Pulmonary alveolar proteinosis (PAP) is a rare disease characterized by abnormal accumulation of pulmonary surfactant within alveoli. There are multiple forms of PAP which can present with nonspecific clinical signs and symptoms and a range of both radiographic and laboratory findings, therein requiring a high index of suspicion to diagnose patients in a timely manner. 
+
+## **Surfactant Physiology** 
+
+Surfactant is comprised of approximately 90% lipids (85% phospholipids and 5% neutral lipids) and 10% proteins. Its major proteins include surfactant proteins A, B, C, and D (SP-A, SP-B, SP-C, and SP-D) (Fig. 26.1). Surfactant primarily functions to reduce surface tension at the alveolar level to keep the alveolus patent, ease work of breathing, and prevent edema. Additionally, it contributes to innate immunity, which is thought to occur largely via its protein components, particularly SP-A and SP-D. It is postulated that these proteins contribute to the neutralization and clearance of pulmonary pathogens as well as augment macrophage functions within the lung. 
+
+Maintenance of surfactant homeostasis is crucial to ensuring its proper function within the pulmonary system. Surfactant is synthesized by alveolar type II epithelial cells and secreted continuously into the alveolar lumen (Fig. 26.1). The volume of production and secretion increases in response to distention of the lung, hyperventilation, and beta-agonist administration. This continuous production is balanced by surfactant processing, which occurs via both reuptake into alveolar type II cells and catabolism by alveolar macrophages. The process of alveolar macrophage-driven catabolism is largely regulated by granulocyte monocyte colony-stimulating factor (GM-CSF), which binds to receptors at the macrophage cell surface. GM-CSF accomplishes this regulation when the alpha and beta chains of its receptors dimerize to activate a Janus kinase signal transducer and activator of transcription (JAK/STAT) signaling pathway. When this signaling is disrupted, macrophages no longer effectively uptake or degrade pulmonary surfactant, resulting in an accumulation of both nonfunctional, foamy, cholesterolfilled alveolar macrophages and an excess of pulmonary 
+
+surfactant in the alveolar space (Fig. 26.2). There is increasing evidence that in addition to proper signaling of phospholipid catabolism, efflux of cholesterol components from pulmonary macrophages is a critical component to their effective functioning, which becomes an important consideration when establishing therapeutic targets for PAP. Ultimately, there must be a fine balance of surfactant _metabolism_ and _catabolism_ as well as effective functioning of alveolar macrophages to maintain proper surfactant homeostasis within the alveoli lumen. Disruption of these processes results in the accumulation of surfactant protein within the alveolar lumen creating pulmonary alveolar proteinosis, or PAP (Fig. 26.2). 
+
+## **PAP Classifications** 
+
+PAP is defined as a defect in the removal or clearance of surfactant from the alveolar lumen. There are multiple forms of the disease state that are best classified as primary PAP, which can be further categorized into its autoimmune and genetic forms, and secondary PAP. Primary PAP is characterized by disruption or dysfunction of GM-CSF signaling pathway, while secondary PAP occurs when pulmonary disease develops in the setting of underlying medical conditions or exposures (Tables 26.1 and 26.2). Congenital PAP, also referred to as surfactant protein metabolic disorder, occurs when there are disturbances in surfactant protein formation (Tables 26.1 and 26.2). 
+
+### **Primary PAP—Autoimmune** 
+
+Autoimmune primary PAP is thought to be the most common form of PAP. In autoimmune PAP, elevated levels of autoantibodies which disrupt GM-CSF signaling are present (Fig. 26.2). When present in high quantities, these IgG neutralizing antibodies block the signaling pathway that initiates the macrophage-driven catabolism of pulmonary surfactant and efflux of cholesterol byproducts. The immune functions of macrophages are also impaired in the presence of GM-CSF autoantibodies, resulting in increased susceptibility to infection in addition to elevated levels of pulmonary alveolar protein and cholesterol content.
+
+<!-- p.599 -->
+
+![](../../figures/fig_p0600_01.jpg)
+
+
+**Fig. 26.1** Biosynthesis of surfactant involves distinct pathways for surfactant proteins and lipids. SPB and SP-C are trafficked from the endoplasmic reticulum (ER) to lamellar bodies via the Golgi complex and multivesicular body (MVB); in contrast, surfactant phospholipids are likely directly transported from the ER to specific lipid importers (ABCA3) in the lamellar body–limiting membrane. Surfactant proteins and lipids are assembled into bilayer membranes that are secreted into the alveolar airspace, where they form a surface film at the air–liquid interface. Cyclical expansion and compression of the bioactive film results in the incorporation and loss of lipids and proteins from the multilayered surface film. Surfactant components removed from the film are degraded in alveolar macrophages or are taken up by type II epithelial cells for recycling or degradation in the lysosome. The MVB plays a key part in the integration of pathways for surfactant synthesis, recycling, and degradation. NKX2-1, FOXA2, SREBP, and CEBPα are transcription factors regulating surfactant protein and lipid synthesis. SLC34a2 is a phosphate transporter. Gpr116 is a membrane receptor regulating surfactant secretion. _ABCA3,_ ATP-binding cassette transporter A3; _GM-CSF,_ granulocyte-macrophage colony-stimulating factor; _PC,_ phosphatidylcholine; _PG,_ phosphatidylglycerol; _SP,_ surfactant proteins. (From Polin RA, Abman SH, Rowitch DH, Benits WE, eds. _Fetal and Neonatal Physiology_ . 6th ed. Philadelphia: Elsevier; 2022: Fig. 75.3. [Also in _Nelson Textbook of Pediatrics_ . 22nd ed., Vol. 1. Philadelphia: Elsevier; 2025 (Fig. 126.3, p. 1078)].) 
+
+When the alveolar space is filled with sediment, debris, and cholesterol, oxygen delivery is progressively impaired, resulting in the clinical symptoms of PAP and, in later states, pulmonary fibrosis. 
+
+### **Primary PAP—Hereditary** 
+
+Hereditary PAP is caused by pathogenic variants in the genes encoding the GM-CSF receptor proteins, _CSF2RA_ or 
+
+_CSFR2B_ , which result in a similar phenotype of impaired GM-CSF function (Tables 26.1 and 26.2). These variants result in an absence or abnormality of the alpha or beta chain receptors on GM-CSF. Hereditary PAP is a consequence of intrinsically impaired GM-CSF signaling rather than external disruption of the signaling pathway. These genetic forms of PAP are exceedingly rare. _CSF2RA_ and _CSFR2B_ are thought to be inherited as autosomal recessive traits; patients have been reported with a range of pathogenic
+
+<!-- p.600 -->
+
+![](../../figures/fig_p0601_02.jpg)
+
+
+
+![](../../figures/vfig_p0600_01.jpg)
+
+**Fig. 26.2** PAP pathogenesis. In normal surfactant homeostasis (bottom right), surfactant is synthesized by type II alveolar epithelial cells and secreted into the alveolar space to generate a thin layer. GM-CSF is a cytokine produced by type II alveolar epithelial cells that binds specific receptors on macrophages; GM-CSF induces the terminal differentiation of alveolar macrophages, allowing an effective surfactant catabolism. In primary PAP (bottom left), altered macrophage activation, due to a dysfunction in GM-CSF signaling, leads to impaired surfactant clearance and to the consequent accumulation of surfactant. In autoimmune PAP, GM-CSF signaling is inhibited by the presence of neutralizing GM-CSF autoantibodies; the hereditary form is the result of pathogenic variants involving the GM-CSF receptor. In secondary PAP (top left), various underlying conditions can affect the number and/or the function of the alveolar macrophages, causing reduced surfactant clearance and surfactant accumulation within the alveoli. In congenital PAP (top right), pathogenic variants in SFTPB, SFTPC, ABCA3, and TTF1 interfere with the production of surfactant which, in turn, is ineffective and prone to accumulation.  (From Salvaterra E, Campo I. Pulmonary alveolar proteinosis: from classification to therapy. _Breathe (Sheff)._ 2020;16[2]:200018. [Fig.1].) 
+
+variants, including missense, nonsense, frameshifts, and deletions. Patients have a wide range of clinical presentations but characteristically do not have autoantibodies to GMCSF but do have normal-to-elevated levels of GM-CSF, suggesting that the function, rather than the production, of GM-CSF is impaired. While pathophysiological mechanism differs, the downstream impacts of impaired macrophage functioning and subsequent clinical signs and symptoms are similar to those observed in autoimmune PAP. 
+
+### **Congenital PAP—Pulmonary Surfactant Metabolic Dysfunction (PMSD)** 
+
+Congenital PAP occurs when there is a defect in the production, rather than the catabolism of pulmonary surfactant (Table 26.1). This may be idiopathic or when patients have pathogenic variants in the genes that encode SP-B, SP-C, the phospholipid transporter ATP-binding cassette A3 (ABCA3), or thyroid transcription factor 1 (TTF-1). 
+
+### **Secondary PAP** 
+
+Secondary PAP is the development of a PAP phenotype due to a different underlying condition. It occurs in the setting of a range of underlying immune dysregulatory disease states, including hematological disorders, nonhematological malignancies, chronic infections, chronic inflammatory disorders, and immunodeficiencies. Secondary PAP in the setting of these immune dysregulation or chronic inflammatory disorders is not entirely understood but may be explained by either a reduction in the intrinsic ability of alveolar macrophages to catabolize surfactant or a decreased number of pulmonary macrophages. A well-described association with PAP includes pathogenic variants in _GATA2_ . This variant results in a myelodysplastic syndrome, which is associated with PAP. Although it has a genetic basis, this may be considered a form of secondary PAP instead of congenital or hereditary PAP. Transient post–bone marrow transplant PAP, which spontaneously resolves with recovery of bone marrow, has also been described. A list of diseases that have been associated with PAP is noted in Table 26.3. 
+
+_(Text continued on page 584)_
+
+<!-- p.601 -->
+
+
+#### **TABLE 26.1** Feature s of Hereditary Disorders of Surfactant Prod uction and Clearance i
+
+|OMIM Name|SP-B<br>Deficiency SMDP1|ABCA3<br>Deficiency SMDP3|SP-C<br>Dysfunction SMDP2|TTF-1 Haplo-Insufficiency<br>Brain-Thyroid-Lung|Hereditary<br>PAP SMDP4|Hereditary<br>PAP SMDP5|
+|---|---|---|---|---|---|---|
+|Epidemiology|Extremely rare,<br>1 in 5–10 million|Rare; incidence<br>estimate 1 in 90,000|Rare; incidence and<br>prevalence unknown|Rare; incidence and<br>prevalence unknown|Very rare; incidence<br>and prevalence<br>unknown|Very rare;<br>incidence<br>and prevalence<br>unknown|
+|Gene|_SFTPB_|_ABCA3_|_SFTPC_|_NKX2–1_|_CSF2RA_|_CSF2RB_|
+|Chromosomal<br>location|2p11.2|16p13.3|8p21.3|14q13.3|Xp22.33; Yp11.2|22q12.3|
+|Inheritance<br>pattern|Recessive|Recessive|Dominant or sporadic<br>_de novo_variant|Dominant or sporadic<br>_de novo_variant|Recessive|Recessive|
+|Pathology<br>features|AEC2 hyperplasia<br>Mesenchymal<br>thickening<br>Proteinaceous<br>material and<br>macrophages in<br>distal air spaces|AEC2 hyperplasia<br>Mesenchymal<br>thickening<br>Proteinaceous material<br>and macrophages in<br>distal air spaces|AEC2 hyperplasia<br>Mesenchymal<br>thickening<br>Proteinaceous material<br>and macrophages in<br>distal air spaces|Altered growth<br>AEC2 hyperplasia<br>Mesenchymal thickening<br>Proteinaceous material and<br>macrophages in distal<br>air spaces|Granular,<br>eosinophilic<br>PAS-positive<br>material filling<br>distal airspaces<br>Alveolar architecture<br>preserved|<br>Granular,<br>eosinophilic<br>PAS-positive<br>material filling<br>distal airspaces<br>Alveolar<br>architecture<br>preserved|
+|Histological<br>diagnoses|PAP, CPI, DIP|PAP, DIP, CPI, NSIP|CPI, DIP, NSIP, PAP|CPI, DIP, NSIP, PAP|PAP|PAP|
+|Pathogenesis|Loss-of-function<br>Impaired processing<br>of proSP-C<br>Abnormal lamellar<br>bodies|Loss-of-function<br>Surfactant deficiency<br>AEC2 injury<br>Abnormal lamellar<br>bodies|Toxic gain-of-function<br>Dominant negative<br>ER stress and activation<br>of UPR<br>Impaired autophagy|Haploinsufficiency<br>Altered transcription of<br>downstream genes|Loss-of-function|Loss-of-function|
+|Clinical<br>features|Neonatal RDS<br>Very rarely child<br>No extrapulmonary<br>findings|Neonatal RDS chILD:<br>Tachypnea<br>Exercise intolerance<br>Clubbing<br>Pectus excavatum<br>Failure to thrive<br>No extrapulmonary<br>findings|Neonatal RDS, chILD:<br>Asymptomatic<br>Adult-onset DLD|Neonatal RDS, child<br>Recurrent infection<br>Adult DLD<br>Hypothyroidism<br>Neurologic:<br>Chorea, ataxia<br>Hypotonia<br>Developmental delay|Insidious onset<br>Dyspnea, cough<br>Exercise intolerance|Insidious onset<br>Dyspnea, cough<br>Exercise<br>intolerance|
+
+
+_(Continued)_
+
+<!-- p.602 -->
+
+##### **TABLE** 
+
+##### **26.1** 
+
+#### **Features of Hereditary Disorders of Surfactant Production and Clearance—cont’d** 
+
+|OMIM Name|SP-B<br>Deficiency SMDP1|ABCA3<br>Deficiency SMDP3|SP-C<br>Dysfunction SMDP2|TTF-1 Haplo-Insufficiency<br>Brain-Thyroid-Lung|Hereditary<br>PAP SMDP4|Hereditary<br>PAP SMDP5|
+|---|---|---|---|---|---|---|
+|Diagnosis|Genetic testing<br>(NGS) panel<br>most efficient|Genetic testing (NGS)<br>panel most efficient|Genetic testing (NGS)<br>panel most efficient|Genetic testing (NGS) panel<br>most efficient|Genetic testing<br>Serum GM-CSF<br>level elevated|Genetic testing<br>Serum GM-CSF<br>level elevated|
+|Management|Supportive<br>Palliative care<br>Lung transplant|Supportive (nutrition)<br>Steroids,<br>hydroxychloroquine,<br>azithromycin<br>Lung transplant|Supportive (nutrition)<br>Steroids,<br>hydroxychloroquine<br>(may exacerbate<br>pathological disease<br>mechanisms for some<br>genotypes), azithromycin<br>Lung transplant|Thyroid supplementation if<br>hypothyroid.<br>Supportive (nutrition)<br>Steroids|Whole lung lavage|Whole lung lavage|
+|Prognosis|Very poor. Usually<br>zfatal in first<br>3 months of life|May be rapidly fatal,<br>null variants on both<br>alleles associated<br>with early-onset and<br>poor prognosis.<br>Prolonged survival<br>possible for some<br>genotypes.|Highly variable.<br>Severe disease in infancy<br>with possible<br>improvement. Some may<br>be a symptomatic for<br>decades.<br>Onset respiratory symptoms<br>and pulmonary fibrosis in<br>adulthood.|Highly variable|Variable|Variable|
+
+
+_chILD,_ Childhood interstitial lung disease; _CPI,_ chronic pneumonitis of infancy; _DIP,_ desquamative interstitial pneumonia; _DLD,_ diffuse lung disease; _ER,_ endoplasmic reticulum; _ES,_ exome sequencing; _GM-CSF,_ granulocyte-macrophage colony-stimulating factor; _GS,_ genome sequencing; _NGS,_ next-generation sequencing; _NSIP,_ nonspecific interstitial pneumonia; _OMIM,_ online Mendelian inheritance in man; _PAP,_ pulmonary alveolar proteinosis; _PAS,_ periodic acid–Schiff; _RDS,_ respiratory distress syndrome; _UPR,_ unfolded protein response.
+
+<!-- p.603 -->
+
+##### **TABLE** 
+
+#### **26.2 Features of Hereditary Disorders of Surfactant Productions and Clearance** 
+
+|OMIM Name|Lysinuric Protein<br>Intolerance|Methionyl-tRNA<br>Synthetase<br>Deficiency|Phenylalanine<br>t-RNA Synthetase,<br>Alpha Subunit<br>Deficiency|Phenylalanine<br>t-RNA Synthetase,<br>Beta Subunit<br>Deficiency|2′-5′-Oligoadenylate<br>Synthetase 1<br>Associated<br>Lung Disease|GATA Binding<br>Protein 2 Associated<br>Lung Disease|
+|---|---|---|---|---|---|---|
+|Epidemiology|Very rare;~1/60,000<br>live births in Japan<br>and Finland due to<br>founder effect|Very rare; incidence<br>and prevalence<br>unknown|Very rare; incidence<br>and prevalence<br>unknown|Very rare; incidence<br>and prevalence<br>unknown|Very rare; incidence<br>and prevalence<br>unknown|Very rare; incidence and<br>prevalence unknown|
+|Gene|_SLC7A7_|_MARS1_|_FARSA_|_FARSB_|_OAS1_|_GATA2_|
+|Chromosomal<br>location|14q11.2|12q13.3|19p13.13|2p36.1|12q24.13|3q21.3|
+|Inheritance<br>pattern|Recessive|Recessive|Recessive|Recessive|_De novo_, autosomal<br>dominant (mosaicism)|_De novo_, autosomal<br>dominant (incomplete<br>penetrance)|
+|Pathology<br>features|AEC2 hyperplasia,<br>proteinaceous<br>material in distal<br>air spaces<br>Septal thickening<br>Chronic inflammation<br>Cholesterol granulomas<br>Enlarged foamy,<br>lipid-laden alveolar<br>macrophages<br>Fibrosis|Proteinaceous<br>material<br>Cholesterol clefts<br>Giant cell<br>granulomas<br>Interstitial fibrosis<br>and inflammation|Emphysematous foci<br>Chronic inflammation<br>with lymphoid<br>clumps<br>Cholesterol clefts|AEC2 hyperplasia<br>Pulmonary blebs<br>Emphysematous<br>changes<br>Fibrosis<br>Cholesterol granuloma<br>Cholesterol clefts<br>Foamy macrophages<br>Increased intraalveolar<br>accumulation of<br>surfactant|Proteinaceous material<br>in alveolar space<br>Small and nonfoamy<br>alveolar macrophages|Proteinaceous material<br>in alveolar space<br>Fibrosis<br>Foamy alveolar<br>macrophages<br>Cholesterol clefts|
+|Histological<br>diagnoses|PAP|PAP, ILD|ILD|PAP, ILD|PAP|PAP, ILD|
+|Pathogenesis|Abnormal arginine<br>transport<br>Alveolar macrophage<br>dysfunction|Abnormal ligation<br>of methionine to<br>transfer RNA<br>Abnormal protein<br>biosynthesis|Unknown, likely<br>related to tissue<br>specific impaired<br>protein synthesis|Unknown, likely related<br>to tissue specific<br>impaired protein<br>synthesis|Interferon-induced<br>hyperinflammatory<br>response of<br>macrophages and<br>B cells<br>Macrophage dysfunction|GATA2 regulates the<br>phagocytosis of<br>alveolar macrophages|
+
+
+_(Continued)_
+
+<!-- p.604 -->
+
+##### **TABLE** 
+
+##### **26.2** 
+
+#### **Features of Hereditary Disorders of Surfactant Productions and Clearance —cont’d** 
+
+|OMIM Name|Lysinuric Protein<br>Intolerance|Methionyl-tRNA<br>Synthetase<br>Deficiency|Phenylalanine<br>t-RNA Synthetase,<br>Alpha Subunit<br>Deficiency|Phenylalanine<br>t-RNA Synthetase,<br>Beta Subunit<br>Deficiency|2′-5′-Oligoadenylate<br>Synthetase 1<br>Associated<br>Lung Disease|GATA Binding<br>Protein 2 Associated<br>Lung Disease|
+|---|---|---|---|---|---|---|
+|Clinical<br>features|Pulmonary alveolar<br>proteinosis<br>Developmental delay<br>Hepatosplenomegaly<br>Osteoporosis<br>Anemia<br>Glomerulonephritis<br>Protein aversion<br>Hemophagocytic<br>lymphohistiocytosis|Pulmonary alveolar<br>proteinosis<br>Liver dysfunction<br>Anemia<br>Failure to thrive|chILD Growth failure<br>Liver dysfunction<br>Brain calcifications<br>Hypotonia|Pulmonary alveolar<br>proteinosis child<br>Growth failure<br>Liver dysfunction<br>Intracranial aneurysms<br>Brain calcifications<br>Hypotonia|Pulmonary alveolar<br>proteinosis<br>Hypogammaglobulinemia<br>Frequent respiratory<br>infections<br>Failure to thrive<br>Recurrent fevers<br>Ulcerative dermatitis<br>Inflammatory bowel<br>disease|Pulmonary alveolar<br>proteinosis<br>Hematological disorders<br>(chronic myeloid<br>leukemia)<br>Anemia<br>Myelodysplastic<br>syndrome|
+|Diagnosis|Genetic testing (NGS)<br>panel most efficient,<br>plasma amino acids,<br>24-h urine excretion<br>of cationic amino acids|Genetic testing<br>(NGS) panel,<br>ES, GS|Genetic testing (NGS)<br>panel, ES, GS|Genetic testing (NGS)<br>panel, ES, GS|Genetic testing (NGS)<br>panel, ES, GS|Genetic testing, ES, GS|
+|Management|Dietary protein<br>restriction, citrulline<br>supplementation|Dietary methionine<br>supplementation|Dietary<br>supplementation|Dietary<br>supplementation|Whole lung lavage,<br>hematopoietic stem<br>cell transplant|Whole lung lavage,<br>hematopoietic stem<br>cell transplant|
+|Prognosis|Majority survive to<br>adulthood with dietary<br>modifications, may<br>develop chronic<br>complications related<br>to PAP and<br>glomerulonephritis|Death before age<br>2 years in one-third<br>of patients|Unknown|Several deaths during<br>childhood, adult<br>survival reported|Death in childhood,<br>survival with<br>hematopoietic stem<br>cell transplant (HSCT)<br>reported|Survival with HSCT<br>reported|
+
+
+_chILD,_ Childhood interstitial lung disease; _CPI,_ chronic pneumonitis of infancy; _DIP,_ desquamative interstitial pneumonia; _DLD,_ diffuse lung disease; _ER,_ endoplasmic reticulum; _ES,_ exome sequencing; _GM-CSF,_ granulocyte-macrophage colony-stimulating factor; _GS,_ genome sequencing; _NGS,_ next-generation sequencing; _NSIP,_ nonspecific interstitial pneumonia; _OMIM,_ online Mendelian inheritance in man; _PAP,_ pulmonary alveolar proteinosis; _PAS,_ periodic acid–Schiff; _RDS,_ respiratory distress syndrome; _UPR,_ unfolded protein response. 
+
+From Wambach JA, Nogee LM. Lung diseases associated with disruption of pulmonary surfactant homeostasis. In: _Kendig and Wilmott’s Disorders of the Respiratory Tract in Children._ 10th ed. Philadelphia: Elsevier; 2024 (Table 48.1, p. 728-730).
+
+<!-- p.605 -->
+
+
+#### **TABLE 26.3** Disorders Associated With Secondary PAP
+
+|**Infections**<br>_Mycobacterium tuberculosis_<br>_Mycobacterium avium-_<br>_intracellulare_|**Hematological**<br>**Malignancies and**<br>**Myelodysplastic**<br>**Syndromes**|
+|---|---|
+|_Pneumocystis jirovecii_<br>i|Leukemia/Lymphoma|
+|Human immunodeficiency<br>virus (HIV)<br>Cytomegalovirus<br>**i**|**Solid Organ or**<br>**Hematopoietic Stem**<br>**Cell Transplantation**|
+|**Immunodeficiencies**<br>Severe combined<br>i|**Rheumatological**<br>**Disease**|
+|immunodeficiency<br>(adenosine deaminase<br>deficiency)<br>i|Systemic juvenile<br>idiopathic arthritis<br>Associated lung disease|
+|Human immunodeficiency<br>virus (HIV)<br>Myelodysplastic syndrome<br>(_GATA2_gene<br>haploinsufficiency)<br>Hypogammaglobulinemia<br>(_OAS1_gene gain of<br>function pathogenic variant)|±MAS|
+|_MAS,_Macrophage activation syndrome|.|
+
+
+#### **Disorders Associated With Secondary PAP** 
+
+typically seen in older children or adults, hereditary PAP is often described in young children. Case reports have described a range of severities of disease, spanning from asymptomatic patients to those with severe respiratory distress and/or respiratory failure. In a review of _CSF2RA_ cases, there was a female predominance; high rates of consanguinity are noted in term children with hereditary PAP. Patients in the review commonly presented with dyspnea, a history of severe pulmonary infections, cough, and hypoxemia. Additional symptoms occurring at lower frequencies included tachypnea, fever, and respiratory failure with a need for invasive mechanical ventilation. 
+
+Symptoms of progressive dyspnea may also be seen in **secondary PAP** . Because many of these patients are often immunocompromised, suspicion for PAP is high because many of their presenting symptoms are nonspecific, and the physical examination may be normal. 
+
+## **Evaluation** 
+
+When PAP is suspected, pulmonary consultation should be promptly obtained to assist with workup. Imaging, pulmonary function testing, laboratory testing, bronchoscopy, and biopsy should be considered in establishing the diagnosis (Fig. 26.3). 
+
+### **Imaging** 
+
+Secondary PAP resulting from exposures to environmental factors such as silica in the workplace has been also reported. Additional secondary PAP has been described following exposure to cigarette smoke, fumes, gases, and a variety of organic and inorganic dusts such as fertilizer, baking flour, and sawdust. 
+
+## **Clinical Presentation** 
+
+The presentation of primary and secondary PAP has a wide range of severity and symptoms. **Primary autoimmune PAP** is more commonly described in older adolescents and adults; it has been reported in children as young as 3 years of age. The presentation of autoimmune PAP is progressive, with an insidious onset of dyspnea which worsens as the level of surfactant accumulates over time and gas exchange is impaired. This may occur over months to years and is often misdiagnosed as asthma. Symptoms of cough, sputum production, fever, hemoptysis, or chest pain may also be seen. However, these more typically occur in the setting of concurrent superimposed infection. Because of the presence of foamy, dysfunctional macrophages and impaired surfactant protein function, patients with PAP are at an increased risk for opportunistic infection with fungi, _Nocardia_ , cytomegalovirus, _Pneumocystis jirovecii_ , mycobacteria, and anaerobic pathogens. When not infected, the physical examination in primary PAP is typically normal, though bibasilar crackles may be present. Clubbing and cyanosis are not typically observed in primary PAP. 
+
+Clinical patterns of **primary hereditary PAP** are not well established, given its rarity. While autoimmune PAP is more 
+
+Imaging findings in PAP often demonstrate severity which is out of proportion to the degree of symptoms present. In both primary and secondary PAP, chest X-ray (CXR) often demonstrates diffuse, bilateral ground-glass opacification. However, in young children with hereditary PAP, CXR findings may be minimal to mild. Computerized tomography (CT) findings may be more specific (though still not diagnostic) in PAP compared to CXR findings. In autoimmune and hereditary PAP, a **crazy paving** pattern can be seen. Crazy paving is described as diffuse ground-glass opacification superimposed upon a reticular pattern throughout both lung fields (Figs. 26.4 and 26.5). 
+
+### **Pulmonary Function Testing** 
+
+Pulmonary function testing (PFT) is a noninvasive, low-risk diagnostic tool that may be utilized in patients with PAP. PFTs are dependent on patient ability to adequately perform the technique, which typically begins ~5 years of age; they are not feasible in very young patients. Spirometry, lung volumes, and diffusing capacity for carbon monoxide, when appropriately performed, may demonstrate patterns that are suggestive of PAP. While results can be normal, abnormalities may follow a restrictive pattern, mild impairment of forced vital capacity and total lung capacity with a severe reduction of diffusing capacity for carbon monoxide. 
+
+### **Laboratory Markers** 
+
+Laboratory testing considerations for diagnosis and classification of PAP include both general serum markers as well
+
+<!-- p.606 -->
+
+![](../../figures/fig_p0607_02.jpg)
+
+
+
+![](../../figures/vfig_p0606_01.jpg)
+
+**Fig. 26.3** Algorithm for the differential diagnosis of PAP. The presence of pulmonary alveolar proteinosis (PAP) is suspected on the basis of a compatible history, typical radiological findings, and bronchoalveolar lavage cytology findings. A granulocyte-macrophage colony-stimulating factor (GM-CSF) autoantibody test should be performed first: a positive test confirms the diagnosis of autoimmune PAP. Patients with a negative GM-CSF autoantibody test who have a disease known to cause PAP are diagnosed with secondary PAP. If an underlying causative condition cannot be found, patients should undergo a blood-based GM-CSF signaling test and serum GM-CSF levels test; high concentrations of serum GM-CSF and no or reduced GM-CSF signaling should prompt further tests for CSF2RA and CSF2RB, pathogenic variants to identify hereditary PAP. Patients with physiological levels of serum GM-CSF and GM-CSF signaling should undergo further tests for other gene pathogenic variants to diagnose congenital PAP. If no PAP-causing variant can be found, the patient is diagnosed with unclassified PAP and a transbronchial or surgical lung biopsy for lung parenchymal histopathological examination may be needed to confirm diagnosis. This diagnostic algorithm reflects an ideal setting in which physicians have unrestricted access to the appropriate diagnostic tools and tests.  (From Trapnell BC, Nakata K, Bonella F, et al. Pulmonary alveolar proteinosis. _Nat Rev Dis Primers_ . 2019;5:16. https://doi.org/10.1038/s41572-019-0066-3 [Fig. 2].) 
+
+as specific genetic testing. Laboratory testing is beneficial given its noninvasive nature, though many serum markers are often nonspecific in PAP. High cost and time to results for more specific genetic testing may be limiting factors in their immediate utility; however, they should be sent when suspicious for PAP (Fig. 26.3). In autoimmune PAP, levels of GM-CSF autoantibodies are elevated and can be helpful in confirming the diagnosis. When establishing a diagnosis of hereditary PAP, evaluating for _CSF2RA_ and _CSF2RB_ pathogenic variants is recommended. Genetic testing for _SFTPB_ , _SFTPC_ , _ABCA3_ , and _NKX2.1_ is indicated when pulmonary surfactant metabolic dysfunction is suspected. 
+
+Less specific, SP-A, SP-B, and SP-D levels, CRP, and KL-6 may be elevated in PAP in proportion to degree of disease severity. These may have more utility in monitoring disease progression over time than in establishing initial diagnosis. Serum elevations in lactate dehydrogenase (LDH) may also be seen. 
+
+### **Bronchoscopy** 
+
+Flexible bronchoscopy and bronchoalveolar lavage (BAL) samples have a classical appearance regardless of the form of PAP (autoimmune, hereditary, or secondary).
+
+<!-- p.607 -->
+
+### **Biopsy and Histology** 
+
+
+![](../../figures/fig_p0608_02.jpg)
+
+
+Surgical lung biopsy is a more invasive diagnostic tool and requires expertise in tissue handling, appropriate site selection, pathology processing, and availability of an experienced pediatric pulmonary pathologist to ensure the highest diagnostic yield from this procedure. Biopsy findings may be helpful in differentiating primary and secondary PAP. In primary PAP, histopathological findings typically demonstrate near-complete filling of the alveoli with eosinophilic, periodic acid-Schiff positive sediment. Foamy macrophages are also classically described in the alveolar space. Unless the biopsy is obtained late in the clinical course, there is typically preservation of alveolar architecture and minimal to no evidence of pulmonary fibrosis. Conversely, findings of pulmonary fibrosis, disruption of alveolar architecture, and secondary inflammatory markers in conjunction with alveolar space filling are more likely be seen in secondary PAP. 
+
+## **Management** 
+
+
+![](../../figures/fig_p0608_05.jpg)
+
+
+**Fig. 26.4** Surfactant dysfunction related to _ABCA3_ pathogenic variant in a 4-week-old term female. (A) Frontal chest radiograph shows diffuse bilateral hazy pulmonary opacities in a pattern resembling neonatal respiratory distress syndrome (RDS). (B) Axial CT image confirms diffuse bilateral ground-glass opacities along with septal thickening and areas of crazy paving.  (From Zucker EJ, Lee EY. Diffuse lung disease. In: Coley BD, ed. _Caffey’s Pediatric Diagnostic Imaging_ . 13th ed., Vol. 1. Philadelphia: Elsevier; 2019 [Fig. 56.5, p. 540].) 
+
+When bronchoscopy is performed, assessment of airway mucosa and gross visual examination are generally normal. However, BAL fluid typically appears turbid with a waxlike or milky appearance. Additionally, when left sitting, it is typical for a layer of protein sediment to form (Fig. 26.6). When sent for cytologic evaluation, macrophages are typically described as _foamy_ as a result of intracellular lipid accumulation; eosinophilic, periodic acid-Schiff positive sediment may be visible in the background. BAL evaluation with bacterial, fungal, and mycobacterial cultures can assess for opportunistic infection as either a sequela of PAP, a trigger for secondary PAP, or to establish infection as an alternative etiology for presenting respiratory symptoms. 
+
+Among all forms of PAP, supportive care with supplemental oxygen and positive pressure, as indicated, as well as adequate nutritional support are pillars of management. Also important are infection prevention measures with adherence to vaccination schedules and consideration of RSV prophylaxis for infants. 
+
+Beyond supportive care, differentiating autoimmune, hereditary, and secondary forms of PAP is the first step in management approach because each type requires unique treatment considerations. 
+
+In primary PAP (both autoimmune and hereditary forms), whole lung lavage (WLL) is standard therapy (Fig. 26.7). WLL should only be done at centers with operating room personnel who are experienced with performing the procedure because it poses a high risk of hypoxemia, pneumonia, sepsis, and hydropneumothorax. WLL utilizes large volume saline washout of the lung and is often performed via a double lumen endotracheal tube. Alternative approaches are needed to safely perform WLL in patients too small to accommodate a double lumen endotracheal tube. Chest percussion may be performed during the procedure and optimizes removal of proteinaceous material. Anecdotally even a single whole lung lavage can improve clinical and radiographic features of PAP, though repeated lavages may be required (Fig. 26.5). Inhaled recombinant GM-CSF therapy has been studied as a promising therapeutic approach in autoimmune PAP. It has demonstrated potential improvements in oxygenation, diffusing capacity, functional status, and radiographic appearance of patients with PAP when administered via either subcutaneous or inhaled routes. 
+
+With observations that cholesterol content within alveolar macrophages is disproportionately elevated in patients with primary PAP, statin therapy has been reported as a potential therapy. This approach has had promising results in mouse models and in case reports of adult patients
+
+<!-- p.608 -->
+
+![](../../figures/fig_p0609_02.jpg)
+
+
+**Fig. 26.5** (A and B) Severe pulmonary alveolar proteinosis in a 5-year-old child before therapeutic lung lavage. (A) Chest radiograph shows diffuse alveolar and interstitial infiltrates. (B) CT scan demonstrates major air space opacities and crazy-paving pattern. (C and D) Same patient after 12 therapeutic lung lavages. (C) Chest radiograph demonstrates improvement of alveolointerstitial infiltrates. (D) CT scan shows regression of the air space opacities with a residual micronodular pattern.  (From De Blic J. Pulmonary alveolar proteinosis in children. _Paediatr Respir Rev_ . 2004;5:316-322. [Also Fig. 456.2 in _Nelson Textbook of Pediatrics._ 22nd ed.].) 
+
+
+![](../../figures/fig_p0609_04.jpg)
+
+
+**Fig. 26.6** BAL fluid from a patient with PAP. 
+
+
+![](../../figures/fig_p0609_06.jpg)
+
+
+**Fig. 26.7** Whole lung lavage fluid from a patient with PAP.
+
+<!-- p.609 -->
+
+with autoimmune PAP. Its use has not been reported in pediatrics. 
+
+Hereditary PAP is not responsive to GM-CSF therapy; therefore whole lung lavage, supportive care, and potentially lung transplant remain the only current options for management in these patients. Gene therapy approaches for treatment of hereditary PAP are currently being investigated. Management of secondary PAP largely focuses on supportive care while targeting the underlying disease process. Repetitive whole lung lavage may also be considered if PAP does not resolve. 
+
+## **Bibliography** 
+
+- Antoniu SA, Rajnoveanu R, Grigore M, Antohe I. Pharmacotherapy options in pulmonary alveolar proteinosis. _Expert Opin Pharmacother_ . 2020;21(11):1359-1366. 
+
+- Glasser JR, Mallampalli RK. Surfactant and its role in the pathobiology of pulmonary infection. _Microbes Infect_ . 2012;14(1):17-25. 
+
+- Griese M. Pulmonary alveolar proteinosis: a comprehensive clinical perspective. _Pediatrics._ 2017;140(2):e2017610. 
+
+- Griese M, Panagiotou P, Manali ED, et al. Autoimmune pulmonary alveolar proteinosis in children. _ERJ Open Res_ . 2022;8:00701-2021. 
+
+- Hildebrandt J, Yalcin E, Bresser HG, et al. Characterization of CSF2RA mutation related juvenile pulmonary alveolar proteinosis. _Orphanet J Rare Dis_ . 2014;9:171. 
+
+- Huang X, Cao M, Xiao Y. Alveolar macrophages in pulmonary alveolar proteinosis: origin, function, and therapeutic strategies. _Front Immunol_ . 2023;14:1195988. 
+
+- McCarthy C, Avetisyan R, Carey BC, et al. Prevalence and healthcare burden of pulmonary alveolar proteinosis. _Orphanet J Rare Dis_ . 2018;13:129. 
+
+- McCarthy C, Carey BC, Trapnell BC. Autoimmune pulmonary alveolar proteinosis. _Am J Respir Crit Care Med_ . 2022;205(9):1016-1035. 
+
+- McCarthy C, Lee E, Bridges JP, et al. Statin as a novel pharmacotherapy of pulmonary alveolar proteinosis. _Nat Commun_ . 2018; 9(1):3127. 
+
+- Rodriguez Gonzalez C, Schevel H, Hansen G, et al. Pulmonary alveolar proteinosis and new therapeutic concepts. Pulmonale aveolar-proteinose und neue therapeutische Konzepte. _Klin Padiatr_ . 2024;236:73-79. 
+
+- Trapnell BC, Nakata K, Bonella F, et al. Pulmonary alveolar proteinosis. _Nat Rev Dis Primers_ . 2019;5(1):16. 
+
+- Trapnell B, Inoue Y, Bonella F, et al. Inhaled molgramostim therapy in autoimmune pulmonary alveolar proteinosis. _N Engl J Med_ . 2020;383(17):1635-1644. 
+
+- Whitsett J, Wert S, Weaver T. Disease of pulmonary surfactant homeostasis. _Annu Rev Pathol_ . 2015;10:371-393.

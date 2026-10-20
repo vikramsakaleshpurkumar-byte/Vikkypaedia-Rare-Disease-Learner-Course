@@ -1,0 +1,607 @@
+
+<!-- p.1248 -->
+
+# 55 Innate Defects in Host Defenses Against Infections 
+
+**LAIA ALSINA, JACINTA BUSTAMANTE** 
+
+The innate immune system is the arm of host immunity that reacts _rapidly_ and _nonspecifically_ to pathogens. Innate immunity is crucial for the host defense in the first phase of a new infection and if sufficient is generally able to efficiently eliminate the pathogens within hours. If this initial clearance of infection fails (high pathogen number or virulence), lymphocytes and _adaptive_ immune mechanisms are activated, which allows _specific_ recognition and elimination of the pathogen. Innate immune defects are a diverse group of inborn errors of immunity (IEI) caused by a disruption in the function and/or development of the innate immune system. The innate immune system includes hematopoietic components; defects in other nonhematopoietic cells also contribute to these disorders. It is largely mediated by innate immune cells which can be myeloid cells (neutrophils, monocytes/macrophages, dendritic cells) or lymphoid cells (natural killer cells, innate lymphoid cells). A variety of proteins are also important to innate immunity such as complement proteins, defensins, and variety of inflammatory proteins (e.g., TNF-α, IL-1β, interferons). 
+
+Innate defects can be subdivided into three subgroups of IEIs, each with a different clinical and immunological phenotype: (1) complement deficiencies (Chapter 60); (2) phagocytic defects and (3) intrinsic/innate deficiencies. Phagocytic disorders represent ~9% of all IEIs, whereas intrinsic/innate defects represent 15% of all IEI (78 genes) (Table 55.1). The main characteristics of innate immune defects is that they manifest with _infectious susceptibility_ , as opposed to other IEI which can also include signs of immune dysregulation such as autoimmunity, lymphoproliferation or severe atopy. Innate immune defects are also implicated in autoinflammatory disorders (i.e., recurrent fever syndromes) (Chapter 57). Innate immune defects manifest in the first 10 years of life but typically in children younger than 5 years old. Commonly used immunological studies to diagnose an IEI (e.g., lymphocyte enumeration, 
+
+immunoglobulin levels, vaccine responses) are often normal; diagnosis of innate immune defects requires specific immunological or genetic testing. 
+
+## **Clinical Spectrum of Innate Immune Defects** 
+
+Newborns and infants have poor adaptive immune responses and rely on maternal antibodies and the innate immune system for infection prevention. Defects in the innate immune system present with microbial susceptibility starting from an early age (infant). Some innate immune defects have very limited spectrum of susceptibility (e.g., Toll-like receptor defects) whereas others have wide spectrum of susceptibility, such as phagocytic defects (Table 55.2). This group is divided into different subgroups depending on the microorganisms to which patients are susceptible: pyogenic bacteria (Table 55.3), mycobacteria (Table 55.4), virus (Table 55.5), parasites or fungus (Table 55.6). This phenotypic approach can be useful for clinicians when approaching a patient with a suspected IEI. The following manifestations can be observed in innate immune deficiencies: 
+
+1. localized viral infections in the brain (i.e., encephalitis), skin, liver, or lung. 
+
+2. systemic viral infections. 
+
+3. localized bacterial infections (hidradenitis, abscesses). 
+
+4. systemic pyogenic bacterial infections. 
+
+5. systemic mycobacterial infections and other intracellular infections such as _Leishmania_ . 
+
+6. localized fungal infections, mainly chronic mucocutaneous candidiasis. 
+
+7. systemic fungal infections. 
+
+8. parasitic infections (leishmaniasis, toxoplasmosis, trypanosomiasis). 
+
+_(Text continued on page 1232)_
+
+<!-- p.1249 -->
+
+##### **TABLE** 
+
+##### **55.1** 
+
+#### **Phagocytic, Intrinsic and Innate Immune Deficiencies** 
+
+||Genes<br>|Pattern of<br>||Genes<br>|Pattern of<br>|
+|---|---|---|---|---|---|
+|Disease|Involved|Inheritance|Disease|Involved|Inheritance|
+|**Congenital Neutropenias:**|**22 Genes**||**Mendelian Susceptibility**<br>|**to Mycobacteri**|**al Disease**|
+|Severe congenital|_ELANE GFI1_|AD|**(MSMD): 19 Genes**|||
+|<br>neutropenia|_,_<br>_G6PC3, VPS45_|AR|IL-12 and IL-23 receptor<br>β1 chain deficiency|_IL12RB1_|AR|
+|Kostmann disease<br>|_HAX1_<br>|AR<br>|i<br>IL-12p40 (IL-12 and IL-23)<br>i|_IL12B_|AR|
+|Glycogen storage disease<br>|_G6PT1_|AR|deficiency<br>i|||
+|type 1b|||IL-12Rβ2 deficiency<br>i|_IL12RB2_|AR|
+|X-linked neutropenia<br>P14/LAMTOR2 deficiency|_WAS_<br>_LAMTOR2_|XL<br>AR|IL-23R deficiency<br>IFN-γreceptor 1 deficiency|_IL23R_<br>_IFNGR1_|AR<br>AR, AD|
+|i<br>Barth syndrome<br>|_TAZ_|XL|i<br>IFN-receptor 2 deficiency<br>i|_IFNGR2_<br>|AR, AD<br>|
+|(3-Methylglutaconic aciduria|||STAT1 deficiency|_STAT1_|AR, AD|
+|type II)<br>|||Macrophage gp91 phox<br>i|_CYBB_|XL|
+|Cohen syndrome|_VPS13B_|AR|deficiency|||
+|<br>Clericuzio syndrome|_USB1_|AR|i<br>IKBKG (NEMO)<br>i|_IKBKG_|XL|
+|(Poikiloderma with|||IRF8 deficiency<br>i|_IRF8_|AR, AD|
+|neutropenia)<br>i|||SPPL2a deficiency<br>i|_SPPL2A_<br>|AR<br>|
+|JAGN1 deficiency|_JAGN1_|AR|Tyk2 deficiency|_TYK2_|AR|
+|i<br>3-Methylglutaconic aciduria<br>i|_CLPB_<br>|AR<br>|i<br>P1104A TYK2 homozygosity<br>i|_TYK2_<br>|AR<br>|
+|G-CSF receptor deficiency|_CSF3R_|AR|ISG15 deficiency|_ISG15_|AR|
+|i<br>SMARCD2 deficiency<br>i  i|_SMARCD2_|AR|i<br>RORγt deficiency<br>i|_RORC_|AR|
+|Specific granule deficiency|_CEBPE_|AR|JAK1 deficiency|_JAK1_|AR|
+|i  i<br>Shwachman-Diamond|_SBDS, DNAJC21_|_,_<br>AR|i<br>T-bet deficiency<br>i|_TBX21_|AR|
+|syndrome|_EFL1_||IFN-γdeficiency|_IFNG_|AR|
+|HYOU1 deficiency<br>i|_HYOU1_|AD|i<br>IRF1 deficiency<br>i|_IRF1_|AR|
+|SRP54 deficiency|_SRP54_|AR|USP18 deficiency|_USP18_|AR|
+|i<br>CXCR2 deficiency|_CXCR2_|AR|i<br>ZNFX1 deficiency<br>i|_ZNFX1_<br>|AR<br>|
+|**Defects of Phagocyte Mo**|**tility: 10 Genes**||MCTS1 deficiency|_MCTS1_|XL|
+|Leukocyte adhesion|_ITGB2_|AR|**Epidermodysplasia Verru**|**ciformis(HPV):**|**4 Genes**|
+|<br>deficiency type 1 (LAD1)<br>Leukocyte adhesion|_SLC35C1_|AR|EVER1 deficiency<br>EVER2 deficiency|_TMC6_<br>_TMC8_|AR<br>AR|
+|<br>deficiency type 2 (LAD2)|||i<br>CIB1 deficiency|_CIB1_|AR|
+|Leukocyte adhesion<br>i|_FERMT3_|AR|WHIM (Warts,|_CXCR4_|AD|
+|deficiency type 3 (LAD3)<br>i|||Hypogammaglobulinemia,|||
+|Rac2 deficiency LOF|_RAC2_|AD|infections, Myelokathexis)|||
+|i<br>Actin deficiency<br>|_ACTB_<br>|AD<br>|<br>syndrome|||
+|Localized juvenile<br>periodontitis|_FPR1_|AR|**Predisposition to Severe**<br>i|**Viral Infection:**|**12 Genes**|
+|Papillon-Lefèvre syndrome|_CTSC_|AR|STAT1 deficiency|_STAT1_|AR|
+|<br>WDR1 deficiency<br>i|_WDR1_|AR|i<br>STAT2 deficiency<br>i|_STAT2_<br>|AR<br>|
+|Cystic fibrosis<br>Neutropenia with combined<br>i|_CFTR_<br>_MKL1_|AR<br>AR|IRF9 deficiency<br>IRF7 deficiency<br>i|_IRF9_<br>_IRF7_|AR<br>AR|
+|immune deficiency due to|||IFNAR1 deficiency|_IFNAR1_|AR|
+|i<br>MKL1 deficiency|||i<br>IFNAR2 deficiency<br>i|_IFNAR2_<br>|AR<br>|
+|**Defects in Respiratory Bu**|**rst: 7 Genes**||MDA5 deficiency<br>NOS2 deficiency<br>i|_IFIH1_<br>_NOS2_|AR<br>AR|
+|X-linked chronic|_CYBB_|XL|i<br>ZNFX1 deficiency|_ZNFX1_|AR|
+|granulomatous disease|||i<br>RNA polymerase III<br>i|_POLR3A_|AD|
+|(CGD)<br>Autosomal recessive CGD|_CYBA_|AR|deficiency|_POLR3C_<br>_POLR3F_|AD<br>AD|
+||_CYBC1_|AR||||
+||||**Herpes Simplex Encepha**|**litis(HSE): 11 G**|**enes**|
+||_NCF1_<br>_NCF2_|AR<br>AR|TLR3 deficiency|_TLR3_|AD, AR|
+|i|_NCF4_|AR|i<br>UNC93B1 deficiency<br>i|_UNC93B1_<br>|AR<br>|
+|G6PD deficiency class I|_G6PD_|XL|TRAF3 deficiency|_TRAF3_|AD|
+|i<br>**Other Phagocytic Defects**|**: 3 Genes**||i<br>TRIF deficiency<br>TBK1 deficiency|_TICAM1_<br>_TBK1_|AD, AR<br>AD|
+|GATA2 deficiency|_GATA2_<br>|AD|i<br>IRF3 deficiency<br>i|_IRF3_<br>|AD<br>|
+|Pulmonary alveolar<br>|_CSF2RA_<br>|PA<br>|DBR1 deficiency<br>i|_DBR1_<br>|AR<br>|
+|proteinosis|_CSFR2B_|AR|SNORA31 deficiency<br>i|_SNORA31_|AD|
+||||ATG4A deficiency<br>i|_ATG4_<br>|AD<br>|
+||||MAP1LC3B2 deficiency<br>RIPK3|_MAP1LC3B2_<br>_RIPK3_|AD<br>AR|
+
+
+_(Continued)_
+
+<!-- p.1250 -->
+
+|**TABLE**<br>**55.1**|
+|---|
+
+
+#### **Phagocytic, Intrinsic and Innate Immune Deficiencies—cont'd** 
+
+|Disease|Genes<br>Involved|Pattern of<br>Inheritance|Disease|Genes<br>Involved|Pattern of<br>Inheritance|
+|---|---|---|---|---|---|
+|**Predisposition to Invasiv**<br>i|**e Fungal Disea**|**ses: 1 Gene**|**Other Inborn Errors of I**<br>|**mmunity Related**<br>|**to**|
+|CARD9 deficiency|_CARD9_|AR|**Nonhematopoietic Tissu**|**es: 15 Genes**||
+|**Predisposition to Mucoc**<br>**8 Genes**<br>i|**utaneous Can**|**didiasis:**|Isolated congenital<br>asplenia (ICA)|_RPSA_<br>_HMOX_|AD<br>AR|
+|IL-17RA deficiency<br>i|_IL17RA_|AR|Trypanosomiasis|_APOL1_|AD|
+|IL-17RC deficiency<br>IL-17F deficiency|_IL17RC_<br>_IL17F_|AR<br>AD|Acute liver failure due to<br>NBAS deficiency|_NBAS_|AR|
+|STAT1 GOF<br>ACT1 deficiency<br>JNK1 haploinsufficiency<br>RORC deficiency<br>IL23R deficiency|_STAT1_<br>_TRAF3IP2_<br>_MAPK8_<br>_RORC_<br>_IL23R_|AD<br>AR<br>AD<br>AR<br>AR|i<br>Acute necrotizing<br>encephalopathy<br>Osteopetrosis|_RANBP2_<br>_CLCN7, SNX10,_<br>_OSTM1,_<br>_PLEKHM1,_|AR<br>AR|
+|**TLR Signaling Pathway Di**<br>**Susceptibility: 6 Genes**|**eficiency With**|**i  Bacterial**||_TCIRG1,_<br>_TNFRSF11A,_<br>_TNFSF11_||
+|IRAK4 deficiency<br>MyD88 deficiency<br>IRAK1 deficiency|_IRAK4_<br>_MYD88_<br>_IRAK1_|AR<br>AR<br>XL|Hidradenitis suppurativa|_NCSTN, PSEN,_<br>_PSENEN_|AD|
+|i<br>(X-linked MECP2 deficiency-<br>related syndrome due to|||**Other Inborn Errors of I**<br>**Leukocytes: 2 Genes**|**mmunity Related**|**to**|
+|a large de novo Xq28<br>chromosomal deletion<br>encompassing both<br>MECP2 and IRAK1)|||IRF4 haploinsufficiency<br>(Whipple disease)<br>IL-18BP deficiency<br>(Fulminant viral hepatitis)|_IRF4_<br>_IL18BP_|AD<br>AR|
+|TIRAP deficiency<br>i|_TIRAP_|AR||||
+|TLR7 deficiency XL|_TLR7_|XL|_AD,_Autosomal dominant;_AR,_au|tosomal recessive;_PA,_|pseudoautosomal|
+|i<br>TLR8 GOF|_TLR8_|XL|recessive;_XL,_X-linked.|||
+
+
+
+#### **TABLE 55.2** Infectious Susc i eptibility Spectrum in Phagocytic vs. Inn i ate Immune Deficiencies
+
+||Phagocytic Disorders|Intrinsic and Innate Deficiencies|
+|---|---|---|
+|Age at presentation|Infant|Infant|
+|Types of infections|Many infectious episodes<br>Many different pathogens<br>Pondostatural developmental delay|Few infections<br>Few pathogens<br>Child apparently healthy|
+|Pathogens|Bacteria, mycobacteria, fungi|Bacteria, mycobacteria, fungi, virus, parasites|
+|Prognosis|Worsens with age|Improves after adolescence|
+|Genetics|AD, AR, XL|AD, AR, XL|
+|Examples|Severe congenital neutropenia<br>Chronic granulomatous disease<br>Leukocyte adhesion deficiency|Toll-pathway deficiency<br>IFN type I or type II deficiencies|
+
+
+_AD,_ Autosomal dominant; _AR,_ autosomal recessive; _PA,_ pseudoautosomal recessive; _XL,_ X-linked.
+
+<!-- p.1251 -->
+
+#### **TABLE 55.3 Innate Defects With Bacterial Susceptibility** 
+
+|Disease|Gene/Inheritance|Clinical Phenotype|Laboratory Parameters|
+|---|---|---|---|
+|IRAK4<br>deficiency|_IRAK4,_AR|Early-onset invasive pyogenic bacterial infections<br>resolving in adolescence<br>Persistence of noninvasive skin and URT infections|↓IL-6, undetectable CRP in<br>setting of infection<br>↓CSM B cells<br>Poor specific antibody levels to<br>pneumococcus|
+|MyD88<br>deficiency|_MYD88,_AR|Early-onset invasive pyogenic bacterial infections<br>resolving in adolescence<br>Persistence of noninvasive skin and URT infections|↓IL-6, undetectable CRP in<br>setting of infection<br>↓CSM B cells|
+|IRAK1<br>deficiency|_IRAK1,_XL|Undefined as reported in only one patient with Rett<br>syndrome|Unknown|
+|TIRAP<br>deficiency|_TIRAP,_AR|Undefined<br>Identified in nine members of one family with only<br>one affected (pneumonia and sepsis from<br>PVL-associated_Staphylococcus aureus_|Selectively↓CSM B cells|
+|Isolated<br>|_RPSA,_AD|Sepsis with encapsulated bacteria, absent spleen|HJB on blood smear|
+|congenital<br>asplenia|_PBX1, NKX2-5,_<br>_BAPX1, POD1,_AR|Sepsis with encapsulated bacteria, absent spleen|HJB on blood smear|
+|_AD,_Autosomal d<br>_URT,_upper respir<br>From Bergerson J<br>2025, Elsevier, Ph|ominant;_AR,_autosomal recess<br>atory tract;_XL,_X-linked.<br>RE, Freeman AF: Susceptibility<br>iladelphia (Table 175.3, p. 1341|ive;_CSM,_class switched memory;_HJB,_Howell-Jolly bodies;_IL,_i<br>to invasive bacterial infections in Kliegman RM, St Gemme III JW<br>).|nterleukin;_PVL,_Panton-Valentine leukocidin;<br>(editors)_Nelson Textbook of Pediatrics_22/e,|
+
+
+
+#### **TABLE 55.4** Mendelian Susc eptibility to Mycobacter ial Disease Defects
+
+||Gene/Inheritance|Clinical Phenotype|Treatment|
+|---|---|---|---|
+|Complete  IFN-gR1 or<br>IFN-gR2 deficiency|_IFNGR1_or_IFNGR2_/AR|Early onset disseminated NTM or<br>BCG|Antimycobacterials; HSCT|
+|Autosomal dominant<br>IFN-gR1 or IFN-gR2<br>deficiency|_IFNGR1_or_IFNGR2_/AD|NTM or BCG osteomyelitis,<br>disseminated_Salmonella,_<br>disseminated endemic mycoses|Antimycobacterials; adjuvant<br>IFN-γ|
+|IL-12RB1 deficiency|_IL12RB1_/AR|Disseminated NTM, BCG,_Salmonella_<br>Mucocutaneous candidiasis<br>Variable penetration|Antimycobacterials; consider<br>IFN-γwith careful<br>monitoring|
+|IL-12p40 deficiency|_IL12B_/AR|Disseminated NTM, BCG,_Salmonella_<br>Variable penetration|Antimycobacterials; consider<br>IFN-γwith careful<br>monitoring|
+|IL-12Rb2 deficiency|_IL12RB2_/AR|NTM, BCG, and tuberculosis|Antimycobacterials|
+|IL-23R deficiency|_IL23R_/AR|NTM, BCG, and tuberculosis|Antimycobacterials|
+|STAT1 LOF|_STAT1_/AD|Disseminated BCG/NTM, often<br>osteomyelitis|Antimycobacterials; consider<br>IFN-γ|
+|SPPL2a deficiency|_SPPL2A_/AR|Disseminated BCG|Antimycobacterials|
+|TYK2 deficiency|_TYK2_/AR|Disseminated BCG, tuberculosis, viral<br>infections|Antimycobacterials|
+
+
+_(Continued)_
+
+<!-- p.1252 -->
+
+|**TABLE**<br>**55.4**|
+|---|
+
+
+#### **Mendelian Susceptibility to Mycobacterial Disease Defects—cont'd** 
+
+||Gene/Inheritance|Clinical Phenotype|Treatment|
+|---|---|---|---|
+|Macrophage gp91 phox<br>deficiency|_CYBB_/XL; distinct variants<br>than those causing CGD|Disseminated BCG|Antimycobacterials|
+|IRF8 deficiency|_IRF8_/AD|Disseminated BCG, NTM|Antimycobacterials|
+|IRF8 deficiency|_IRF8_/AR|Viral, mycobacterial, mucocutaneous<br>candidiasis|Antimicrobials, HSCT|
+|ISG15 deficiency|_ISG15_/AR|Disseminated BCG|Antimycobacterials|
+|RORγt deficiency|_RORC_/AR|Disseminated BCG and<br>mucocutaneous candidiasis|Antimicrobials|
+|JAK1 LOF|_JAK1_/AR|Bacterial, viral, and disseminated NTM|Antimicrobials|
+
+
+_AD,_ Autosomal dominant; _AR,_ autosomal recessive; _BCG,_ bacilli Calmette-Guérin; _CGD,_ chronic granulomatous disease; _HSCT,_ hematopoietic stem cell transplantation; _IFN,_ interferon; _LOF,_ loss of function; _NTM,_ nontuberculous mycobacteria. 
+
+From Bergerson JRE, Freeman AF: Susceptibility to invasive bacterial infections in Kliegman RM, St Gemme III JW (editors) _Nelson Textbook of Pediatrics_ 22/e, 2025, Elsevier, Philadelphia (Table 175.1, p. 1336). 
+
+##### **TABLE** 
+
+|**55.5**|
+|---|
+
+
+#### **Defects With Predominant Susceptibility to Viral Infections** 
+
+|Syndrome|Gene/Inheritance|Clinical Phenotype|Treatment|
+|---|---|---|---|
+|Epidermodysplasia<br>verruciformis|_EVER1, EVER2,_<br>_CIB1_/AR|Diffuse flat warts, with increased skin<br>cancers|Avoid UV/radiation exposure, skin<br>cancer screening.|
+|WHIM syndrome|_CXCR4_/AD|Warts, squamous cell cancer,<br>sinopulmonary infections, neutropenia,<br>hypogammaglobulinemia|G-CSF, IgRT, plerixafor|
+|IFNAR1 deficiency|_IFNAR1_/AR|Severe disease after live viral vaccination<br>(MMR, yellow fever), herpesviruses|Avoid live viral vaccination, consider<br>HSV/VZV prophylaxis|
+|IFNAR2 deficiency|_IFNAR2_/AR|Severe disease after live viral vaccination<br>(MMR, yellow fever), herpesviruses|Avoid live viral vaccination, consider<br>HSV/VZV prophylaxis|
+|Complete STAT1<br>deficiency|_STAT1_/AR|Early-onset severe viral and disseminated<br>_Mycobacteria_|Early HSCT|
+|STAT2 deficiency|_STAT2_/AR|Severe respiratory viruses, enterovirus;<br>some live viral vaccine disease|Avoid live viral vaccines|
+|IRF9 deficiency|_IRF9_/AR|Severe respiratory viruses, enterovirus;<br>some live viral vaccine disease|Avoid live viral vaccines|
+|IRF7 deficiency|_IRF7_/AR|Severe influenza|Influenza vaccination*|
+|MDA5 deficiency|_IFIH1_/AR or AD|Severe respiratory tract infections|Influenza vaccination|
+|RNA polymerase III<br>deficiency|_POL3A, POL3C,_<br>_POL3F_/AD|Severe varicella-zoster|Antiviral prophylaxis|
+|CD16 deficiency|_FCGR31_/AR|Herpes family infections, HPV|Antiviral prophylaxis|
+|IL-18BP deficiency|_IL18BP_/AR|Fulminant hepatitis A|Hepatitis A vaccination|
+|TLR3 deficiency|_TLR3_/AD and AR|HSV encephalitis, severe influenza, zoster|Antiviral prophylaxis|
+|TRAF3 deficiency|_TRAF3_/AD|HSV encephalitis|Antiviral prophylaxis|
+
+
+_(Continued)_
+
+<!-- p.1253 -->
+
+##### **TABLE 55.5** 
+
+#### **Defects With Predominant Susceptibility to Viral Infections—cont'd** 
+
+|Syndrome|Gene/Inheritance|Clinical Phenotype|Treatment|
+|---|---|---|---|
+|TRIF deficiency|_TRIF_/AD and AR|HSV encephalitis|Antiviral prophylaxis|
+|UNC93B1 deficiency|_UNC93B1_/AR|HSV encephalitis|Antiviral prophylaxis|
+|TBNK1 deficiency|_TBNK1_/AD|HSV encephalitis|Antiviral prophylaxis|
+|IRF3 deficiency|_IRF3_/AD|HSV encephalitis|Antiviral prophylaxis|
+|DRB1 deficiency|_DRB1_/AR|Brainstem encephalitis|Antiviral prophylaxis|
+
+
+*Although influenza vaccination is highlighted for certain inborn errors of immunity (IEIs), influenza vaccination should be given to all those with IEIs and their close contacts unless there is a contraindication. In addition, HPV vaccination should be given per the recommended schedule. Vaccination at an earlier age can be considered for certain defects with HPV predisposition. 
+
+_AD,_ Autosomal dominant; _AR,_ autosomal recessive; _G-CSF,_ granulocyte colony-stimulating factor; _HPV,_ human papillomavirus; _HSCT,_ hematopoietic stem cell transplantation; _HSV,_ herpes simplex virus _IFN,_ interferon; _MMR,_ measles mumps rubella; _UV,_ ultraviolet; _VZV,_ varicella-zoster virus; _WHIM,_ (wart, hypogammaglobulinemia, infections, myelokathexis) syndrome. 
+
+From Bergerson JRE, Freeman AF: Susceptibility to invasive bacterial infections in Kliegman RM, St Gemme III JW (editors) _Nelson Textbook of Pediatrics_ 22/e, 2025, Elsevier, Philadelphia (Table 175.2, p. 1339). 
+
+
+#### **TABLE 55.6** Chronic M ucocutaneo us Candidia sis Associated Inborn Errors of Immu nity
+
+|Syndrome|Gene|Inheritance|Fungal Species|Other Manifestations|
+|---|---|---|---|---|
+|CARD9 deficiency|_CARD9_|AR|_Candida_spp. (often CNS involvement),<br>CMC<br>_Aspergillus_spp. (extrapulmonary),<br>dermatophytes, phaeohyphomycosis|Some with increased IgE and<br>eosinophilia|
+|IL-17F deficiency|_IL17F_|AD|CMC|Asthma, folliculitis|
+|IL-17RA deficiency|_IL17RA_|AR|CMC|Folliculitis, susceptibility to<br>_Staphylococcus aureus_(skin)<br>bacterial infections|
+|IL-17RC|_IL17RC_|AR|CMC|None|
+|ACT1|_TRAF3IP2_|AR|CMC|Seborrheic dermatitis|
+|STAT1 GOF|_STAT1_|AD|CMC,_Histoplasma capsulatum_,<br>_Coccidioides_spp._Talaromyces_<br>_marneffei, Trichophyton, Cryptococcus,_<br>_Aspergillus, Mucorales_|<br>Herpes viral infections, bacterial<br>sinopulmonary and skin infections,<br>mycobacterial pulmonary and<br>disseminated infections, CNS<br>aneurysms, autoimmunity|
+
+
+_AD,_ Autosomal dominant; _AR,_ autosomal recessive; _CMC,_ chronic mucocutaneous candidiasis; _CNS,_ central nervous system; _GOF,_ gain of function; _IL,_ interleukin. 
+
+From Bergerson JRE, Freeman AF: Susceptibility to invasive bacterial infections in Kliegman RM, St Gemme III JW (editors) _Nelson Textbook of Pediatrics_ 22/e, 2025, Elsevier, Philadelphia (Table 175.4, p. 1343). 
+
+## **Defects in Toll-Like Signaling: Susceptibility to Pyogenic Bacterial** 
+
+## **Infections and SARS-CoV-2** 
+
+Toll-like receptors (TLRs) are important sensors of infectious agents; they are expressed on myeloid leukocytes, particularly monocytes, macrophages, and dendritic cells 
+
+(DCs). Certain TLRs are also found on lymphocytes and nonhematopoietic cells, such as fibroblasts, oligodendrocytes, and epithelial cells. Each of the 10 TLRs is able to sense molecular patterns that are evolutionary conserved in bacteria, mycobacteria, viruses, fungi, and parasites. The molecular patterns recognized by TLRs tend to be constitutive and essential components of microorganisms without which their survival would be compromised, such as
+
+<!-- p.1254 -->
+
+lipoproteins, carbohydrates, lipopolysaccharides, and nucleic acids. TLR1/2/4/5/6/10 are surface receptors which sense extracellular components of the microorganisms and TLR3/7/8/9 are intracellular and sense DNA or RNA from microorganisms. All TLRs, except for TLR3, activate signaling intermediates eventually resulting in the activation and nuclear translocation of _nuclear factor kappa-lightchain-enhancer of activated B cells_ (NF-κB) and the transcription of proinflammatory cytokines including IL-6, IL-1β and TNF. Most TLRs (except TLR3, and partially TLR4) and IL-1 receptors (IL1-R) (responsible of the response to IL-1 and IL-18) share a common cytoplasmic domain, named the Toll and IL-1R (TIR) domain which recruits the common downstream adaptor MyD88. IRAK (IL-R associated kinase) family members (such as IRAK-4 and IRAK-1) are selectively recruited to TLRs and IL-1Rs by MyD88. This results in activation of the NEMO/ IKKα/IKKβ complex, phosphorylation and degradation of the inhibitor protein IκBα, and release of NF-κB transcription factors which then enter the nucleus and induce transcription. TLR3 signals independently of MyD88 through TRIF (TIR domain containing adapter inducing interferon-β) and activates the production of type 1 and 3 interferons (IFN) which are important in the control of viral infections. TLR4 can signal both via TIRAP/MyD88 or TRIF activating both interferon transcription and NF-κB activation. 
+
+### **Deficiencies in IRAK-4 and MyD88** 
+
+IRAK-4 deficiency and MyD88 deficiency are autosomal recessive disorders (AR) which show complete penetrance for infections and are phenocopies of each other. The central feature of IRAK-4 and MyD88 deficiencies is the high susceptibility to invasive and noninvasive infections with only a few Gram-positive, mainly _S. pneumoniae_ and _S. aureus_ , and Gram-negative bacteria such as pseudomonas (Table 55.1 and 55.3). Local or systemic signs of inflammation (including C-reactive protein elevation, fever) are absent or reduced in the course of infections. IRAK-4 and MyD88 deficiencies are indistinguishable (also named phenocopies). During infection, some patients develop transient neutropenia. Invasive infections include sepsis, meningitis, arthritis, osteomyelitis, and deep inner organs/ tissue abscesses, caused by _S. pneumoniae_ (70% of cases) and to a lesser extent by _S. aureus_ and _P. aeruginosa_ . Most patients have their first invasive bacterial infection before the age of 2 years (85% of IRAK-4 deficient patients and 92% of MyD88 deficient patients, and before the age of 6 months in 42% of patients). One of the major causes of death is pneumococcal sepsis-meningitis at early ages. The combination of invasive pneumococcal and staphylococcal disease is highly suggestive of a TIR deficiency. No invasive infections have been described after adolescence, suggesting that the MyD88/IRAK-4–dependent pathway becomes redundant once acquired immunity is fully functional and 
+
+can ensure protection. Noninvasive infections (cellulitis, furunculosis, folliculitis, lymphadenitis, usually necrotizing, and infections of the respiratory tract) are caused by _S. aureus_ and to a lesser extent by _Pneumococcus_ and _P. aeruginosa_ . Infections by other Gram-positive and Gram-negative bacteria have also been observed; IRAK-4/ MyD88-deficient patients are resistant to infections due to mycobacteria, viruses, fungi, and parasites. Late umbilical cord separation (>2 weeks of age) has also been described in patients with IRAK-4 deficiency. During the COVID-19 pandemic, patients with IRAK-4 or MyD88 deficiency were highly susceptible to hypoxemic pneumonia. This was the first description of these deficiencies being susceptible to virus; this is due to a defect in type I IFN production by plasmacytoid dendritic cells which depends on TLR7MyD88 pathway. 
+
+Patients with IRAK-4/MyD88 deficiency may show an elevation of IgE and IgG4 with normal levels of IgG, IgA, IgM. Production of specific antibodies against nonconjugated pneumococcal polysaccharides may be diminished. No overt abnormalities in leukocyte subsets are observed in patients with IRAK-4 or MyD88 deficiencies except for a modest impact on IgM-dependent B-cell immunity. Conventional immune testing is not sufficient to diagnose IRAK-4/MyD88 deficiency. Specific diagnostic studies must be performed such as CD62L shedding and/or cytokine production evaluation upon TLR stimulation. Definitive diagnosis is made through genetic testing. 
+
+### **Deficiencies in NEMO and IkBa** 
+
+Most TLRs signal through IRAK-4/MyD88 to ultimately activate NF-κB. NF-κB is central to TLR signaling but also to T and B cell activation as well as many other immune and nonimmune pathways. NEMO (i.e., NF-κB essential modifier) and IκBα are central to NF-κB activation; defects in these proteins results in similar phenotype. NEMO deficiency is an X-linked recessive disorder whereas IkBa deficiency is an autosomal dominant disorder. Both can result in a variety of bacterial infections that are seen in TLR defects, such as pneumococcal and staphylococcal infections; a variety of other infections including mycobacterial susceptibility, fungal infections, _Candida_ , as well as a number of viruses such as adenovirus, CMV, and EBV. In addition, these patients have short stature and have ectodermal dysplasia with ichthyosis, conical teeth, and an absence of sweat glands, highlighting the importance of NF-κB in multiple pathways (Table 55.7). These defects can be considered a combined immune defect with TLR defects as well. 
+
+## **Other Intrinsic and Innate Deficiencies With Susceptibility to Bacteria** 
+
+**Deficiency in IRAK-1** (Table 55.1 and 55.3) was observed in the context of a _de novo_ large deletion encompassing
+
+<!-- p.1255 -->
+
+
+#### **TABLE 55.7** De fects of Nucle ar Factor-kB Pathways Associa Autoimmune or Inflammatory ted With Immune Dysregula tion
+
+|Protein|Inheritance|Complications|Other Manifestations|Immunological Phenotype|
+|---|---|---|---|---|
+|IKBKG<br>(NEMO)|XL|Colitis|• Ectodermal dysplasia<br>• Osteopetrosis<br>• Lymphedema<br>• Bacterial infections<br>• Opportunistic infections<br>• DNA viral infections|• Hypogammaglobulinemia<br>• Hyper-IgM<br>• Hyper-IgA<br>• Hyper-IgD<br>• Poor antibody responses<br>• Decreased NK cell function<br>• Decreased TLR responses|
+|NF-κB1|AD|• Pyoderma gangrenosum<br>• Lymphoproliferation<br>• Cytopenia<br>• Hypothyroidism<br>• Alopecia areata<br>• Enteritis<br>• LIP<br>• NRH|• Atrophic gastritis<br>• Squamous cell carcinoma<br>• Respiratory tract infections<br>• Superficial skin infections<br>• Lung adenocarcinoma<br>• Respiratory insufficiency<br>• Aortic stenosis<br>• Non-Hodgkin lymphoma|• Hypogammaglobulinemia<br>• IgA deficiency|
+|NF-κB2|AD|• Alopecia totalis<br>• Trachyonychia<br>• Vitiligo<br>• Autoantibodies: thyroid<br>peroxidase, glutamate<br>decarboxylase, thyroglobulin<br>• Central adrenal insufficiency|• Viral respiratory infections<br>• Pneumonias<br>• Sinusitis<br>• Otitis media<br>• Recurrent herpes<br>• Asthma<br>• Type 1 Chiari malformation<br>• Interstitial lung disease|• Early-onset<br>hypogammaglobulinemia<br>• Low vaccine responses<br>• Variable B-cell counts<br>• Low switched memory B<br>cells (CD19<sup>+</sup>CD27<sup>+</sup>IgD<sup>−</sup>)<br>• Low marginal zone B cells<br>(CD19<sup>+</sup>CD27<sup>+</sup>IgD<sup>+</sup>)|
+
+
+_AD,_ Autosomal dominant; _LIP,_ lymphocytic interstitial pneumonitis; _NRH,_ nonregenerative hyperplasia; _TLR,_ Toll-like receptor; _XL,_ X-linked. From Arnold DE, Leiding JW: Immune dysregulation in Kliegman RM, St Gemme III JW (editors) _Nelson Textbook of Pediatrics_ 22/e, 2025, Elsevier, Philadelphia (Table 174.8, p. 1334). 
+
+_MECP2_ and _IRAK1_ genes in a male with severe congenital encephalopathy with a urinary tract infection by _Klebsiella pneumoniae_ and two episodes of aspiration pneumonia. With this single case, it is not possible to ascribe the infectious susceptibility to IRAK-1 deficiency or to the neurological impairment because the clinical features found in this patient are similar to those found in patients with isolated MECP2 deficiency. 
+
+**TIRAP deficiency** (Table 55.1 and Table 55.3) was described in a patient with pneumonia and sepsis due to _S. aureus_ at three months of age; the pathophysiology was described to the inability of the proband to develop autoantibodies against lipoteicocic acid which is abundant in _S. aureus_ . The other seven individuals with the same homozygous TIRAP variant remained healthy during their life. 
+
+**Isolated congenital asplenia** (ICA) caused by pathogenic variants in _RPSA_ or _HMOX_ predisposes individuals to life-threatening invasive infections early in childhood, caused by encapsulated bacteria, typically _S. pneumoniae_ but occasionally _Neisseria meningitidis_ and _Haemophilus influenzae b_ . No spleen or small size of spleen is evident at birth without any other developmental defect such as heterotaxia. The morphological evaluation of a blood smear is crucial. ICA is diagnosed, based on the results of ultrasonography/ MRI or the presence of Howell-Jolly bodies in blood smears. 
+
+## **Defects In Type 1 Interferon (IFN) Signaling: Susceptibility to Virus** 
+
+### **Herpes Simplex Virus Encephalitis (HSE) Due to Deficiencies of the TLR3 Pathway** 
+
+During a primary infection, herpes simplex virus 1 (HSV-1) can infect the central nervous system (CNS) causing herpes simplex virus encephalitis (HSE). HSE is the most common form of sporadic viral encephalitis in Western countries; it is a rare condition estimated to occur in ~2 to 4 per 1,000,000 individuals per year. There are two peaks of HSE incidence, between the ages of 6 months to 3 years, and in individuals older than 50 years, the latter due to viral reactivation from latency as opposed to primary infection during the first peak. Human defects in several components of Toll-like receptor 3 (TLR3) signaling pathway and the IFN α/β receptor 1 (IFNAR1) pathway ( _TLR3, TRIF, TRAF3, TBK1, IRF3, UNC93B1, IFNAR1, TYK2, STAT1, STAT2, DBR1, SNORA31, ATG4A_ , and _MAP1LC3B2_ ; Table 55.1 and Table 55.5) are known genetic causes predisposing to HSE. These genetic defects impair cortical neuron-intrinsic type I IFN immunity to HSV-1. TLR3 is an intracellular sensor of dsRNA and is important for recognition of a DNA virus such as HSV-1 because all viruses
+
+<!-- p.1256 -->
+
+produce dsRNA during replication; this dsRNA is released into extracellular space following lysis of infected cells. Cells expressing TLR3 have the ability to defend against HSV-1 by using this receptor to respond to dsRNA, and is particularly crucial to innate antiviral defense in the CNS. TLR3 signals independently of MyD88 through TRIF. TLR3 is expressed and can stimulate IFN-β and IFN-λ1 production in neurons, astrocytes, oligodendrocytes, and microglial cells in response to HSV-infection. The absence of IFN-β and IFN-λ1 production, which have antiviral functions by interfering with viral replication, is considered the basis of the predisposition to HSE. Affected patients remain resistant to other common viruses. 
+
+### **Genetic Etiologies of Papillomaviruses (HPV) Infections in Humans** 
+
+HPVs cause common cutaneous plantar and flat warts, mucosal condyloma, cervical and oropharyngeal lesions. **Epidermodysplasia verruciformis (EV)** is a rare genodermatosis presenting with persistent, disseminated, flat warts and pityriasis versicolor-like skin lesions induced by human β-papillomaviruses (β-HPVs). Some patients will develop nonmelanoma skin cancer. Rare variants in four genes have been linked to EV ( _TMC6, TMC8,_ encoding for EVER1 and EVER2 proteins, respectively, _CIB1_ and _CD28_ , Table 55.1 and Table 55.5), all with AR pattern of inheritance. These genes are relevant for keratinocyte-intrinsic immunity. **Juvenile recurrent respiratory papillomatosis** , driven by some α-HPVs, was shown to be due to biallelic gainof-function (GOF) in NLRP1, suggesting an important role of cell intrinsic immunity against HPVs other than β-HPVs (α, γ, μ and ν). 
+
+**WHIM syndrome** is an autosomal dominant immune deficiency with characteristic clinical features that include susceptibility to HPV infection ( **W** arts, condyloma acuminata and carcinomas, **H** ypogammaglobulinema causing recurrent respiratory **I** nfections, and bone marrow **M** yelokathexis causing neutropenia). Patients have heterozygous C-terminus deletional pathogeneic variants of the intracellular carboxy terminus of the CXC chemokine receptor 4 (CXCR4) resulting in enhanced signaling. Enhanced activity of CXCR4 delays release of mature neutrophils from the bone marrow resulting in neutropenia and senescence with apoptosis of mature neutrophils retained in the marrow. _Myelokathexis is pathognomonic of this syndrome_ . Targeted CXCR4 inhibitors aim at down activate CXCR4 function are showing promising results. 
+
+### **Other Intrinsic and Innate Immune Deficiencies Predisposing to Systemic Viral Infections** 
+
+Host cells sense invading viruses via cellular pattern-recognition receptors (PRRs) to initiate the antiviral innate immune response. PRRs can be classified into several major families, including: Toll-like receptors (TLRs), RIG-I like 
+
+receptor (RLRs), NOD-like receptors (NLRs), C-type lectin receptors (CLRs), AIM2-like receptors (ALRs), and cyclic GMP-AMP synthase (cGAS). Of these, PRRs recognizing nucleic acids include DNA sensors (TLR9, AIM2, IFI16, DAI, and cGAS) and RNA sensors (TLR3, TLR7, TLR8, and RIG-I, MDA5, NLRP3, and NOD2). After sensing the virus through their nucleic acids, selected PRRs activate their adaptors and downstream interferon regulatory factors (IRFs) and NF-κB, leading to the transcription of cytokines (including IFN), chemokines, MHC, and co-stimulatory molecules. Effector functions of IFN are dependent on Jak-STAT signaling with type I and III IFNs activating STAT1 and STAT2. These two molecules heterodimerize and, after binding IRF9, travel to the cell nucleus to induce the transcription of interferon-stimulated genes (ISGs) by binding the IFN-stimulated response elements (ISRE) sequence. 
+
+**Vaccine-Strain Diseases** . Patients with adverse reactions to live attenuated viral vaccines such as the yellow fever vaccine or the measles, mumps, and rubella (MMR) are suggestive of harboring congenital defects in immunity. Such patients often present with nonspecific symptoms, including rash in the site of inoculation, fevers, lymphadenopathy, and organ-specific features such as hepatitis, pneumonitis, hepatosplenomegaly, arthritis, or encephalitis. Vaccine associated diseases were classically due to severe T-cell deficiencies (i.e., severe combined immunodeficiency), but several intrinsic and innate immune defects can cause this as well. Deleterious variants in _STAT2, STAT1, IFNAR1, IFNAR2, GATA2_ (Table 55.1) predispose to these vaccinestrain induced infectious diseases. Presence of neutralizing autoantibodies to type I IFN have also been identified. 
+
+**Wild-Type Virus Severe Diseases** . Patients with lifethreatening diseases (fast-evolving viral infections in the skin, lung, or another organ that lead to acute respiratory distress syndrome, systemic viremia or fulminant hepatitis) caused by normally innocuous viruses, such as rhinovirus, influenza A, VZV, HHV6 or SARS-CoV-2, are also suggestive of harboring congenital defects in immunity. In these cases, and when a T and NK cell deficiencies are ruled out, patients have been identified with deleterious variants in _IFIH1, STAT1 LOF, IFNAR2, POLR3A, POLR3C, POLR3F, IRF7, IRF9, IL18BP, ZNFX1, TLR7, FCGR3A, CD28, NOS2_ (Table 55.1 and Table 55.5). IFN autoantibodies have also been implicated. 
+
+## **Defects in Type 2 Interferon Immunity: Mendelian Susceptibility in Mycobacterial Disease (MSMD)** 
+
+MSMD is a rare group of IEI characterized by selective predisposition to clinical disease caused by BCG vaccines and environmental mycobacteria in otherwise healthy individuals with normal resistance to other microbes. Standard hematological and immunological screening tests for IEIs are generally normal. MSMD occurs in ~1/50,000
+
+<!-- p.1257 -->
+
+individuals of diverse ancestries. The more virulent _M. tuberculosis (M.tb)_ has also been implicated in some patients. Extensive clinical heterogeneity ranging from localized to persistent as well as acute and chronic infections. **Macrophage activation syndrome** may occur in rare cases, probably due to uncontrolled mycobacterial infection. About half of the patients are also particularly susceptible to nontyphoidal _Salmonella_ ; a significant proportion of MSMD patients also have mucocutaneous candidiasis (CMC). Other severe infections have been reported, including viral, parasitic, fungal (histoplasmosis, paracoccidioidomycosis, coccidioido mycosis), or bacterial (listeriosis, nocardiosis, klebsiellosis) infections. Genetic dissection of MSMD has identified deleterious variants in 22 genes, including 19 autosomal ( _IFNGR1, IFNGR2, IFNG, STAT1, JAK1, IRF8, IRF1, SPPL2A, TYK2, IL12B, IL12RB1, IL12RB2, IL23R, TBX21, RORC, ZNFX1, CCR2, ISG15,_ and _USP18_ ) and three X-linked ( _CYBB, NEMO,_ and _MCTS1_ ) (Fig. 55.1 and Table 55.4). The high allelic heterogeneity at these 22 loci has led to the definition of 47 different genetic etiologies of MSMD. All these genes are involved in IFN-γ or type 2 IFN mediated immunity. Most of these genetic defects cause isolated MSMD with limited susceptibility to other bacterial or viral infections, and no other clinical features. Some of these cause _syndromic_ MSMD with susceptible to both mycobacterial as well as a border range of pathogens (i.e., STAT1) or cerebral calcifications (i.e., ISG15 deficiency). The severity and penetrance of MSMD can vary greatly depending on the genetic defect. Rare adult patients with mycobacterial susceptibility 
+
+can have neutralizing autoantibodies to IFN-γ in absence of genetic disease resulting in an autoimmune phenocopy of MSMD. 
+
+### **Whipple Disease and IRF4 Haploinsufficiency** 
+
+Whipple disease (WD) is a rare chronic systemic infection due to _Tropheryma whipplei_ , a rod-shaped Gram-positive bacterium. WD is fatal in absence of an appropriate antibiotic treatment. A rare, heterozygous missense variant in _IRF4_ has been linked with WD. The variant has been identified in nine members of a large French family with AD transmission with age-dependent incomplete penetrance. The patients had normal leukocyte counts, including T and B cells, as well as their subsets. However, the patients’ T cells had an impaired transcriptomic response to _T. whipplei_ when tested by microarray. 
+
+## **Phagocytic Defects: Susceptibility to Bacterial and Fungal Infections (CGD)** 
+
+### **Chronic Granulomatous Disease (CGD)** 
+
+CGD is an IEI caused by genetic defects in the genes encoding any of the nicotinamide adenine dinucleotide phosphate (NADPH) oxidase complex, which is important for the production of reactive oxygen species (ROS), such as superoxide (O2) and hydrogen peroxide (H2O2) (Table 55.8 and Fig. 55.2). CGD is characterized by an absence or an impairment to produce ROS in all phagocytic 
+
+
+![](../../figures/fig_p1258_08.jpg)
+
+
+
+![](../../figures/vfig_p1257_01.jpg)
+
+**Fig. 55.1** Schematic representation of type 2 interferon mediated immunity and related genes in Mendelian susceptibility to mycobacterial diseases (MSMD). Summary of molecules implicated in the IFN-γ circuit. Molecules represented with bold characters are known to cause MSMD. _GAF,_ γ-activated factor; _GAS,_ γ-interferon activated site.
+
+<!-- p.1258 -->
+
+#### **TABLE 55.8 Summary of Molecular Defects in CGD** 
+
+|Gene|Gene<br>Locus|Protein|Inheritance<br>Pattern|Proportion<br>of CGD|
+|---|---|---|---|---|
+|_CYBA_|16q24|p22<sup>phox</sup>|AR|5%|
+|_NCF1_|7q11.23|p47<sup>phox</sup>|AR|20%|
+|_NCF2_|1q25|p67<sup>phox</sup>|AR|5%|
+|_NCF4_|22q13.1|p40<sup>phox</sup>|AR|Case reports|
+|_CYBB_|Xq21.1|gp91<sup>phox</sup>|XL|70%|
+|_CYBC1_|17q25.3|EROS|AR|Case reports|
+
+
+_AR,_ Autosomal recessive; _XL,_ X-linked From Leiding JW, Holland SM: Chronic granulomatous disease in Sullivan KE, Stiehm ER (editors) _Stiehm’s Immune Deficiencies Inborn Errors of Immunity_ , 2/e, 2020, Elsevier, Philadelphia (Table 37.1, p. 830). 
+
+(e.g., _Bulkholderia cepacia_ , _S. aureus_ , _Salmonella_ as well as _Aspergillus_ sp.) (Fig. 55.3). These organisms express catalase, an enzyme that breaks down hydrogen peroxide. In addition, patients may develop mycobacterial infectious disease caused by _Mtb_ or the BCG vaccine. Patients are also susceptible to parasitic infections. Another hallmark of CGD is the presence of dysregulated inflammation with granulomas of the gastrointestinal (GI) tract, lungs, urogenital tract, and the eyes. Loss-of-function (LOF) or hypomorphic variants in _CYBB_ , _CYBA_ , _CYBC1_ , _NCF1_ , _NCF2_ , or _NCF4_ (encoding gp91phox, p22phox, EROS, p47phox, p67phox, or p40phox, respectively) are responsible of CGD. Clinical suspicion of CGD is verified by evaluating the ability of the circulant phagocytes to generate ROS using generally the dihydrorhodamine-1,2,3 (DHR) assay. 
+
+### **Defects in Th17 and CARD9 Signaling: Susceptibility to Fungi** 
+
+
+![](../../figures/fig_p1259_07.jpg)
+
+
+**Fig. 55.2** NADPH oxidase components and activation. On neutrophil activation, the 3 cytosolic components p67 phox, p47 phox, and p40 phox (plus either Rac1 or Rac2) join together and are translocated to the membrane of the phagocytic vacuole. p47 phox guides the cytoplasmic complex to the cytochrome. The NADPH oxidase transfers an electron to O2, thereby forming superoxide, O2. Superoxide is converted to hydrogen peroxide, either spontaneously or by superoxide dismutase (SOD). The primary and secondary granules fuse with the phagolysosome, depositing their contents inside (primary granule: granulocyte elastase, GE; cathepsin G, CG) and embedding their membrane-bound components in the phagosome wall (secondary granule: the cytochrome formed by gp91phox and p22phox). The granule contents provide the most robust mechanism of killing. Hydrogen peroxide is converted to OH or HOCl (bleach) or degraded to H2O þ O2. Vriants in any of the subunits of the NADPH oxidase lead to CGD.  (From Leiding JW, Holland SM: Chronic granulomatous disease in Sullivan KE, Stiehm ER [editors] _Stiehm’s Immune Deficiencies Inborn Errors of Immunity_ 2/e, 2020, Elsevier, Philadelphia [Fig. 37.1, p. 830].) 
+
+cells (neutrophils, eosinophils, monocytes, and macrophages), dendric cells and B cells. The first symptoms occur in infancy or early childhood manifesting as infections of the lung, lymph nodes, liver, gastrointestinal tract, and skin. Patients with CGD have a high predisposition to recurrent or life-threatening fungal and bacterial infections 
+
+**Chronic Mucotaneous Candidiasis (CMC)** is characterized by persistent or recurrent infections of the skin (intertrigo, angular cheilitis), nails (onychomycosis) and mucous membranes (oral, esophageal, genital) caused by _Candida (C. albicans)_ . CMC begins early in infancy and can affect either otherwise healthy individuals ( _isolated_ CMC) or be associated with other clinical features ( _syndromic_ CMC). Some patients may develop superficial dermatophytosis, invasive fungal diseases, and viral cutaneous infections. In rare cases, cerebral aneurysms, oral/esophageal squamous cell carcinoma, or autoimmunity have also been described. These IEIs can be caused by LOF variants in _IL17F, IL17RA, IL17RC, ACT1/TRAF3IP2, MAPK8, CARD9, STAT3, ZNF341, IL23R, RORC,_ or _AIRE_ gene; or GOF variant in _STAT1_ . All of these defects disrupt the production of or the response to IL-17A and IL-17F, a molecule essential to fungal immunity (Fig. 55.4, Table 55.6). Some patients have invasive fungal diseases (e.g., CNS candidiasis) and carry bi-allelic pathogenic variants of the _CARD9_ gene. **Autoimmune polyglandular syndrome-1** is caused by pathogenic variants of the _AIRE_ gene resulting in impaired T-cell tolerance, with 88% of patients developing CMC (Chapter 39). High levels of neutralizing autoantibodies against IL-17A, IL-17F, and/or IL-22 have been detected in the serum of APS-1 patients which is probably responsible for the CMC susceptibility. 
+
+### **Congenital Severe Neutropenia** 
+
+Congenital neutropenia constitutes a large group of rare disorders presenting at birth characterized by low levels of neutrophils, permanent or intermittent, severe (<0.5 G/l) or mild (between 0.5–1.5 G/l) in the blood circulation. Neutropenia can lead to life-threatening pyogenic infections, acute gingivostomatitis and chronic paradental disease; each successive infection may leave permanent sequelae. Bacterial infections are most frequent, and generally involve _S. aureus_ and _S. epidermidis_ , _Streptococcus_ ,
+
+<!-- p.1259 -->
+
+![](../../figures/fig_p1260_01.jpg)
+
+
+**Fig. 55.3** Lung abscess and chronic lymphadenopathy in two patients with chronic granulomatous disease (CGD). (A) The computed tomography (CT) scan shows a cavity with thick walls, and an external irregular edge. (B) Thoracic CT scan shows multiple enlarged lymph nodes. 
+
+
+![](../../figures/fig_p1260_03.jpg)
+
+
+
+![](../../figures/vfig_p1259_02.jpg)
+
+**Fig. 55.4** Schematic representation of IL-17 pathway and related genes causing chronic mucocutaneous candidiasis (CMC) summary of molecules implicated in the IL-17 circuit. Molecules represented with bold characters are known to cause CMC. 
+
+_Enterococcus_ , _Pneumococcus_ , _P. aeruginosa_ , and Gramnegative bacilli. Most fungal infections involve _Candida_ or _Aspergillus_ species. Congenital neutropenias are extremely rare and can exhibit X-linked or autosomal inheritance (LOF or GOF). Neutropenia can be isolated or syndromic (with an extrahematopoietic involvement) and is caused by a number of genes _(ELANE, GFI1, G6PC3, VPS45, HAX1, G6PT1, WAS, LAMTOR2, TAZ, VPS13B, USB1, JAGN1, CLPB, CSF3R, SMARCD2, CEBPE, SBDS, DNAJC21, EFL1, HYOU1, SRP54, CXCR2)_ . 
+
+### **Leukocyte Adhesion Deficiency (LAD)** 
+
+LAD is a rare group of IEI characterized by an inability of leukocytes to emigrate from the circulation to the sites of injury or infection due to a deficiency of adhesion process, marked leukocytosis and recurrent infections (Fig. 55.5). Normal migration from the blood stream involves a multistep process of rolling on endothelium using selectins, which bind carbohydrate moieties, further binding using integrins, and finally chemokine mediated increase in integrin affinity resulting in firm adhesion. All of these
+
+<!-- p.1260 -->
+
+### **Leukocyte Adhesion Cascade** 
+
+
+![](../../figures/fig_p1261_03.jpg)
+
+
+**Fig. 55.5** The adhesion cascade steps with corresponding defects. Neutrophils are carried in the laminar flow stream of blood and may intermittently sample endothelium. Capture and rolling are mediated by selectins interacting with sialylated lewis X (SLeX, CD15a). This is the phase that is impaired in LADII. Integrins mediate firm adhesion of the leukocyte to the endothelial wall but require chemokines to induce a transformational change from a low to high affinity state, the feature that is compromised in LADIII. Firm adhesion is defective in LAD I. The final step is diapedesis.  (From Etzioni A: Neutrophil migration defects in Sullivan KE, Stiehm ER [editors] _Stiehm’s Immune Deficiencies Inborn Errors of Immunity_ 2/e, 2020, Elsevier, Philadelphia [Fig. 36.1, p. 814].) 
+
+defects exhibit autosomal recessive inheritance. LAD-I is caused by bi-allelic pathogenic variants of the integrin gene _ITGB2_ (CD18) whereas LAD-II results from bi-allelic variants in _SLC35C1_ gene, which is a fucosyltransferase necessary to make ligands for selectins to bind. LAD-III is caused by bi-allelic defects in the in _FERMT3_ gene which is an intracellular protein that mediates the inside out signaling that increases integrin affinity. Usually, the first clinical manifestations occur in infancy or early childhood. Excessive neutrophilia and omphalitis are frequently associated with life-threatening pyogenic bacterial infections. _Delayed (2–3 weeks) separation of the umbilical cord is frequently seem in LAD-I deficiency._ Patients with LAD-II deficiency have also a developmental defect, periodontitis, and growth delay. Hypomorphic variants have been described in _SLC35C1_ which give you developmental and growth defects but limited defects in leukocyte adhesion and limited infections. Severe bleeding disorder due to platelet aggregation deficiency is present in patients with LAD-III deficiency. Diagnosis of LAD is based on the clinical manifestations and neutrophilia. In LAD-I and LAD-II, flow cytometry should be performed for CD18 and CD15 respectively. In LAD-III, platelet aggregation assays should be performed. In all cases, a genetic analysis confirms the diagnosis. Management depends on the type of LAD; antibiotics are indicated for infections. Without hematopoietic stem cell transplantation (HSCT), patients 
+
+with severe LAD-I and LAD-III usually die from infection within the first 2 years of life. 
+
+## **Pulmonary Alveolar Proteinosis** 
+
+Pulmonary alveolar proteinosis (PAP) is characterized by accumulation of surfactant in alveoli and resulting impaired gas exchange (Chapter 26). This heterogeneous group of diseases is classified as autoimmune or congenital. _Autoimmune_ PAP accounts for 90% of all PAP patients and is caused by neutralizing GM-CSF autoantibodies that block GM-CSF signaling, which alveolar macrophages require to clear surfactant. _Congenital_ PAP can be caused by pathological variants in _CSF2RA_ or _CSF2RB_ (encoding the GM-CSF receptor), _CCR2_ (encoding the CCL2 receptor), _STAT5B_ (disrupts signaling by GM-CSF), and genes that affect the myeloid lineage (e.g., _GATA2, ADA,_ or _IRF8, SLC7A7_ ) that likely reduce the numbers and/or functions of alveolar macrophages. _Congenital_ PAP can also be caused by variants in genes required for normal surfactant production (e.g., _SFTPB, SFTPC, ABCA3, NKX2.1_ ) which can be fatal at birth (from surfactant dysfunction) or result in insidious development of pulmonary fibrosis and variable degrees of surfactant accumulation. Some **interferonopathies** are associated with PAP. Patients with PAP usually improve dramatically with whole-lung lavage, but relapses may occur. HSCT has been reported to correct GM-CSF receptor deficiency.
+
+<!-- p.1261 -->
+
+## **GATA2 Deficiency** 
+
+GATA2 is a zinc-finger transcription factor expressed in hematopoietic stem cells and various hematopoietic progenitor cells in humans. Germline heterozygous pathogenic variants, including large deletions or duplications, result in haploinsufficiency that is responsible for autosomal dominant GATA2 deficiency. This pleiotropic genetic disorder is associated with a broad spectrum of phenotypes, including monocytopenia with susceptibility to atypical mycobacteria **(monoMAC deficiency)** , familial myelodysplastic syndrome (MDS), chronic or acute myeloid leukemia (AML), and **Emberger syndrome** (primary lymphedema and MDS). Rare patients display isolated neutropenia, aplastic anemia, or isolated NK deficiency. The clinical features typically manifest in the second decade of life, but age at onset ranges from early childhood to late adulthood. The key clinical presentation in these GATA2-deficient patients is mycobacterial disease, with a high proportion of infections caused by environmental mycobacteria such as _M. kansasii_ and _M. avium. M. tuberculosis_ was the second most frequently identified mycobacterium. Patients with GATA2 deficiency are also susceptible to viral (particularly warts caused by HPV), pyogenic, and fungal infections. A diagnosis of AD GATA2 deficiency should be considered in adults of any age with warts, mycobacterial and other infections, or with hematological disorders. Curative treatment is HSCT, but some patients have limited symptomology and should be followed closely for the development of myelofibrosis or leukemia. 
+
+## **Susceptibility to Parasitic Infections** 
+
+Parasitic infections are a less common problem in patients with IEIs although a few examples exist. Patients with visceral leishmaniasis may harbor defects in the IL12/IFN-γ pathway critical to cell mediated immune responses. Reports of visceral leishmaniasis in patients with hyper-IgM syndrome (i.e., CD40L deficiency), GATA2 deficiency, and Griscelli syndrome (i.e., RAB27a) have been reported. Cryptosporidiosis occurs in several combined immune deficiencies (CD40 or CD40L deficiencies) and humoral immunodeficiencies affecting NF-κB pathway. _Toxoplasma gondii_ disseminated infections were also observed in several IEIs, in particular MSMD, but not so far in CGD. Trypanosomiasis has been observed in patients harboring deleterious variants in _APOL1_ (Table 55.1). Indeed, innate trypanosome lytic factors (TLFs) are pivotal in host defense against Trypanosoma. Human TLFs are pore forming high-density lipoprotein (HDL) particles that contain apolipoprotein L-I (apoL-I), which is the trypanolytic component. 
+
+# **Testing for Innate Immune Defects** 
+
+Patients with defects in innate immunity have life-threatening infections from birth to adolescence. Patients suffering from fast-evolving infections in the skin, lung, 
+
+central nervous system or another organ, systemic viremia, fungemia or bacteremia or fulminant organ-dysfunction should be evaluated for innate immune defects. These patients can have a normal assessment of the adaptive immune system including lymphocyte counts, normal T/B/ NK cells and naïve and memory subpopulations and function, and normal IgG levels. Thus, a high index of suspicion for innate immune defects is necessary as specialized functional and genetic testing is necessary to diagnoses these disorders. 
+
+## **Diagnostic Studies** 
+
+The **dihydrorhodamine (DHR) test** is used to evaluate phagocyte respiratory oxidative burst in the context of bacterial and/or fungal infections when CGD is considered. Whole blood stimulation with phorbol myristate acetate (PMA), _E. coli_ , or N-formylmethionyl-leucyl-phenylalanine(fMLP) stimulation results in the generation of reactive oxygen intermediates and conversion of DHR into a fluorescent compound. Patients have abolished or impaired DHR oxidation, as well as patients with certain _RAC2_ variants and PRKCD deficiency. The DHR assay is performed by flow cytometry and can be used for the detection of carriers of XR-CGD because samples of carriers will show a bimodal pattern showing oxidase positive and negative cells. Definitive diagnosis is made by genetic analysis (Fig. 55.6). 
+
+**Shedding of CD62L** is used as a screening tool when IRAK4/MyD88 deficiencies are suspected. Upon activation, granulocytes will cleave the ectodomain of a significant fraction of the CD62L present on the plasma membrane and this cleavage is dependent on Toll-IL1 R pathway (Fig. 55.6). 
+
+**Quantification of IL-6 and/or TNF production in whole blood or PBMC after stimulation with specific agonists of different TLRs** can be used when IRAK4/ MyD88 deficiencies are suspected. Responses across all TLRs (except for TLR3 and partially for TLR4), and the response to IL-1, IL-18 and IL-33 are abolished or diminished in IRAK-4 and MyD88 deficiencies. Both CD62L and cytokine production cannot differentiate an IRAK-4 and MyD88 deficiency. Only specific genetic test will confirm the variant in _IRAK4_ or _MYD88_ . NEMO and IκBα deficiency can also be detected using this assay. 
+
+**TLR3 pathway evaluation** is the best laboratory screening test for this group of disorders is the analysis type I and III IFN production after stimulation by TLR3 agonists in fibroblasts. Peripheral blood cannot be used since responses to TLR3 agonists are usually normal in PBMC or whole blood cells from patients with deficiencies of the TLR3 pathway. 
+
+**IFN-g Mediated immunity Evaluation/MSMD Testing** . Disorders of IL12/IFN-γ can be tested in specialized laboratories by stimulating patient cells and measuring STAT1 phosphorylation. The STAT1 phosphorylation assay in response to IFN-γ can be useful when STAT1, IFN-γR1, IFN-γR2, or JAK1 deficiency is
+
+<!-- p.1262 -->
+
+![](../../figures/fig_p1263_02.jpg)
+
+
+**Fig. 55.6** Dihydrorodamine (DHR) test result for chronic granulomatous disease (A) and CD62L shedding in the study Toll-IL1 pathway deficiencies (B). (A) Neutrophil oxidative burst test using DHR. The patient’s mother shows the partial absence of reactivity after PMA stimulation, consistent with an X-linked CGD carrier. (B): _Upper row:_ CD62L expression in control neutrophils before _(left)_ and after _(right)_ stimulation with Pam3CSK4 a TLR1/2 specific agonist. _Lower row:_ CD62L expression in IRAK-4 deficient neutrophils before _(left)_ and after _(right)_ stimulation with Pam3CSK4. No CD62L shedding is observed in the patient's neutrophils. _CGD,_ Chronic granulomatous disease; _DHR,_ dihydrorhodamine; _PMA,_ phorbol myristate acetate. 
+
+suspected. Elevated plasma levels of IFN-γ can be seen in patients with complete IFN-γR1 or IFN-γR2 deficiency. Flow cytometry is possible also for the evaluation of IFN-γR1, IL-12Rβ1 deficiency. Patients with AD IRF8 deficiency or complete SPPL2A deficiency lacked CD1c<sup>+</sup> CD11c<sup>+</sup> circulating DCs, and they have an impaired IFN-γ production. 
+
+**Genetic Studies** . Most innate deficiencies will be diagnosed after genetic evaluation because functional screening tests are not available in common laboratories for most of these IEIs. Nearly all viral susceptibility defects cannot be assessed with routine clinical testing even in specialized laboratories. Genetic testing is the cornerstone of detecting these defects. Targeted-panel genes or whole exome sequencing (WES) are useful to detect all genetic inborn errors of immunity etiologies simultaneously. Genetic counseling is recommended if genetic studies demonstrate a pathological variant. A complete familial pedigree is recommended to identify other affected individuals even if they are asymptomatic. Antenatal diagnosis for this large group of PID is feasible by genetic analysis of chorionic villus samples. 
+
+# **Treatment of Innate Immune Defects** 
+
+Treatment of innate immune defects varies based on the defect, but includes antimicrobial prophylaxis, some targeted therapies, and hematopoietic stem cell transplant. Patients must be instructed to seek immediate medical attention for fever or other sign of infection. Daily amoxicillin/penicillin or trimethoprim-sulfamethoxazole prophylaxis is recommended 
+
+for asplenia and IRAK4/MyD88 deficiencies, depending on the pattern of local resistance to _S. pneumoniae_ . 
+
+Intensive vaccination with conjugated and nonconjugated bacterial vaccines, including against pneumococcus, meningococcus, and _H. influenzae_ is recommended on IRAK4/MyD88 deficiencies and asplenia. There are no contraindicated vaccines except for selective deficiencies in interferon receptors (i.e., IFNAR1) with susceptibility to measles and yellow fever. Immunoglobulin replacement therapy is also recommended in IRAK4/MyD88 deficiency to at least 10 years old. 
+
+The conventional management of **CGD** is predominantly lifelong prophylaxis with antibiotics and antifungal drugs to lower the incidence of bacterial and fungal infections. Daily antifungal prophylaxis is recommended for some phagocytic disorders (CGD, LAD) with coverage of filamentous fungi (itraconazole, posanonazole) and in some cases of CMC (fluconazole). The only curative treatment for CGD is allogeneic HSCT, which may resolve both chronic infectious and inflammatory complications. Gene therapy is being evaluated as curative treatment for CGD and LAD 1. Patients with CGD should receive all routine childhood vaccines except for the BCG vaccine, which is contraindicated. Some studies also suggest the implementation of IFN-γ prophylaxis to increase overall survival. The treatment of autoinflammation in CGD includes the use of steroids and IL-1R blockade using anakinra; all of these drugs can increase the risks for invasive infections. 
+
+Treatment of **severe chronic neutropenia** should focus on prevention of infections. It includes antimicrobial
+
+<!-- p.1263 -->
+
+prophylaxis, generally with trimethoprim-sulfamethoxazole as well as granulocyte-colony-stimulating factor (G-CSF). Long-term treatment with G-CSF, especially at high doses, increases the spontaneous risk of leukemia in these patients. 
+
+Treatment of **leukocyte adhesion deficiency** focuses on controlling infections and includes antibiotics and, in many cases, HSCT. In LAD2, HSCT will correct the neutrophil defect but not the other complications of this disorder (neurological). Some patients with LAD2 have a hypomorphic defect with limited infections which can be handled with antibiotics. 
+
+Multiple antibiotics against mycobacteria should be administered without interruption in patients with complete IFN-γR1, IFN-γR2, IRF8, or STAT1 deficiency. HSCT should be considered in patients with complete IFN-γR1, IFN-γR2, IRF8, or STAT1 deficiency and probably in complete IRF1 deficiency. A prolonged treatment with antibiotics against mycobacteria is highly recommended in the other patients with MSMD, in addition to subcutaneous recombinant IFN-γ. MSMD patients with salmonellosis should receive prophylaxis with antibiotics. Vaccination with live BCG is contraindicated. 
+
+Patients with **HSE** and impairment of TLR3-IFNAR1 signaling pathway need a systemic and prolonged treatment with acyclovir (>3 weeks). Treatment success needs to be monitored by HSV-PCR in CSF. Treatment with recombinant IFNα, in parallel with acyclovir, may be considered in these patients during acute HSE episode. Serological monitoring for HSV-1 infection should be considered in individuals carrying pathogenic variants of TLR3 pathway genes but with no anti-HSV-1 antibody detectable in serum. Since the defect is largely limited to neurons, HSCT is not a viable treatment option. 
+
+# **Bibliography** 
+
+- Bastard P, Michailidis E, Hoffmann HH, et al. Auto-antibodies to type I IFNs can underlie adverse reactions to yellow fever live attenuated vaccine. _J Exp Med_ . 2021;218(4):e20202486. 
+
+- Bastard P, Rosen LB, Zhang Q, et al. Autoantibodies against type I IFNs in patients with life-threatening COVID-19. _Science_ . 2020;370(6515):eabd4585. 
+
+- Béziat V. Human genetic dissection of papillomavirus-driven diseases: new insight into their pathogenesis. _Hum Genet_ . 2020;139 (6-7):919-939. 
+
+- Béziat V, Rapaport F, Hu J, et al. Humans with inherited T cell CD28 deficiency are susceptible to skin papillomaviruses but are otherwise healthy. _Cell_ . 2021;184(14):3812-3828.e30. 
+
+- Boisson-Dupuis S, Bustamante J. Mycobacterial diseases in patients with inborn errors of immunity. _Curr Opin Immunol_ . 2021;72: 262-271. 
+
+- Boisson B. The genetic basis of pneumococcal and staphylococcal infections: inborn errors of human TLR and IL-1R immunity. _Hum Genet_ . 2020;139(6-7):981-991. 
+
+- Boisson B, Wang C, Pedergnana V, et al. An ACT1 mutation selectively abolishes interleukin-17 responses in humans with chronic mucocutaneous candidiasis. _Immunity_ . 2013;39(4):676-686. 
+
+- Bolze A, Boisson B, Bosch B, et al. Incomplete penetrance for isolated congenital asplenia in humans with mutations in translated and 
+
+untranslated _RPSA_ exons. _Proc Natl Acad Sci U S A_ . 2018;115(34):E8007-E8016. 
+
+- Bolze A, Mahlaoui N, Byun M, et al. Ribosomal protein SA haploinsufficiency in humans with isolated congenital asplenia. _Science_ . 2013;340(6135):976-978. 
+
+- Bousfiha A, Moundir A, Tangye SG, et al. The 2022 Update of IUIS Phenotypical Classification for Human Inborn Errors of Immunity. _J Clin Immunol_ . 2022;42(7):1508-1520. 
+
+- Bucciol G, Moens L, Ogishi M, et al. Human inherited complete STAT2 deficiency underlies inflammatory viral diseases. _J Clin Invest_ . 2023;133(12):e168321. 
+
+- Bustamante J, Boisson-Dupuis S, Abel L, Casanova JL. Mendelian susceptibility to mycobacterial disease: genetic, immunological, and clinical features of inborn errors of IFN-γ immunity. _Semin Immunol_ . 2014;26(6):454-470. 
+
+- Carey B, Trapnell BC. The molecular basis of pulmonary alveolar proteinosis. _Clin Immunol_ . 2010;135(2):223-235. 
+
+- Casanova JL, Abel L. From rare disorders of immunity to common determinants of infection: Following the mechanistic thread. _Cell_ . 2022;185(17):3086-3103. 
+
+- Cordero E, Goycochea-Valdivia W, Mendez-Echevarria A, et al. Executive Summary of the Consensus Document on the Diagnosis and Management of Patients with Primary Immunodeficiencies. _J Allergy Clin Immunol Pract_ . 2020;8(10):3342-3347. 
+
+- Della Mina E, Borghesi A, Zhou H, et al. Inherited human IRAK-1 deficiency selectively impairs TLR signaling in fibroblasts. _Proc Natl Acad Sci U S A_ . 2017;114(4):E514-E523. 
+
+- Deyà-Martínez A, Rivière JG, Roxo-Junior P, et al. Impact of JAK Inhibitors in Pediatric Patients with STAT1 Gain of Function (GOF) Mutations-10 Children and Review of the Literature. _J Clin Immunol_ . 2022;42(5):1071-1082. 
+
+- Dinauer MC, Orkin SH. Chronic granulomatous disease. _Annu Rev Med_ . 1992;43:117-124. 
+
+- Esteve-Solé A, Sologuren I, Martínez-Saavedra MT, et al. Laboratory evaluation of the IFN-γ circuit for the molecular diagnosis of Mendelian susceptibility to mycobacterial disease. _Crit Rev Clin Lab Sci_ . 2018;55(3):184-204. 
+
+- Etzioni A. Genetic etiologies of leukocyte adhesion defects. _Curr Opin Immunol_ . 2009;21(5):481-486. 
+
+- García-García A, Pérez de Diego R, Flores C, et al. Humans with inherited MyD88 and IRAK-4 deficiencies are predisposed to hypoxemic COVID-19 pneumonia. _J Exp Med_ . 2023; 220(5):e20220170. 
+
+- Guérin A, Kerner G, Marr N, et al. IRF4 haploinsufficiency in a family with Whipple’s disease. _Elife_ . 2018;7:e32340. 
+
+- Hsu AP, Sampaio EP, Khan J, et al. Mutations in GATA2 are associated with the autosomal dominant and sporadic monocytopenia and mycobacterial infection (MonoMAC) syndrome. _Blood_ . 2011;118(10):2653-2655. 
+
+- Hyde RK, Liu PP. GATA2 mutations lead to MDS and AML. _Nat Genet_ . 2011;43(10):926-927. 
+
+- Israel L, Wang Y, Bulek K, et al. Human Adaptive Immunity Rescues an Inborn Error of Innate Immunity. _Cell_ . 2017;168(5):789-800. e10. 
+
+- Lanternier F, Mahdaviani SA, Barbati E, et al. Inherited CARD9 deficiency in otherwise healthy children and adults with Candida species-induced meningoencephalitis, colitis, or both. _J Allergy Clin Immunol_ . 2015;135(6):1558-68.e2. 
+
+- Oleaga-Quintas C, de Oliveira-Júnior EB, Rosain J, et al. Inherited GATA2 Deficiency Is Dominant by Haploinsufficiency and Displays Incomplete Clinical Penetrance. _J Clin Immunol_ . 2021; 41(3):639-657.
+
+<!-- p.1264 -->
+
+- Parvaneh N, Barlogis V, Alborzi A, et al. Visceral leishmaniasis in two patients with Il-12p40 and Il-12rbeta1 deficiencies. _Pediatr Blood Cancer_ . 2017;64(6). 
+
+- Pasquet M, Bellanné-Chantelot C, Tavitian S, et al. High frequency of GATA2 mutations in patients with mild chronic neutropenia evolving to MonoMac syndrome, myelodysplasia, and acute myeloid leukemia. _Blood_ . 2013;121(5):822-829. 
+
+- Picard C, Puel A, Bonnet M, et al. Pyogenic bacterial infections in humans with IRAK-4 deficiency. _Science_ . 2003;299(5615): 2076-2079. 
+
+- Picard C, von Bernuth H, Ghandil P, et al. Clinical features and outcome of patients with IRAK-4 and MyD88 deficiency. _Medicine (Baltimore)_ . 2010;89(6):403-425. 
+
+- Pöyhönen L, Bustamante J, Casanova JL, Jouanguy E, Zhang Q. Life-Threatening Infections Due to Live-Attenuated Vaccines: Early Manifestations of Inborn Errors of Immunity. _J Clin Immunol_ . 2019;39(4):376-390. 
+
+- Puel A. Human inborn errors of immunity underlying superficial or invasive candidiasis. _Hum Genet_ . 2020;139(6-7):1011-1022. 
+
+- Puel A, Bastard P, Bustamante J, Casanova JL. Human autoantibodies underlying infectious diseases. _J Exp Med_ . 2022;219(4):e20211387. 
+
+- Puel A, Cypowyj S, Bustamante J, et al. Chronic mucocutaneous candidiasis in humans with inborn errors of interleukin-17 immunity. _Science_ . 2011;332(6025):65-68. 
+
+- Rosain J, Bernasconi A, Prieto E, et al. Pulmonary Alveolar Proteinosis and Multiple Infectious Diseases in a Child with Autosomal Recessive Complete IRF8 Deficiency. _J Clin Immunol_ . 2022; 42(5):975-985. 
+
+- Rosain J, Neehus AL, Manry J, et al. Human IRF1 governs macrophagic IFN-γ immunity to mycobacteria. _Cell_ . 2023;186(3):621-645.e33. 
+
+- Sologuren I, Boisson-Dupuis S, Pestano J, et al. Partial recessive IFNγR1 deficiency: genetic, immunological and clinical features of 14 patients from 11 kindreds. _Hum Mol Genet_ . 2011;20(8):1509-1523. 
+
+- Tangye SG, Al-Herz W, Bousfiha A, et al. Human Inborn Errors of Immunity: 2022 Update on the Classification from the International Union of Immunological Societies Expert Committee. _J Clin Immunol_ . 2022;42(7):1473-1507. 
+
+- Trapnell BC, Nakata K, Bonella F, et al. Pulmonary alveolar proteinosis. _Nat Rev Dis Primers_ . 2019;5(1):16. 
+
+- von Bernuth H, Ku CL, Rodriguez-Gallego C, et al. A fast procedure for the detection of defects in Toll-like receptor signaling. _Pediatrics_ . 2006;118(6):2498-2503. 
+
+- von Bernuth H, Picard C, Jin Z, et al. Pyogenic bacterial infections in humans with MyD88 deficiency. _Science_ . 2008;321(5889): 691-696. 
+
+- Zhang Q. Human genetics of life-threatening influenza pneumonitis. _Hum Genet_ . 2020;139(6-7):941-948. 
+
+- Zhang Q, Bastard P; COVID Human Genetic Effort, Cobat A, Casanova JL. Human genetic and immunological determinants of critical COVID-19 pneumonia. _Nature_ . 2022;603(7902): 587-598. 
+
+- Zhang Q, Matuozzo D, Le Pen J, et al. Recessive inborn errors of type I IFN immunity in children with COVID-19 pneumonia. _J Exp Med_ . 2022;219(8):e20220131. 
+
+- Zhang Q, Pizzorno A, Miorin L, et al. Autoantibodies against type I IFNs in patients with critical influenza pneumonia. _J Exp Med_ . 2022;219(11):e20220514. 
+
+- Zhang SY. Herpes simplex virus encephalitis of childhood: inborn errors of central nervous system cell-intrinsic immunity. _Hum Genet_ . 2020;139(6-7):911-918. 
+
+- Zhang SY, Harschnitz O, Studer L, Casanova JL. Neuron-intrinsic immunity to viruses in mice and humans. _Curr Opin Immunol_ . 2021;72:309-317. 
+
+- Zhao J, Qin C, Liu Y, Rao Y, Feng P. Herpes Simplex Virus and Pattern Recognition Receptors: An Arms Race. _Front Immunol_ . 2021;11:613799.
+
+<!-- p.1265 -->

@@ -1,0 +1,388 @@
+
+<!-- p.1318 -->
+
+# 59 Disorders of Immune Regulation 
+
+**ALICE Y. CHAN, TROY R. TORGERSON** 
+
+Immune regulation is an essential part of the immune system to maintain the delicate balance between mounting an immune response against a pathogen to ignoring endogenous (i.e., self) and other innocuous triggers. It is also critical in dampening an immune response after eliminating the danger signal and surveying the body for altered selfantigens such as those found in malignancies. When there is a breakdown in these pathways in immune regulation, then immune-mediated manifestations can ensue such as autoimmunity, hyperinflammation, atopy, and cancer. Approximately 30% of the known inborn errors of immunity have clinical features that are predominantly due to immune-mediated pathology. Genes causing these disorders play critical roles in pathways of immune regulation, and thus are considered disorders of immune regulation. 
+
+## **Overview of Disorders of Immune Regulation Clinical Features in Disorders of Immune Regulation** 
+
+There is a wide spectrum of clinical phenotypes present in disorders of immune regulation including autoimmunity, inflammatory disease, lymphoproliferation, or severe atopy. Patients may be managed by specialty providers and sometimes multiple specialty providers. Thus, it is important to identify features that raise red flags for a potential underlying genetic disorder of immune regulation. First, patients that develop disease at an _early age_ (typically less than 5 years old) should raise some concern. Patients developing inflammatory bowel disease at an early age, called **very-early onset inflammatory bowel disease (VEOIBD)** , have been linked to several genes in immune regulation (Chapter 31). These disorders can also be considered if a disease develops outside of the typical range for the disease even if beyond 5 years of age. Second, the phenotypes that are _extremely severe_ , refractory to multiple therapies, or _atypical_ in presentation can be an indication of these kinds of disorders. Third, _uncommon combination_ of the disease phenotypes should prompt consideration for evaluation of these disorders such as IBD with autoimmune cytopenias, which can happen though rare. Lastly, the development of _severe or atypical_ 
+
+_infections_ in the context of standard immune suppression may be a sign of an underlying immune gene disorder. 
+
+Given that immune cells continuously survey the body, a broad range of organ systems can be involved. One of the most common manifestations is the development of **autoimmune cytopenias** , which can result in anemia, thrombocytopenia, neutropenia, or lymphopenia. Some disorders cause diffuse lymphadenopathy and hepatosplenomegaly due to the expansion of immune cells. These immune cells can also expand and form lesions in other tissue such as in the intestine, lung, liver, or brain. Another common organ involved is the gastrointestinal tract, where patients present with chronic diarrhea or bloody stool concerning for **autoimmune enteropathy** or inflammatory bowel disease. Patients can also develop autoimmune or inflammatory hepatitis. **Dermatological diseases** , such as eczema and psoriasis, are also among the common organ systems affected (Chapter 56). Lung diseases can also develop such as **interstitial lung disease** , follicular bronchiolitis, or noncaseating granulomas. **Endocrine manifestations** , such as thyroiditis, type 1 diabetes, adrenal insufficiency, and gonadal insufficiency, can also develop (Chapter 39). If the immune destruction can be identified early for these endocrine organs, then function can sometimes be prevented or restored. Patients can also develop **musculoskeletal** manifestations such as arthritis or myositis. **Renal disease** can develop presenting with hematuria or proteinuria. **Cardiovascular manifestations** can include vasculitis. Immunemediated pathology can result in **neurological defects** such as encephalitis or sensorineural hearing loss. 
+
+### **Genetics of Disorders of Immune Regulation** 
+
+There are a growing number of genes being identified that cause disorders of immune regulation. The mode of inheritance can include X-linked, autosomal recessive, or autosomal dominant. Some cases are caused by _de novo_ variants, meaning the variant was not inherited from either parent. Furthermore, some of these diseases can have incomplete penetrance whereby a family member with the same variant may be asymptomatic. Thus, a negative family history should not eliminate concern for an underlying genetic disease. There can
+
+<!-- p.1319 -->
+
+also be clinical expressivity where family members carrying the same variant can have differing disease severity or disease manifestations. There are some diseases mediated by genetic mosaicism where not all cells carry the disease-causing variant; only a small portion of cells are needed to cause disease. In some cases, a disease-causing variant of less than 5% can mediate disease. 
+
+### **Diagnostic Evaluation for Disorders of Immune Regulation** 
+
+Disorders of immune regulation often have overlapping clinical phenotypes which have different genetic etiologies or have different clinical presentations within the same gene variant. Immune lab findings can also be variable with a given genetic disorder, and thus may not be diagnostic. Broad-based genetic testing (e.g., gene panels, exome sequencing, genome sequencing) is often needed to obtain a definitive diagnosis and is the most direct approach for evaluating these disorders. It is estimated that these approaches can identify a cause in 30–50% of the cases. 
+
+One of the challenges that often arises with genetic testing is determining if an unknown variant in a suspected gene is pathogenic or disease-causing. One can begin with determining if the protein is expressed, which can be done by methods such as flow cytometry or western blot analysis. There are only a few proteins that are available for clinical testing such as FOXP3 or LRBA. Some variants do not disrupt protein expression but instead alter the function of the protein. This has been seen with some _FOXP3_ variants where the protein is expressed but the function is abnormal and leads to disease. It is also important to consider the location of the variant within the protein because different protein domains may confer a different function. A variant in the domain for enzymatic activity may not alter the domain that interacts with other proteins. Thus it is important to consider if the functional testing is appropriate for the variant. In general, there are relatively few clinically available tests to assess protein function; most are available only as research assays. 
+
+### **Clinical Monitoring for Disorders of Immune Regulation** 
+
+In some cases, identifying the genetic etiology can take time, but it is important to carefully assess the various potentially affected organ systems given the propensity of these disorders to involve multiple organs. Periodic monitoring should be performed to determine if there are signs of active organ-specific manifestations such as cytopenias, elevated inflammation markers, or abnormal organ function labs (e.g., liver enzymes, creatinine, glucose, thyroid function studies). For some disorders, screening for the presence of _organ-specific autoantibodies_ may help assess the risk for developing organ disease, such as diabetesassociated autoantibodies and the development of diabetes. The absence of an autoantibody may not necessarily rule 
+
+out autoimmunity in that organ because some disorders have defects in generating antibodies. 
+
+While infections may not be the dominant feature, these patients are often at increased risk from the use of immune suppressive medications. Identifying a genetic etiology may allow more targeted immune suppressive medications to decrease broad suppression immune therapies. For some disorders, the gene disorder can also increase predilection for specific types of infections and in combination with immune suppressive medications can make management particularly challenging. Patients often need periodic screening labs to monitor for infection. Assessment of immune labs can be particularly helpful prior to starting immune suppressive medications to determine if the patient may need immunoglobulin replacement or antimicrobial prophylaxis. Because most genes mediating these disorders are typically expressed in the hematopoietic compartment, hematopoietic stem cell transplant (HSCT) can be considered in severe cases or cases with poor prognosis; it is important to remember that functions outside of the hematopoietic compartment would not be corrected with this therapy. 
+
+## **Specific Disorders of Immune Regulation** 
+
+### **Defects in T Regulatory Cells (Tregs)** 
+
+T regulatory cells (Tregs) play an essential role in immune tolerance and immune homeostasis. Defects in genes necessary for Treg development or function can lead to an imbalance between regulatory and effector T cell function, resulting in a broad range of immune-mediated pathology (Table 59.1, Fig. 59.1). 
+
+**Immune dysregulation, polyendocrinopathy, enteropathy, X-linked (IPEX)** is the prototypical disorder of immune regulation. It arises from defects in the _FOXP3_ gene located on the X chromosome. Forkhead box P3 protein (FOXP3) is the transcription factor required for the development and function of Treg cells. The lack of functional Tregs results in widespread immune-mediated manifestations. The classic triad of clinical features include autoimmune enteropathy (diarrhea), dermatitis (eczema), and endocrinopathy (type I diabetes, thyroiditis). Patients can have other autoimmune features such as autoimmune cytopenias, autoimmune liver disease, and renal disease. Given the lack of control on effector T cells mediated by Tregs, therapies targeting T cells, such as sirolimus and tacrolimus, can be effective in the short term. Unfortunately, patients often continue to have disease progression and develop complications. HSCT has been shown to be effective with overall survival around 70%. 
+
+One of the essential functions of interleukin 2 (IL2) signaling is its role in the development and maintenance of Treg function. Defects in this signaling pathway can lead to defective Tregs resulting in multiple autoimmune manifestations _similar_ to patients with deficiency in FOXP3. Biallelic pathogenic variants (i.e., autosomal recessive) in the IL2 receptor chains, IL2 receptor alpha chain (IL2RA),
+
+<!-- p.1320 -->
+
+#### **TABLE 59.1 Tregs and Thymic Defects** 
+
+|_Gene_|_FOXP3_|_IL2RA_|_IL2RB_|_STAT5B_|_AIRE_|
+|---|---|---|---|---|---|
+|Protein|FOXP3|CD25|IL2RB|STAT5b|AIRE|
+|Onset age|Fetal to adolescence|Infancy|Fetal to childhood|Infancy to<br>childhood|Childhood to<br>adulthood|
+|**Clinical Manifesta**|**tions**|||||
+|Infection|Sinopulmonary, viral<br>(herpes), fungal|Sinopulmonary,<br>viral (herpes)|Sinopulmonary,<br>viral (herpes)|Sinopulmonary,<br>viral (herpes)|CMC|
+|Hyperinflammation||||Pneumonitis||
+|Autoimmunity|Enteropathy,<br>endocrinopathy,<br>cytopenias|Enteropathy,<br>endocrinopathy,<br>cytopenias|Enteropathy,<br>endocrinopathy,<br>cytopenias|Lung|Endocrinopathy,<br>lung, hepatitis|
+|Atopy|Eczema, asthma,<br>allergies|Eczema, asthma|Eczema, food<br>allergies|Eczema (DN form)||
+|LPD|LAD, SM|LAD, SM|LAD, SM|LAD, SM, GI, lung||
+|Malignancy*||||||
+|Other features||||Growth failure (DN<br>form)||
+|Immune labs|Absent to normal<br>Tregs|Variable|Variable|Variable|None|
+|Autoimmune labs|Positive autoab|Positive autoab|Positive autoab|Positive autoab|Positive autoab|
+|HCT|Yes|Yes|Yes|Yes|No|
+|Clinical penetrance|Full|Full|Full|Full (limited cases)|Full|
+|Zygosity|Heterozygous<br>(X-linked)|Homozygous|Homozygous|Biallelic,<br>heterozygous<br>(few)|Heterozygous,<br>biallelic|
+|Type of variant|Missense, insertion/<br>deletions, premature<br>truncation, splicing|Missense,<br>deletions,<br>premature<br>truncation|Missense,<br>deletion,<br>premature<br>truncation|Missense|Missense,<br>premature<br>truncation|
+
+
+*An increased risk for various malignancies has been reported for all pathogenic variants; these are not a dominant feature of the disorders. _Autoab,_ Autoantibodies; _CMC,_ chronic mucocutaneous candidiasis; _DN,_ dominant negative; _LAD,_ lymphadenopathy; _LPD,_ lymphoproliferative disease; _SM,_ splenomegaly. 
+
+and IL2 receptor beta chain (IL2RB) result in either the absence or hypomorphic function of the protein. These patients can present with an **IPEX-like** clinical picture of autoimmune enteropathy (diarrhea), dermatitis (eczema, pemphigus nodularis, psoriasiform dermatitis), and earlyonset endocrinopathies (type 1 diabetes, thyroiditis) (Fig. 59.2). They also can develop lymphoproliferation with lymphadenopathy, hepatosplenomegaly, and lymphocytic infiltrates in tissues such as the lung and gastrointestinal (GI) tract. In addition to their autoimmune-mediated phenotypes, patients are also susceptible to various infections, in particular viral infections such as with severe cytomegalovirus (CMV) and Epstein–Barr virus (EBV) disease. Various immunosuppressive therapies have been tried in these patients; such therapies are often complicated 
+
+by their infectious susceptibilities. HSCT has been successful in both IL2RA and IL2RB deficiency. 
+
+**Signal transducer and activator of transcription 5B (STAT5b)** , a transcription factor, has a role in the maintenance of FOXP3 expression when it is activated by IL2; loss of STAT5b function results in defective Tregs (Fig. 59.1). The disease can be caused by either biallelic loss-of-function (LOF) variants or monoallelic dominate negative variants. Patients with LOF develop immune-mediated pathology and have increased susceptibility to infections. In particular, they can develop severe, often life-threatening, pulmonary disease, such as pulmonary alveolar proteinosis, interstitial lung disease, or fibrosis. The dominant negative variants result in milder phenotypes with predominant eczema and postnatal growth failure. The latter is attributed to the role
+
+<!-- p.1321 -->
+
+![](../../figures/fig_p1322_01.jpg)
+
+
+**Fig. 59.1** The effect of known IPEX and IPEX-like associated gene defects on Treg (regulatory T cells) generation and function. Both _AIRE_ and _FOXP3_ play important roles in the generation of Treg cells in the thymus. The expansion, maintenance, and activation of Treg cells in the periphery is known to be highly dependent on interleukin-2 (IL-2), which is required to maintain long-term expression of FOXP3. Variants in the IL-2 receptor chains ( _IL2RA_ / _IL2RB_ ) or in _STAT5B_ affect this aspect of the Treg function. Treg cells mediate immune suppression via a variety of mechanisms including downregulation of antigen presenting cell co-stimulatory function by CTLA-4 and through secretion of immunoregulatory cytokines like interleukin-10 (IL-10) and transforming growth factor-β (TGF-β). Variants in genes that affect CTLA-4 expression _(CTLA4, LRBA, DEF6)_ or expression/responsiveness to IL-10 _(IL10, IL10RA, IL10RB)_ affect these functions of Tregs. Lastly it is not yet known whether gain-of-function variants in STAT1 or STAT3 ( _STAT1-GOF_ or _STAT3-GOF_ ) affect the responsiveness of effector cells to Treg suppression or directly affect Treg function.  (From Togerson TR. IPEX and IPEX-like disorders. In: Sullivan KE, Stiehm ER, eds. _Stiehm’s Immune Deficiencies Inborn Errors of Immunity_ . 2nd ed. Philadelphia: Elsevier; 2020 [Fig. 26.1, p. 619].) 
+
+
+![](../../figures/fig_p1322_03.jpg)
+
+
+
+![](../../figures/vfig_p1321_02.jpg)
+
+**Fig. 59.2** Clinical manifestations in the IPEX-like cohorts.  (Modified from Gambineri E, Ciullini Mannurita S, Hagin D, et al. Clinical, immunological, and molecular heterogeneity of 173 patients with the phenotype of immune dysregulation, polyendocrinopathy, enteropathy, X-linked [IPEX] syndrome. _Front Immunol_ . 2018;9:2411. Fig. 5. Also Fig. 174.2 in _Nelson Textbook of Pediatrics_ 22/e.)
+
+<!-- p.1322 -->
+
+of STAT5B in growth hormone signaling and is seen in both LOF defects and dominant negative defects. The treatment of this disorder is not clear. 
+
+### **Thymic Defects Leading to Autoimmunity** 
+
+The thymus plays a critical role in the deletion of autoreactive T cells from the body. The breakdown of these tolerance mechanisms in the thymus allows the escape of autoreactive T cells that can result in organ-specific autoimmunity. In general, patients with thymic defects have a predisposition toward developing autoimmune manifestations (Table 59.1). 
+
+**Autoimmune regulator (AIRE)** , a protein expressed in the thymus, is important in controlling the expression of tissue-specific antigens in thymic epithelial cells, which is important in the deletion of _autoreactive_ T cells. Defects in its function allow the escape of autoreactive T cells, as well as the generation of autoreactive FOXP3 positive Treg cells, and result in the development of organ-specific autoimmunity. Patients with pathogenic variants in AIRE develop a disease called **autoimmune polyendocrinopathy, candidiasis, ectodermal dystrophy (APECED)** (Chapter 39). The classic triad of clinical manifestations are _chronic mucocutaneous candidiasis (CMC)_ , hypoparathyroidism, and adrenal insufficiency. Patients also develop recurrent maculopapular rash, enamel hypoplasia, and intestinal malabsorption, which have been proposed to expand the diagnostic criteria for APECED. Other endocrine organs, lungs, liver, and kidneys can also be 
+
+affected. Autoantibodies are commonly present and may predict disease, such as antibodies against 21-hydroxylase and lung-specific antigens (KCNRG and BPIFBI) correlating adrenal and lung disease, but others such as interleukin 17 (IL17) and interferon alpha (IFNa) do not necessarily increase risk for fungal or viral infections, respectively. The CMC that develops in patients has been suggested to be mediated by the disruption of the oral epithelial barrier caused by aberrant T cells producing excessive interferon gamma (IFNγ). Thus, Janus kinase (JAK) inhibitors could be an effective therapy for these patients. Immune suppressive medications primarily impacting T cells have been used to treat nonendocrine manifestations with some success. HSCT is unlikely to have significant benefit given that Aire is mainly expressed in the thymus. 
+
+### **Defects in Inhibitory T Cell Receptors** 
+
+Defects in inhibitory receptors on T cells can result in overactivation of T cells and result in various immunemediated pathologies. Cytotoxic T-lymphocyte-associated protein 4 (CTLA4) and programmed cell death protein 1 (PD1) are inhibitory receptors on immune cells and variants in these genes have been found in human disease. LRBA (LPS-responsive beige-like anchor protein) has a role in the recycling of CTLA4 receptor to the surface have also been linked to disease with similar clinical phenotypes (Table 59.2). 
+
+
+#### **TABLE 59.2** Defects in In hibitory T Cell Receptors
+
+|Gene|_CTLA4_|_LRBA_|_PCDC1_|
+|---|---|---|---|
+|Protein|CTLA4|LRBA|PD1|
+|Onset age|Childhood to young adulthood|Infancy to childhood|Childhood|
+|**Clinical Manifestati**<br>|**ons**<br>|||
+|Infection|Sinopulmonary, viral (herpes)|Sinopulmonary, viral (herpes)|Tuberculosis|
+|Hyperinflammation|||Pneumonitis|
+|Autoimmunity|Cytopenias, GI, endocrinopathy,<br>psoriasis|Cytopenias, GI,<br>endocrinopathy|Endocrinopathy, arthritis|
+|Atopy|Eczema, asthma, allergies|||
+|LPD/SM|LAD, SM, GI, lung, CNS|LAD, SM||
+|Malignancy|Lymphoma|Lymphoma||
+|Immune labs|Low IgG|Low IgG||
+|Autoimmune labs|Positive autoab|Positive autoab|Positive autoab|
+|HSCT|Yes|Yes||
+|Clinical penetrance|Incomplete|Full|Full (limited cases)|
+|Zygosity|Heterozygous|Homozygous|Homozygous (n=1)|
+|Type of variant|Missense, insertion/deletions,<br>premature stop, splicing|Missense, insertion/deletions,<br>premature stop, splicing|Premature stop|
+
+
+_Autoab,_ Autoantibodies; _IgG,_ immunoglobulin G; _LAD,_ lymphadenopathy; _LPD,_ lymphoproliferative disease; _SM,_ splenomegaly.
+
+<!-- p.1323 -->
+
+Pathogenic variants in _CTLA4_ result in a disease called **CTLA4 haploinsufficiency (CHAI)** , an autosomal dominant disorder. These patients have both immune deficiency and systemic autoimmune manifestations. Many patients have hypogammaglobulinemia and often have recurrent sinopulmonary infections. They are also susceptible to viral, particularly herpes family, and fungal infections. Patients commonly develop autoimmune cytopenias and lymphoid proliferation in the GI tract (e.g., nodular lymphoid hyperplasia), the lungs (e.g., granulomatous lymphocytic interstitial lung disease [GLILD]), and the central nervous system. GI symptoms are frequently present and can include inflammatory bowel disease. Patients can also develop a variety of skin manifestations such as eczema, psoriasis, and vitiligo. Other autoimmune diseases that can develop but are less common include endocrinopathies (thyroiditis, type 1 diabetes), arthritis, and aplastic anemia. Given the immune-mediated diseases with lymphoproliferation and autoimmunity, sirolimus can be effective. A more targeted treatment option of providing CTLA4 protein with CTLA4-Ig therapy, such as abatacept, has also been quite effective in treating the disease. However, it remains unclear how long patients can be maintained on this therapy. Some patients with severe or progressive disease despite immune suppression have been successfully treated with HSCT. 
+
+**LRBA deficiency** is an autosomal recessive (biallelic) disorder with a clinical phenotype like CTLA4-deficient patients, although the onset tends to be in younger patients. Patients frequently develop sinopulmonary infections and have poor antibody production. They can develop a variety of autoimmune manifestations such as autoimmune cytopenias, enteropathy, and endocrinopathy. Lymphoproliferation with lymphadenopathy, splenomegaly, and hepatomegaly are also commonly present; patients can develop malignancy, although less often compared to CTLA4 deficient patients. Given the function of LRBA in CTLA4 expression on T cells, defects in LRBA also result in low CTLA4 levels, and providing CTLA4 protein with soluble CTLA4-Ig (abatacept), similar to CHAI patients, can be effective in treating the disease. Given the young age, patients have also been successfully treated with HSCT; 70% of the treated patients are able to discontinue previous therapies. 
+
+The **PD1 receptor** is encoded by _PDCD1_ ; there is one reported patient in a family with a homozygous frameshift variant developing organ-specific autoimmunity and tuberculosis. The variant resulted in absent PD1 surface expression and in impaired IFN-γ and TNF-α production, which likely contributed to the increased susceptibility to tuberculosis. It also led to elevated STAT3 activating cytokines, suggesting a similar mechanism to STAT3-GOF patients for developing autoimmunity. 
+
+### **Activated Phosphatidylinositol 3-Kinase Delta Syndrome (APDS)** 
+
+Phosphatidylinositol 3-Kinase Delta (PI3Kδ) is an enzyme complex that has a key role in immune cell activation and 
+
+regulation. The complex is composed of two proteins, a catalytic subunit called p110δ ( _PIK3CD_ gene) and a regulatory subunit called p85α ( _PIK3R1_ gene). Normally, p85α binds p110δ and maintains p110δ in an inactive state. When the immune cell receives an activating signal, p110δ is released and is able to activate downstream immune pathways such as the AKT/mTOR pathway. Pathogenic variants in both genes cause **activated PI3K delta syndrome (APDS)** , an autosomal dominant disease. These patients develop immune-mediated phenotypes and have increased susceptibility to infection. Most patients develop lymphoproliferation presenting with lymphadenopathy and splenomegaly. They also can develop nodular lymphoid hyperplasia in the GI tract and immune infiltrates in the lung. Patients also frequently develop recurrent sinopulmonary infections, typically due to bacteria such as _Streptococcus pneumoniae_ and _Haemophilus influenzae_ . They are also particularly susceptible to viral infections, particularly from the Herpes family. In particular, EBV infection can lead to persistent EBV viremia, and in combination with the underlying lymphoproliferative defect increases the risk of malignancies, particularly B cell lymphomas. A quarter of these patients also develop autoimmune manifestations such as autoimmune cytopenias, endocrinopathies, and rheumatological conditions. Given both frequent infections plus immunemediated diseases, patients are commonly treated with both immune protective (e.g., immunoglobulin supplementation, antimicrobial prophylaxis) and immune suppressive therapies. Targeted approaches with inhibitors for mTOR and PI3K, the overactive pathways in these patients, have been effective. Some patients with severe disease received HSCT with an overall survival of 80%, though they had a high rate of posttransplant complications (Table 59.3). 
+
+### **Janus Kinase (JAK)/Signal Transducer and Activator of Transcription (STAT) Gain-of-Function (GOF) Disorders** 
+
+The Janus kinase (JAK)/signal transducer and activator of transcription (STAT) pathways are essential for translating the signal from circulating cytokines and other factors to the activation of immune cells. Cytokines bind cellular receptors that recruit Jak proteins which then phosphorylate STAT proteins. These proteins bind target DNA sequence and turn on genes that are important for regulating immune cell function. Thus, genetic variants leading to a breakdown in this pathway can result in inappropriate responses of the immune system manifesting as immune regulatory disorders (Table 59.4). 
+
+**STAT1 gain-of function disease (STAT1-GOF)** is mediated by heterozygous variants that cause hyperactivity of STAT1 and result in clinical features of autoimmunity, hyperinflammation, and increased susceptibility to infections. The disease can range from mild to severe; some may be an asymptomatic carrier. The majority of patients develop CMC, and some develop invasive fungal disease. They are also susceptible to sinopulmonary and skin bacterial infections; they
+
+<!-- p.1324 -->
+
+**TABLE Activated Phosphatidylinositol 3-Kinase 59.3 Delta Syndrome (APDS)** 
+
+|Gene|_PIK3CD_|_PIK3R1_|
+|---|---|---|
+|Protein|p110d|p85a|
+|Onset age|Infancy to<br>childhood|Infancy to<br>childhood|
+|**Clinical Manifest**<br>|**ations**<br>||
+|Infection|Sinopulmonary,<br>viral (herpes)|Sinopulmonary,<br>viral (herpes)|
+|Hyperinflammation|||
+|Autoimmunity|Cytopenias, liver,<br>renal|Cytopenias, liver,<br>renal|
+|Atopy|Eczema|Eczema|
+|LPD|LAD, SM, GI, lung|LAD, SM, GI, lung|
+|Malignancy|Lymphoma|Lymphoma|
+|Other features|Neurodevelopmental<br>delays|Neurodevelopmental<br>delays, short<br>stature,<br>dysmorphism|
+|Immune labs|B cell lymphopenia|B cell lymphopenia|
+|Autoimmune labs|Positive autoab||
+|HCT|Yes|Yes|
+|Clinical penetrance|Full|Full|
+|Zygosity|Heterozygous|Heterozygous|
+|Type of variant|Missense|Splicing,<br>missense|
+
+
+_Autoab,_ Autoantibodies; _LAD,_ lymphadenopathy; _LPD,_ lymphoproliferative disease; _SM,_ splenomegaly. 
+
+can also develop recurrent or severe herpes viral infections. Some are treated with immunoglobulin replacement and antimicrobial prophylaxis. STAT1-GOF patients also can present with a variety of immune-mediated manifestations including GI disease (e.g., colitis, enteropathy, hepatitis), endocrinopathy (e.g., thyroiditis, diabetes), dermatitis (e.g., eczema, psoriasis), or cytopenias. Patients have also been found to have intracranial aneurysm and cancer, particularly squamous cell carcinomas, which are both considered poor prognostic factors. Given the known immune pathway, JAK inhibitors have been effective in treating these patients, although some patients can develop severe fungal and viral disease. It is unclear how long patients can be controlled on such therapy. Some of the most severe cases refractory to multiple medical therapies have been successfully treated with HSCT, though overall transplant survival is 50%. 
+
+Patients with **STAT2-GOF** have been reported, and the clinical picture resembles other type I interferonopathies with sterile hyperinflammation (e.g., fever, hemophagocytic lymphohistiocytosis (HLH)-like episodes) and intracranial 
+
+calcification. There have been two patients both with homozygous variants at position R148 resulting in excessive type I interferon activity. Both patients were treated with ruxolitinib, a Jak inhibitor, with some clinical improvement. One received a HSCT but died due to transplant-related complications. 
+
+**STAT3-GOF** are mediated by heterozygous variants causing multiple immune-mediated diseases. The most prominent manifestation is diffuse lymphadenopathy and splenomegaly followed by autoimmune cytopenias and GI manifestations (e.g., celiac disease, diarrhea, failure to thrive). They also develop interstitial lung disease and autoimmune endocrinopathies. Patients are susceptible to infections, predominantly bacterial and viral infections, which range from mild to severe. Most patients start immunoglobulin supplementation; some start antimicrobial prophylaxis. Given the predominance of immune-mediated manifestations, most patients require treatment with immune modulatory therapies. Similar to STAT1GOF disease, some of these patients have been responsive to Jak inhibitors. Tocilizumab, an anti-IL6 therapy, has also been used effectively given IL-6 drives STAT3 activation. Most patients are refractory to corticosteroid therapy and require multiple agents; some patients proceed to HSCT, which has an overall transplant survival of 62%. 
+
+There are three JAK/STAT pathway genes where variants result in _severe atopic disease_ such as severe eczema, food allergies, asthma, and eosinophilic gastrointestinal disease. There are only a limited number of cases reported for each gene to date. **STAT5b-GOF** heterozygous variants include one germline family and others with mosaic variants. **STAT6-GOF** patients have germline missense variants. In addition to atopic manifestations, STAT6-GOF patients are susceptible to recurrent skin and respiratory infections due to bacteria, fungus, or viruses. They can also have short stature and develop vascular anomalies similar to patients with STAT3 variants. The third JAK/STAT gene linked to atopy is **JAK1** and, similar to STAT5b, one family had a germline variant, whereas the other cases were mosaic. For all of these gene variants, patients had clinical improvements with JAK inhibitor therapies. 
+
+### **Ikaros Zinc Family (IKZF) of Transcription Factors Disorders** 
+
+The clinical phenotypes associated with pathogenic variants in the IKZF family include various immune-mediated diseases. IKZF family members are transcription factors that have a role in immune development and regulation of immune pathways both positively and negatively. They share N-terminal zinc finger domains that recognize specific DNA sequences to regulate gene transcription; there are C-terminal zinc-finger domains that are important for binding other proteins. The location of the gene variant results in different clinical phenotypes depending on the impact of the protein domains. There are 5 members in the IKZF family: IKAROS _(IKZF1)_ , HELIOS _(IKZF2)_ , AIOLOS _(IKZF3)_ , EOS _(IKZF4)_ , and PEGASUS _(IKZF5)_ . All have been linked to human disease except for IKZF4 (Table 59.5).
+
+<!-- p.1325 -->
+
+#### **TABLE JAK/STAT GOF Disorders** 
+
+##### **59.4** 
+
+|Gene|_STAT1_|_STAT2_|_STAT3_|_STAT5B_|_STAT6_|_JAK1_|
+|---|---|---|---|---|---|---|
+|Protein|STAT1|STAT2|STAT3|STAT5b|STAT6|JAK1|
+|Onset age|Infancy to childhood|Infancy|Infancy to childhood|Infancy to childhood|Infancy to childhood||
+|**Clinical Manifest**|**ations**||||||
+|Infection|Sinopulmonary<br>bacterial, CMC/<br>fungal, viral (herpes)||Bacterial, viral infections,<br>fungal, opportunistic||Bacterial skin and<br>respiratory, fungal,<br>viral|Viral|
+|Hyperinflammation|Colitis|HLH-like, fever|||||
+|Autoimmunity|Endocrinopathy,<br>cytopenias,||Cytopenias, ILD,<br>endocrinopathies, GI<br>manifestations||||
+|Atopy||||Eczema, food allergies,<br>asthma, EGID|Food allergies, eczema,<br>asthma, EGID|Eczema, food allergies,<br>asthma, EGID|
+|LPD|||LAD, SM|||HSM, HES|
+|Malignancy|Yes (squamous cell<br>carcinoma)||Yes||Lymphoma||
+|Other features|Aneurysm|Intracranial<br>calcifications,<br>developmental<br>delay|Growth failure, vasculopathy|Rashes, hair loss, failure<br>to thrive|Vasculature anomalies,<br>short stature|Growth failure|
+|Immune labs|Low Th17 cells||Low IgG, lymphopenia (T, B,<br>and NK), elevated DNT|Eosinophilia,<br>elevated IgE|Eosinophilia,<br>elevated IgE|Eosinophilia, elevated<br>IgE|
+|Autoimmune labs|Positive autoab||Positive autoab||||
+|HSCT|Yes||Yes||||
+|Clinical<br>penetrance|Incomplete|Full (limited<br>numbers)|Incomplete||Full|Complete|
+|Zygosity|Heterozygous|Homozygous|Heterozygous|Heterozygous (germline,<br>mosaicism)|Heterozygous|Heterozygous (germline,<br>mosaicism)|
+|Type of variant|Missense|Missense (R148)|Missense|Missense|Missense|Missense|
+
+
+_Autoab,_ Autoantibodies; _CMC,_ chronic mucocutaneous candidiasis; _DNT,_ double negative T cells = CD4-CD8-TCRab+; _EGID,_ eosinophilic gastrointestinal disease; _HES,_ hypereosinophilic syndrome; _HLH,_ hemophagocytic lymphohistiocytosis; _HSCT,_ hematopoietic stem cell transplant; _HSM,_ hepatosplenomegaly; _IgE,_ immunoglobulin E; _IgG,_ immunoglobulin G; _ILD,_ interstitial lung disease; _LAD,_ lymphadenopathy; _LPD,_ lymphoproliferative disease; _SM,_ splenomegaly; _Th17,_ T helper 17 cells.
+
+<!-- p.1326 -->
+
+#### **TABLE 59.5 Defects in Ikaros Zinc Family (IKZF) of Transcription Factor Family** 
+
+|Gene||_IKZF_|_1_||_IKZF2_|_IKZF3_|_IKZF5_|
+|---|---|---|---|---|---|---|---|
+|Protein||IKARO|S||HELIOS|AIOLOS|PEGAUS|
+|Onset age|Infancy to late<br>adulthood|Childhood|Infancy to early<br>childhood|Infancy to<br>adulthood|Infancy to adulthood|Infancy to<br>childhood|Unknown|
+|**Clinical**<br>**Manifestations**||||||||
+|Infection|Recurrent/severe<br>bacterial infections,<br>some viral infections|Sinopulmonary<br>infections|PJP, severe/invasion<br>infections bacterial,<br>viral, fungal|Sinopulmonary<br>infections|Sinopulmonary<br>infections, EBV|Sinopulmonary<br>infection,<br>PJP, EBV||
+|Hyperinflammation||Colitis||Colitis|HLH, Still’s disease,<br>Bechet-like|HLH||
+|Autoimmunity|Cytopenias,<br>endocrinopathies,<br>MG rheumatological<br>disorders, positive<br>autoab|Cytopenias, ILD,<br>ANCA vasculitis|None|Cytopenia,<br>endocrinopathy,<br>alopecia, vitiligo|Cytopenias, lupus|Oligoarticular<br>arthritis|None reported|
+|Atopy|Dermatitis|None|None|Dermatitis, Asthma,<br>food allergies|Eczema|None reported|None reported|
+|LPD|SM|LAD, SM||LAD|LAD, SM|SM|None reported|
+|Malignancy|B-ALL, T-ALL|T-ALL, Lymphoma|T-ALL|Lymphoma,<br>multiple<br>myeloma|Lymphoma|Lymphoma,<br>CLL|None reported|
+|Nonimmune<br>related features|||||Some have craniofacial<br>abnormalities,<br>hearing loss,<br>developmental delays||Isolated<br>thrombocytopenia<br>due to<br>development|
+|Immune labs|Low B cells, low IgG|Low IgG, some with<br>progressive low B<br>cell|Low B cells, low IgG|Normal to<br>high Ig|Low TRECs (n=2),<br>low IgG (some)|B cell defects<br>(low Ig, low to<br>high B cells)|None reported|
+|Autoimmune labs|Positive autoab|Positive autoab||Positive autoab|Positive autoab|||
+|HSCT|Yes||Yes|Yes|Yes|Yes||
+|Clinical<br>penetrance|Incomplete|Incomplete|Full|Incomplete|Incomplete|Full (limited<br>cases)|Full|
+|Zygosity|Heterozygous|Heterozygous|Heterozygous|Heterozygous|Heterozygous or biallelic|Heterozygous|Heterozygous|
+|Type of variant|Missense, deletions<br>(DNA binding<br>domain)|Missense, premature<br>stop (dimerization<br>domain)|<br>Missense (N159—<br>dominant negative)|Missense (R183—<br>gain of function)|Missense, premature<br>stop, partial<br>duplication|Missense|Missense|
+
+
+_ALL,_ Acute lymphoblastic leukemia; _ANCA,_ antineutrophilic cytoplasmic antibody; _Autoab,_ autoantibodies; _CLL,_ chronic lymphocytic leukemia; _EBV,_ Epstein-Barr virus; _HLH,_ hemophagocytic lymphohistiocytosis; _HSCT,_ hematopoietic stem cell transplant; _HSM,_ hepatosplenomegaly; _IgG,_ immunoglobulin G; _ILD,_ interstitial lung disease; _LAD,_ lymphadenopathy; _LPD,_ lymphoproliferative disease, _MG,_ myasthenia gravis; _PJP, Pneumocystis jirovecii_ pneumonia; _SM,_ splenomegaly; _TREC,_ T cell receptor excision circles.
+
+<!-- p.1327 -->
+
+**IKAROS** has gene variants that typically impact one allele (i.e., autosomal dominant), and the clinical phenotype varies depending on the location of the genetic variant which can lead to either loss or gain of function defects in the protein. It is important to note some patients can have the variant and be asymptomatic. 
+
+One group of gene variants is in the region of the DNA binding domains and typically results in loss of function of the protein. These patients can present with recurrent or severe infections predominantly from bacterial infections; they have low B cell numbers and immunoglobulin levels. They can also develop autoimmune manifestations, such as cytopenias and rheumatological diseases, malignancy, and hyperinflammation. These patients can present as young as infancy to late adulthood. Given the infectious predisposition, most patients receive immunoglobulin replacement. One patient was successfully treated with a HSCT. Another group of variants tend to have a greater impact on the dimerization domains impairing the ability of IKAROS to bind to other IKAROS family members and other protein complexes needed to mediate function. These patients tend to present in childhood and develop more autoimmunity and malignancy and fewer infections compared to the first group. Given their clinical manifestations, these patients are primarily treated for their immune-mediated diseases. 
+
+There is one variant suggested to be a dominant negative variant (N159S/T) given its ability to impair wild-type IKAROS function. These patients predominantly present with infections; one patient developed a leukemia. Somatic variants in this position are linked to different types of leukemia. These patients present early and due to their infectious complications proceed to transplant, which has been an effective cure. 
+
+There is one gain-of-function (R183H/C) variant due to its ability to bind its target DNA sequences and increase activity of known IKAROS target genes. These patients present predominantly with immune-mediated manifestations including hyperinflammation, autoimmunity, and atopy. Some can develop recurrent sinopulmonary infections, and there are some cases that develop malignancies. Most patients are treated with immune modulatory therapies due to the immune-mediated manifestations. One patient underwent HSCT due to severe disease and was cured. 
+
+**HELIOS** is encoded by _IKZF2_ ; its function has been characterized in immune cells, although it is expressed during development in a broad array of other tissues. Patients carrying monoallelic and biallelic variants have been described and present with a broad spectrum of immunemediated manifestations including autoimmunity, atopy, and lymphoproliferation. Some patients also have developed recurrent respiratory infections, and two cases had a low newborn TREC assay reflecting T cell lymphopenia. These patients with low TRECs also had craniofacial 
+
+abnormalities plus other neurological findings such as developmental delays and hearing loss. While patients can present in infancy, most cases presented in adolescence or adulthood with more immune-mediated diseases such as autoimmune cytopenias or lupus-like features. Two patients developed HLH with one refractory to multiple immune suppressive medications and subsequently treated with a HSCT with complete donor engraftment. Patients with recurrent infections are treated with immunoglobulin replacement and/or antimicrobial prophylaxis. The majority of patients treated with immune suppressive therapies for their autoimmune manifestations are able to remain in remission off medications. Variants in this gene are mostly monoallelic with one exception that was biallelic; the carriers of this allele were healthy. Three variants are within the zinc finger DNA binding domain and the majority are not located within any of the established zinc finger domains although data support a role on the normal function of HELIOS. There are also somatic variants in genes linked to lymphoma. 
+
+**AIOLOS** is another IKAROS family member encoded by _IKZF3_ and is found in patients with features of increased susceptibility to infections, hyperinflammation, and malignancies. Although only two families are reported, there is complete penetrance with variable clinical expressivity. Infections have included recurrent sinopulmonary infections, _Pneumocystis jirovecii_ and EBV. The EBV infections were linked to the development of lymphomas, and one patient developed recurrent HLH and chronic active EBV disease. Most patients have B cell defects such as low B cell counts or low antibody levels, which is expected given its predominant expression in various stages of B cells. Two patients received a HSCT due to lymphoma and one died from multiorgan failure. Two neighboring heterozygous missense variants have been reported; both are located within the zinc finger DNA binding domain. These variants impair the ability of AIOLOS to bind the consensus DNA binding sequence and can have a dominant negative effect on interactions with other proteins. In addition to germline variants, there are also somatic variants in IKZF3 linked to the development of chronic lymphocytic leukemia. 
+
+_IKZF5_ encodes the protein **PEGASUS** . Heterozygous variants in this gene have been identified in patients with isolated thrombocytopenia though one variant was associated with recurrent infections with minimal immune lab abnormalities reported. Platelet counts were mildly low in the majority of the cases, and most did not have any significant bleeding complications. The variants were all missense variants and located in the zinc finger domains involved in DNA binding. Although IKZF5 is expressed in other hematopoietic cells lineages, these variants were found to impact platelet formation.
+
+<!-- p.1328 -->
+
+## **Bibliography** 
+
+- Aluri J, Cooper MA. Genetic mosaicism as a cause of inborn errors of immunity. _J Clin Immunol_ . 2021;41(4):718-728. 
+
+- Asano T, Utsumi T, Kagawa R, Karakawa S, Okada S. Inborn errors of immunity with lossand gain-of-function germline mutations in STAT1. _Clin Exp Immunol_ . 2023;212(2):96-106. 
+
+- Barzaghi F, Amaya Hernandez LC, Neven B, et al. Long-term followup of IPEX syndrome patients after different therapeutic strategies: an International Multicenter Retrospective Study. _J Allergy Clin Immunol_ . 2018;141(3):1036-1049.e5. 
+
+- Boutboul D, Kuehn HS, Van de Wyngaert Z, et al. Dominant-negative _IKZF1_ mutations cause a T, B, and myeloid cell combined immunodeficiency. _J Clin Invest_ . 2018;128(7):3071-3087. 
+
+- Break TJ, Oikonomou V, Dutzan N, Desai JV, et al. Aberrant type 1 immunity drives susceptibility to mucosal fungal infections. _Science_ . 2021;371(6526):eaay5731. 
+
+- Del Bel KL, Ragotte RJ, Saferali A, et al. JAK1 gain-of-function causes an autosomal dominant immune dysregulatory and hypereosinophilic syndrome. _J Allergy Clin Immunol_ . 2017;139(6): 2016-2020.e5. 
+
+- Deyà-Martínez A, Rivière JG, Roxo-Junior P, et al. Impact of JAK inhibitors in pediatric patients with STAT1 Gain of Function (GOF) mutations-10 children and review of the literature. _J Clin Immunol_ . 2022;42(5):1071-1082. 
+
+- Duncan CJA, Thompson BJ, Chen R, et al. Severe type I interferonopathy and unrestrained interferon signaling due to a homozygous germline mutation in STAT2. _Sci Immunol_ . 2019;4(42): eaav7501. 
+
+- Egg D, Rump IC, Mitsuiki N, et al. Therapeutic options for CTLA-4 insufficiency. _J Allergy Clin Immunol_ . 2022;149(2):736-746. 
+
+- Eisenberg R, Gans MD, Leahy TR, et al. JAK inhibition in earlyonset somatic, nonclonal STAT5B gain-of-function disease. _J Allergy Clin Immunol Pract_ . 2021;9(2):1008-1010.e2. 
+
+- Ferré EMN, Schmitt MM, Lionakis MS. Autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy. _Front Pediatr_ . 2021; 9:723532. https://www.frontiersin.org/articles/10.3389/fped. 2021.723532 
+
+- Forbes LR, Vogel TP, Cooper MA, et al. Jakinibs for the treatment of immune dysregulation in patients with gain-of-function Signal Transducer and Activator of Transcription 1 (STAT1) or STAT3 mutations. _J Allergy Clin Immunol_ . 2018;142(5):1665-1669. 
+
+- Gambineri E, Mannurita SC, Hagin D, et al. Clinical, immunological, and molecular heterogeneity of 173 patients with the phenotype of Immune Dysregulation, Polyendocrinopathy, Enteropathy, X-Linked (IPEX) syndrome. _Front Immunol_ . 2018;9:2411. 
+
+- Goldman FD, Gurel Z, Al-Zubeidi D, et al. Congenital pancytopenia and absence of B lymphocytes in a neonate with a mutation in the Ikaros Gene. _Pediatr Blood Cancer_ . 2012;58(4):591-597. 
+
+- Green MR, Gentles AJ, Nair RV, et al. Hierarchy in somatic mutations arising during genomic evolution and progression of follicular lymphoma. _Blood_ . 2013;121(9):1604-1611. 
+
+- Gruber C, Martin-Fernandez M, Ailal F, et al. Homozygous STAT2 gain-of-function mutation by loss of USP18 activity in a patient with type I interferonopathy. _J Exp Med_ . 2020;217(5):e20192319. 
+
+- Hernandez JD, Hsieh EWY. A great disturbance in the force: IL-2 receptor defects disrupt immune homeostasis. _Curr Opin Pediatr_ . 2022;34(6):580-588. 
+
+- Hetemäki I, Kaustio M, Kinnunen M, et al. Loss-of-function mutation in IKZF2 leads to immunodeficiency with dysregulated germinal center reactions and reduction of MAIT cells. _Sci Immunol_ . 2021;6(65):eabe3454. 
+
+- Hoshino A, Boutboul D, Zhang Y, et al. Gain-of-function IKZF1 variants in humans cause immune dysregulation associated with abnormal T/B cell late differentiation. _Sci Immunol_ . 2022; 7(69):eabi7160. 
+
+- Jamee M, Moniri S, Zaki-Dizaji M, et al. Clinical, immunological, and genetic features in patients with activated PI3Kδ syndrome (APDS): a systematic review. _Clin Rev Allergy Immunol_ . 2020;59(3):323-333. 
+
+- Jamee M, Zaki-Dizaji M, Lo B, et al. Clinical, immunological, and genetic features in patients with Immune Dysregulation, Polyendocrinopathy, Enteropathy, X-Linked (IPEX) and IPEXlike syndrome. _J Allergy Clin Immunol Pract_ . 2020;8(8): 2747-2760.e7. 
+
+- Kasap N, Aslan K, Karakurt LT, et al. A novel gain-of-function mutation in STAT5B is associated with treatment-resistant severe atopic dermatitis. _Clin Exp Allergy_ . 2022;52(7):907-910. 
+
+- Kellner ES, Krupski C, Sun Kuehn H, et al. Allogeneic hematopoietic stem cell transplant outcomes for patients with dominant negative IKZF1/IKAROS mutations. _J Allergy Clin Immunol_ . 2019;144(1):339-342. 
+
+- Klammt J, Neumann D, Gevers EF, Andrew SF, et al. Dominantnegative STAT5B mutations cause growth hormone insensitivity with short stature and mild immune dysregulation. _Nat Commun_ . 2018;9(1):2105. 
+
+- Krone KA, Foley CL, Fishman MP, et al. Signal transducer and activator of transcription 5B deficiency-associated lung disease. _Am J Respir Crit Care Med_ . 2022;205(10):1245-1250. 
+
+- Kuehn HS, Boast B, Rosenzweig SD. Inborn errors of human IKAROS: LOF and GOF variants associated with primary immunodeficiency. _Clin Exp Immunol_ . 2023;212(2):129-136. 
+
+- Kuehn HS, Chang J, Yamashita M, et al. T and B cell abnormalities, pneumocystis pneumonia, and chronic lymphocytic leukemia associated with an AIOLOS defect in patients. _J Exp Med_ . 2021;218(12):e20211118. 
+
+- Landau DA, Tausch E, Taylor-Weiner AN, et al. Mutations driving CLL and their evolution in progression and relapse. _Nature_ . 2015;526(7574):525530. 
+
+- Leiding JW, Vogel TP, Santarlas VGJ, et al. Monogenic early-onset lymphoproliferation and autoimmunity: natural history of STAT3 gain-of-function syndrome. _J Allergy Clin Immunol_ . 2023;151(4): 1081-1095. 
+
+- Leinoe E, Kjaersgaard M, Zetterberg E, Ostrowski S, Greinacher A, Rossing M. Highly impaired platelet ultrastructure in two families with novel IKZF5 variants. _Platelets_ . 2021;32(4):492-497. 
+
+- Lentaigne C, Greene D, Sivapalaratnam S, et al. Germline mutations in the transcription factor IKZF5 cause thrombocytopenia. _Blood_ . 2019;134(23):2070-2081. 
+
+- Li JF, Yu-Ting D, Lilljebjörn H, et al. Transcriptional landscape of B cell precursor acute lymphoblastic leukemia based on an international study of 1,223 cases. _Proc Nat Acad Sci U S A_ . 2018; 115(50):E11711-E11720. 
+
+- Ma Chi A, Xi L, Cauff B, DeZure A, et al. Somatic STAT5b gain-offunction mutations in early onset nonclonal eosinophilia, urticaria, dermatitis, and diarrhea. _Blood_ . 2017;129(5):650-653. 
+
+- Mohajeri A, Vaseghi-Shanjani M, Rosenfeld JA, et al. Dominant negative variants in IKZF2 cause ICHAD syndrome, a new disorder characterised by immunodysregulation, craniofacial anomalies, hearing impairment, athelia and developmental delay. _J Med Genet_ . 2023;60(11):1092-1104. 
+
+- Nunes-Santos CJ, Uzel G, Rosenzweig SD. PI3K pathway defects leading to immunodeficiency and immune dysregulation. _J Allergy Clin Immunol_ . 2019;143(5):1676-1687.
+
+<!-- p.1329 -->
+
+- Ogishi M, Yang R, Aytekin C, et al. Inherited PD-1 deficiency underlies tuberculosis and autoimmunity in a child. _Nat Med_ . 2021; 27(9):1646-1654. 
+
+- Okano T, Imai K, Naruto T, et al. Whole-exome sequencing-based approach for germline mutations in patients with inborn errors of immunity. _J Clin Immunol_ . 2020;40(5):729-740. 
+
+- Pelham SJ, Caldirola MS, Avery DT, et al. STAT5B restrains human B-cell differentiation to maintain humoral immune homeostasis. _J Allergy Clin Immunol_ . 2022;150(4):931-946. 
+
+- Philips RL, Wang Y, Cheon H, et al. The JAK-STAT pathway at 30: much learned, much more to do. _Cell_ . 2022;185(21):3857-3876. 
+
+- Rudilla F, Franco-Jarava C, Martínez-Gallo M, et al. Expanding the clinical and genetic spectra of primary immunodeficiency-related disorders with clinical exome sequencing: expected and unexpected findings. _Front Immunol_ . 2019;10:2325. 
+
+- Schwab C, Gabrysch A, Olbrich P, et al. Phenotype, penetrance, and treatment of 133 cytotoxic T-lymphocyte antigen 4-insufficient subjects. _J Allergy Clin Immunol_ . 2018;142(6):1932-1946. 
+
+- Shahin T, Kuehn HS, Shoeb MR, et al. Germline biallelic mutation affecting the transcription factor helios causes pleiotropic defects of immunity. _Sci Immunol_ . 2021;6(65):eabe3981. 
+
+- Shahin T, Mayr D, Shoeb MR, et al. Identification of germline monoallelic mutations in IKZF2 in patients with immune dysregulation. _Blood Adv_ . 2022;6(7):2444-2451. 
+
+- Sharma M, Leung D, Momenilandi M, et al. Human germline heterozygous gain-of-function STAT6 variants cause severe allergic disease. _J Exp Med_ . 2023;220(5):e20221755. 
+
+- Simon AJ, Golan AC, Lev A, et al. Whole Exome Sequencing (WES) Approach for Diagnosing Primary Immunodeficiencies (PIDs) in a highly consanguineous community. _Clin Immunol_ . 2020; 214:108376. 
+
+- Smith MR, Forbes Satter LR, Vargas-Hernández A. STAT5b: a master regulator of key biological pathways. _Front Immunol_ . 2022;13:1025373. 
+
+- Suratannon N, Ittiwut C, Dik WA, et al. A germline STAT6 gain-offunction variant is associated with early-onset allergies. _J Allergy Clin Immunol_ . 2023;151(2):565-571.e9. 
+
+- Takeichi T, Lee JYW, Okuno Y, et al. Autoinflammatory keratinization disease with hepatitis and autism reveals roles for JAK1 kinase hyperactivity in autoinflammation. _Front Immunol_ . 2021; 12:737747. 
+
+- Takeuchi I, Yanagi K, Takada S, et al. STAT6 gain-of-function variant exacerbates multiple allergic symptoms. _J Allergy Clin Immunol_ . 2023;151(5):1402-1409.e6. 
+
+- Tangye SG, Al-Herz W, Bousfiha A, et al. Human inborn errors of immunity: 2022 update on the classification from the International Union of Immunological Societies Expert Committee. _J Clin Immunol_ . 2022;42(7):1473-1507. 
+
+- Tesch VK, Abolhassani H, Shadur B, et al. Long-term outcome of LRBA deficiency in 76 patients after various treatment modalities as evaluated by the Immune Deficiency and Dysregulation Activity (IDDA) score. _J Allergy Clin Immunol_ . 2020;145(5):14521463. 
+
+- Thaventhiran JED, Allen HL, Burren OS, et al. Whole-genome sequencing of a sporadic primary immunodeficiency cohort. _Nature_ . 2020;583(7814):90-95. 
+
+- Triebwasser MP, Barrett DM, Bassiri H, et al. Combined use of emapalumab and ruxolitinib in a patient with refractory hemophagocytic lymphohistiocytosis was safe and effective. _Pediatr Blood Cancer_ . 2021;68(7):e29026. 
+
+- Vanselow S, Wahn V, Schuetz C. Activated PI3Kδ syndrome— reviewing challenges in diagnosis and treatment. _Front Immunol_ . 2023;14:1208567. https://www.frontiersin.org/articles/10.3389/ fimmu.2023.1208567 
+
+- Yamashita M, Kuehn HS, Okuyama K, et al. A variant in human AIOLOS impairs adaptive immunity by interfering with IKAROS. _Nat Immunol_ . 2021;22(7):893-903. 
+
+- Zhang W, Chen X, Gao G, et al. Clinical relevance of gainand lossof-function germline mutations in STAT1: a systematic review. _Front Immunol_ . 2021;12:654406. 
+
+- Zhang X, Huang A, Liu L, et al. The clinical impact of IKZF1 mutation in acute myeloid leukemia. _Exp Hematol Oncol_ . 2023; 12(1):33.

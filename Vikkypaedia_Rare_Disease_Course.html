@@ -1,0 +1,1930 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Vikkypaedia Rare Disease Learner Course (V2 Board-Mastery Suite) — Nelson Pediatric Textbook of Rare Diseases</title>
+<style>
+  :root {
+    --bg: #0b1120;
+    --bg-panel: #111827;
+    --bg-card: #1e293b;
+    --bg-hover: #334155;
+    --text: #f8fafc;
+    --text-muted: #94a3b8;
+    --accent: #38bdf8;
+    --accent-strong: #0284c7;
+    --violet: #a78bfa;
+    --green: #22c55e;
+    --amber: #f59e0b;
+    --red: #ef4444;
+    --border: #334155;
+    --radius: 12px;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+  }
+  header {
+    background: linear-gradient(90deg, #0f172a 0%, #1e1b4b 55%, #0f172a 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 11px 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+  }
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+  }
+  .brand-badge {
+    background: linear-gradient(135deg, #0284c7, #7c3aed);
+    color: #fff;
+    font-weight: 800;
+    font-size: 12.5px;
+    padding: 7px 11px;
+    border-radius: 8px;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 10px rgba(124, 58, 237, 0.35);
+  }
+  .brand h1 {
+    font-size: 16.5px;
+    margin: 0;
+    font-weight: 700;
+  }
+  .brand small {
+    display: block;
+    color: var(--text-muted);
+    font-size: 11.5px;
+    margin-top: 2px;
+  }
+  .search-wrap {
+    flex: 1;
+    max-width: 410px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .search-wrap input {
+    width: 100%;
+    padding: 8px 32px 8px 13px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--text);
+    font-size: 13px;
+    outline: none;
+  }
+  .search-wrap input:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.2);
+  }
+  .search-clear-btn {
+    position: absolute;
+    right: 8px;
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 14px;
+    padding: 2px 5px;
+    display: none;
+  }
+  .search-clear-btn:hover { color: #fff; }
+  .nav-tabs {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+  }
+  .nav-tab {
+    background: var(--bg-card);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 7px 11px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 12.5px;
+    font-weight: 600;
+    transition: 0.15s;
+  }
+  .nav-tab:hover { background: var(--bg-hover); }
+  .nav-tab.active {
+    background: var(--accent-strong);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .layout {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+  }
+  aside {
+    width: 325px;
+    background: var(--bg-panel);
+    border-right: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  .sidebar-filter {
+    padding: 9px 11px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    gap: 8px;
+  }
+  .sidebar-filter select, .sidebar-filter input {
+    width: 100%;
+    padding: 7px 10px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--text);
+    font-size: 12.5px;
+    outline: none;
+  }
+  .sidebar-filter input:focus, .in-tab-input:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.2);
+  }
+  .in-tab-input {
+    flex: 1;
+    min-width: 260px;
+    padding: 9px 13px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--text);
+    font-size: 13.5px;
+    outline: none;
+  }
+  .chapter-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 8px;
+  }
+  .part-group {
+    margin-bottom: 12px;
+  }
+  .part-header {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.7px;
+    color: var(--accent);
+    padding: 6px 8px;
+    font-weight: 700;
+  }
+  .ch-item {
+    padding: 8px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    color: var(--text);
+    margin-bottom: 2px;
+  }
+  .ch-item:hover { background: var(--bg-card); }
+  .ch-item.active {
+    background: rgba(2, 132, 199, 0.25);
+    border-left: 3px solid var(--accent);
+    font-weight: 600;
+  }
+  .ch-item .ch-badges {
+    display: flex;
+    gap: 4px;
+    font-size: 11px;
+    color: var(--text-muted);
+    flex-shrink: 0;
+  }
+  .pill {
+    background: var(--bg);
+    padding: 2px 6px;
+    border-radius: 99px;
+    border: 1px solid var(--border);
+    font-size: 11px;
+  }
+  main {
+    flex: 1;
+    overflow-y: auto;
+    padding: 24px 32px;
+  }
+  .container {
+    max-width: 1120px;
+    margin: 0 auto;
+  }
+  .hero-banner {
+    background: linear-gradient(135deg, #1e293b 0%, #1e1b4b 60%, #0f172a 100%);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 20px 24px;
+    margin-bottom: 20px;
+  }
+  .hero-banner .part-tag {
+    color: var(--accent);
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+  }
+  .hero-banner h2 {
+    margin: 6px 0 8px 0;
+    font-size: 23px;
+  }
+  .hero-banner .meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-bottom: 14px;
+  }
+  .quick-actions {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .btn {
+    padding: 8px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--bg-card);
+    color: var(--text);
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    transition: 0.15s;
+  }
+  .btn:hover { background: var(--bg-hover); }
+  .btn-primary {
+    background: var(--accent-strong);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .btn-violet {
+    background: #6d28d9;
+    border-color: var(--violet);
+    color: #fff;
+  }
+  .btn-success {
+    background: #15803d;
+    border-color: var(--green);
+    color: #fff;
+  }
+  .btn-amber {
+    background: #b45309;
+    border-color: var(--amber);
+    color: #fff;
+  }
+  .card-box {
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 18px 22px;
+    margin-bottom: 20px;
+  }
+  .card-box h3 {
+    margin-top: 0;
+    font-size: 16px;
+    color: var(--accent);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 8px;
+  }
+  .pearl-list {
+    margin: 0;
+    padding-left: 20px;
+    line-height: 1.65;
+  }
+  .pearl-list li { margin-bottom: 8px; }
+  .tag-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .gene-chip {
+    background: rgba(56, 189, 248, 0.12);
+    border: 1px solid rgba(56, 189, 248, 0.35);
+    color: #bae6fd;
+    padding: 3px 9px;
+    border-radius: 99px;
+    font-size: 12px;
+    font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+    cursor: pointer;
+  }
+  .omim-chip {
+    background: rgba(167, 139, 250, 0.14);
+    border: 1px solid rgba(167, 139, 250, 0.4);
+    color: #ddd6fe;
+    padding: 3px 9px;
+    border-radius: 99px;
+    font-size: 12px;
+    font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+    cursor: pointer;
+  }
+  .inh-chip {
+    background: rgba(34, 197, 94, 0.14);
+    border: 1px solid rgba(34, 197, 94, 0.4);
+    color: #bbf7d0;
+    padding: 2px 8px;
+    border-radius: 99px;
+    font-size: 11.5px;
+    font-weight: 600;
+  }
+  .pheno-chip {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 6px 11px;
+    border-radius: 99px;
+    font-size: 12.5px;
+    cursor: pointer;
+    transition: 0.15s;
+    user-select: none;
+  }
+  .pheno-chip:hover { border-color: var(--accent); }
+  .pheno-chip.selected {
+    background: var(--accent-strong);
+    border-color: var(--accent);
+    color: #fff;
+    font-weight: 700;
+  }
+  .topic-chip {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 3px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+  }
+  .wiki-body {
+    line-height: 1.72;
+    font-size: 15px;
+    color: #e2e8f0;
+  }
+  .wiki-body h1, .wiki-body h2, .wiki-body h3, .wiki-body h4 {
+    color: #fff;
+    margin-top: 26px;
+    margin-bottom: 10px;
+  }
+  .wiki-body h2 {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 6px;
+    color: var(--accent);
+  }
+  .wiki-body table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 13px;
+    background: var(--bg);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .wiki-body th, .wiki-body td {
+    border: 1px solid var(--border);
+    padding: 8px 10px;
+    text-align: left;
+    vertical-align: top;
+  }
+  .wiki-body th {
+    background: var(--bg-card);
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .wiki-body img {
+    max-width: 100%;
+    max-height: 460px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    margin: 12px 0;
+    cursor: zoom-in;
+    display: block;
+    background: #fff;
+    padding: 4px;
+  }
+
+  /* Flashcard 3D UI */
+  .fc-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+  .fc-stage {
+    perspective: 1200px;
+    margin: 20px auto;
+    max-width: 780px;
+  }
+  .fc-card {
+    background: linear-gradient(145deg, #1e293b, #0f172a);
+    border: 2px solid var(--border);
+    border-radius: 16px;
+    min-height: 340px;
+    padding: 28px 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.35);
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .fc-card:hover { border-color: var(--accent); }
+  .fc-card.flipped {
+    background: linear-gradient(145deg, #0f2942, #0f172a);
+    border-color: var(--accent);
+  }
+  .fc-top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+  .fc-content {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 24px 0;
+  }
+  .fc-content img {
+    max-width: 100%;
+    max-height: 260px;
+    border-radius: 8px;
+    margin-top: 12px;
+    display: block;
+    background: #fff;
+    padding: 4px;
+  }
+  .fc-footer {
+    font-size: 12px;
+    color: var(--text-muted);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* MCQ UI */
+  .mcq-card {
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 20px 24px;
+    margin-bottom: 18px;
+  }
+  .mcq-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: var(--accent);
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  .mcq-stem {
+    font-size: 15.5px;
+    line-height: 1.6;
+    margin-bottom: 14px;
+    font-weight: 500;
+  }
+  .mcq-stem img {
+    max-width: 100%;
+    max-height: 280px;
+    border-radius: 8px;
+    margin: 10px 0;
+    display: block;
+    cursor: zoom-in;
+    background: #fff;
+    padding: 4px;
+  }
+  .mcq-options {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .mcq-opt {
+    padding: 11px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--bg-card);
+    color: var(--text);
+    cursor: pointer;
+    text-align: left;
+    font-size: 14px;
+    line-height: 1.45;
+    transition: 0.15s;
+  }
+  .mcq-opt:hover:not(.locked) {
+    border-color: var(--accent);
+    background: var(--bg-hover);
+  }
+  .mcq-opt.correct {
+    background: rgba(34, 197, 94, 0.2);
+    border-color: var(--green);
+    color: #bbf7d0;
+    font-weight: 600;
+  }
+  .mcq-opt.wrong {
+    background: rgba(239, 68, 68, 0.2);
+    border-color: var(--red);
+    color: #fecaca;
+  }
+  .mcq-expl {
+    margin-top: 14px;
+    padding: 12px 16px;
+    border-radius: 8px;
+    background: rgba(2, 132, 199, 0.12);
+    border-left: 4px solid var(--accent);
+    font-size: 13.5px;
+    line-height: 1.55;
+    display: none;
+  }
+  .mcq-expl.visible { display: block; }
+
+  /* Figure Grid */
+  .fig-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 16px;
+  }
+  .fig-card {
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .fig-card img {
+    width: 100%;
+    height: 220px;
+    object-fit: contain;
+    background: #fff;
+    padding: 4px;
+    cursor: zoom-in;
+  }
+  .fig-card .fig-body {
+    padding: 12px 14px;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .fig-card.blind .fig-caption-text {
+    filter: blur(6px);
+    user-select: none;
+    cursor: pointer;
+  }
+  .fig-card.blind .fig-caption-text:hover {
+    filter: blur(2px);
+  }
+
+  /* Lightbox */
+  #lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.88);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    padding: 24px;
+    flex-direction: column;
+  }
+  #lightbox img {
+    max-width: 92vw;
+    max-height: 82vh;
+    border-radius: 8px;
+    background: #fff;
+    padding: 6px;
+  }
+  #lightbox p {
+    color: #e2e8f0;
+    max-width: 820px;
+    text-align: center;
+    margin-top: 12px;
+    font-size: 14px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <span class="brand-badge">VIKKYPAEDIA V2</span>
+    <div>
+      <h1>Rare Disease Learner Course</h1>
+      <small id="global-stats">Nelson Pediatric Textbook of Rare Diseases (1st Ed) — Loading 61 chapters...</small>
+    </div>
+  </div>
+  <div class="search-wrap">
+    <input type="text" id="global-search" placeholder="Global search across 61 chapters, OMIM #, genes, syndromes (e.g., WDR45, PANK2, #176270, BWS)..." />
+    <button class="search-clear-btn" id="global-search-clear" title="Clear global search" onclick="clearGlobalSearch()">✕</button>
+  </div>
+  <div class="nav-tabs">
+    <button class="nav-tab active" data-mode="wiki" onclick="setMode('wiki')">📖 Course Reader</button>
+    <button class="nav-tab" data-mode="omim" onclick="setMode('omim')">🧬 OMIM & Gene Atlas</button>
+    <button class="nav-tab" data-mode="pheno" onclick="setMode('pheno')">🩺 Phenotype Matcher</button>
+    <button class="nav-tab" data-mode="therapies" onclick="setMode('therapies')">💊 Therapies Matrix</button>
+    <button class="nav-tab" data-mode="flashcards" onclick="setMode('flashcards')">🃏 Flashcards</button>
+    <button class="nav-tab" data-mode="mcqs" onclick="setMode('mcqs')">📝 MCQ Simulator</button>
+    <button class="nav-tab" data-mode="figures" onclick="setMode('figures')">🖼️ Visual Spotter</button>
+  </div>
+</header>
+
+<div class="layout">
+  <aside>
+    <div class="sidebar-filter">
+      <select id="part-select" onchange="onPartFilterChange()">
+        <option value="ALL">All 10 Sections (61 Chapters)</option>
+      </select>
+    </div>
+    <div class="sidebar-filter">
+      <input type="text" id="ch-filter" placeholder="Filter chapters, genes, syndromes..." oninput="renderSidebar()" />
+    </div>
+    <div class="chapter-list" id="chapter-list"></div>
+  </aside>
+
+  <main id="main-pane">
+    <div class="container" id="content-area"></div>
+  </main>
+</div>
+
+<div id="lightbox" onclick="this.style.display='none'">
+  <img id="lightbox-img" src="" alt="" />
+  <p id="lightbox-cap"></p>
+</div>
+
+<script>
+const STATE = {
+  mode: 'wiki',
+  currentCh: 1,
+  partFilter: 'ALL',
+  loadedChapters: {},
+  chTitleMap: {},
+  // Flashcard state
+  fcScope: 'chapter',
+  fcQuery: '',
+  fcDeck: [],
+  fcIndex: 0,
+  fcFlipped: false,
+  fcStatus: JSON.parse(localStorage.getItem('vikkypaedia_rare_fc_status') || '{}'),
+  // MCQ state
+  mcqScope: 'chapter',
+  mcqQuery: '',
+  mcqList: [],
+  mcqAnswers: {},
+  // OMIM filter
+  omimQuery: '',
+  omimSectionFilter: 'ALL',
+  // Phenotype Matcher state
+  selectedPhenos: [],
+  phenoFreeText: '',
+  // Therapies filter
+  therapyQuery: '',
+  therapyScope: 'ALL',
+  // Figure spotter
+  spotterBlind: false,
+  figScope: 'chapter',
+  figQuery: ''
+};
+
+window.__registerChapter = function(payload) {
+  STATE.loadedChapters[payload.num] = payload;
+};
+</script>
+<script src="data/index_data.js"></script>
+<script src="data/flashcards_data.js"></script>
+<script src="data/mcqs_data.js"></script>
+<script src="data/omim_atlas_data.js"></script>
+<script src="data/therapies_data.js"></script>
+<script src="data/chapters_bundle_1.js"></script>
+<script src="data/chapters_bundle_2.js"></script>
+<script>
+function ensureChapterLoaded(num) {
+  if (STATE.loadedChapters[num]) return Promise.resolve(STATE.loadedChapters[num]);
+  return new Promise((resolve) => {
+    const s = document.createElement('script');
+    const pad = String(num).padStart(3, '0');
+    s.src = `data/chapters/ch_${pad}.js`;
+    s.onload = () => resolve(STATE.loadedChapters[num]);
+    s.onerror = () => resolve(null);
+    document.body.appendChild(s);
+  });
+}
+
+function matchesMultiTokenQuery(blob, queryStr) {
+  if (!queryStr) return true;
+  const tokens = queryStr.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  if (!tokens.length) return true;
+  const low = (blob || '').toLowerCase();
+  return tokens.every(t => low.includes(t));
+}
+
+let globalSearchTimer = null;
+
+function initApp() {
+  const idx = window.RARE_INDEX;
+  const fcs = window.RARE_FLASHCARDS || [];
+  const mcqs = window.RARE_MCQS || [];
+  const omims = window.RARE_OMIM_ATLAS || [];
+  const thers = window.RARE_THERAPIES || [];
+
+  idx.chapters.forEach(c => { STATE.chTitleMap[c.num] = c.title; });
+
+  document.getElementById('global-stats').textContent =
+    `${idx.chapters.length} Chapters · 10 Sections · ${omims.length.toLocaleString()} OMIM/Gene Records · ${thers.length.toLocaleString()} Therapies · ${fcs.length.toLocaleString()} Flashcards · ${mcqs.length.toLocaleString()} MCQs`;
+
+  const pSel = document.getElementById('part-select');
+  idx.parts.forEach(p => {
+    const opt = document.createElement('option');
+    opt.value = p.num;
+    opt.textContent = `Section ${p.num}: ${p.title} (${p.chapters.length})`;
+    pSel.appendChild(opt);
+  });
+
+  renderSidebar();
+  selectChapter(1);
+
+  const gInput = document.getElementById('global-search');
+  const gClear = document.getElementById('global-search-clear');
+  gInput.addEventListener('input', (e) => {
+    const q = e.target.value;
+    gClear.style.display = q.length > 0 ? 'block' : 'none';
+    if (globalSearchTimer) clearTimeout(globalSearchTimer);
+    globalSearchTimer = setTimeout(() => {
+      const trimmed = q.trim();
+      if (trimmed.length >= 2) {
+        renderSearchResults(trimmed);
+      } else if (trimmed.length === 0) {
+        renderMain();
+      }
+    }, 90);
+  });
+
+  gInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      clearGlobalSearch();
+    }
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT' || e.target.tagName === 'TEXTAREA') return;
+    if (STATE.mode === 'flashcards') {
+      if (e.code === 'Space') { e.preventDefault(); toggleFlipCard(); }
+      else if (e.code === 'ArrowRight') { nextCard(1); }
+      else if (e.code === 'ArrowLeft') { nextCard(-1); }
+      else if (e.key === '1') { markCard('review'); }
+      else if (e.key === '2') { markCard('mastered'); }
+    }
+  });
+}
+
+function clearGlobalSearch() {
+  const gInput = document.getElementById('global-search');
+  const gClear = document.getElementById('global-search-clear');
+  gInput.value = '';
+  gClear.style.display = 'none';
+  renderMain();
+}
+
+function triggerGlobalSearchChip(val) {
+  const gInput = document.getElementById('global-search');
+  const gClear = document.getElementById('global-search-clear');
+  gInput.value = val;
+  gClear.style.display = 'block';
+  renderSearchResults(val);
+}
+
+function onPartFilterChange() {
+  STATE.partFilter = document.getElementById('part-select').value;
+  renderSidebar();
+  if (STATE.partFilter !== 'ALL') {
+    const partObj = window.RARE_INDEX.parts.find(p => p.num === STATE.partFilter);
+    if (partObj && partObj.chapters.length) {
+      selectChapter(partObj.chapters[0].num);
+    }
+  }
+}
+
+function renderSidebar() {
+  const listEl = document.getElementById('chapter-list');
+  const q = document.getElementById('ch-filter').value.trim();
+  listEl.innerHTML = '';
+
+  window.RARE_INDEX.parts.forEach(part => {
+    if (STATE.partFilter !== 'ALL' && part.num !== STATE.partFilter) return;
+    const chs = part.chapters.filter(c => {
+      if (!q) return true;
+      if (String(c.num) === q) return true;
+      const blob = [
+        c.title,
+        c.part_title,
+        c.summary || '',
+        (c.genes || []).join(' '),
+        (c.omims || []).join(' '),
+        (c.subtopics || []).join(' ')
+      ].join(' ');
+      return matchesMultiTokenQuery(blob, q);
+    });
+    if (!chs.length) return;
+
+    const grp = document.createElement('div');
+    grp.className = 'part-group';
+    const hdr = document.createElement('div');
+    hdr.className = 'part-header';
+    hdr.textContent = `Section ${part.num} · ${part.title}`;
+    grp.appendChild(hdr);
+
+    chs.forEach(c => {
+      const item = document.createElement('div');
+      item.className = 'ch-item' + (c.num === STATE.currentCh ? ' active' : '');
+      item.onclick = () => selectChapter(c.num);
+      item.innerHTML = `
+        <span><b>${c.num}.</b> ${escapeHtml(c.title)}</span>
+        <span class="ch-badges">
+          <span class="pill" title="Flashcards">🃏${c.fcs}</span>
+          <span class="pill" title="MCQs">📝${c.mcqs}</span>
+        </span>
+      `;
+      grp.appendChild(item);
+    });
+    listEl.appendChild(grp);
+  });
+}
+
+function selectChapter(num) {
+  STATE.currentCh = num;
+  if (STATE.omimSectionFilter.startsWith('CH_')) {
+    STATE.omimSectionFilter = 'CH_' + num;
+  }
+  renderSidebar();
+  ensureChapterLoaded(num);
+  if (STATE.mode === 'flashcards') buildFlashcardDeck();
+  if (STATE.mode === 'mcqs') buildMcqList();
+  renderMain();
+  document.getElementById('main-pane').scrollTop = 0;
+}
+
+function setMode(mode) {
+  STATE.mode = mode;
+  document.querySelectorAll('.nav-tab').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.mode === mode);
+  });
+  document.getElementById('global-search').value = '';
+  document.getElementById('global-search-clear').style.display = 'none';
+  if (mode === 'flashcards') buildFlashcardDeck();
+  if (mode === 'mcqs') buildMcqList();
+  renderMain();
+  document.getElementById('main-pane').scrollTop = 0;
+}
+
+function getChMeta(num) {
+  return window.RARE_INDEX.chapters.find(c => c.num === num) || window.RARE_INDEX.chapters[0];
+}
+
+function renderMain() {
+  const area = document.getElementById('content-area');
+  const meta = getChMeta(STATE.currentCh);
+  if (STATE.mode === 'wiki') renderWikiMode(area, meta);
+  else if (STATE.mode === 'omim') renderOmimMode(area, meta);
+  else if (STATE.mode === 'pheno') renderPhenoMode(area, meta);
+  else if (STATE.mode === 'therapies') renderTherapiesMode(area, meta);
+  else if (STATE.mode === 'flashcards') renderFlashcardsMode(area, meta);
+  else if (STATE.mode === 'mcqs') renderMcqsMode(area, meta);
+  else if (STATE.mode === 'figures') renderFiguresMode(area, meta);
+}
+
+/* ---------------- COURSE READER MODE ---------------- */
+function renderWikiMode(area, meta) {
+  const full = STATE.loadedChapters[meta.num];
+  let html = `
+    <div class="hero-banner">
+      <div class="part-tag">Section ${meta.part_num} · ${escapeHtml(meta.part_title)}</div>
+      <h2>Chapter ${meta.num}: ${escapeHtml(meta.title)}</h2>
+      <div class="meta-row">
+        <span>👤 ${escapeHtml(meta.authors || 'Nelson Rare Disease Contributors')}</span>
+        <span>📄 ${meta.words.toLocaleString()} words</span>
+        <span>📊 ${meta.tables} tables</span>
+        <span>🖼️ ${meta.figs} captioned figures</span>
+        <span>🧬 ${(meta.genes || []).length} genes</span>
+      </div>
+      <div class="quick-actions">
+        <button class="btn btn-primary" onclick="setMode('flashcards')">🃏 Study ${meta.fcs} Flashcards</button>
+        <button class="btn btn-success" onclick="setMode('mcqs')">📝 Take ${meta.mcqs}-Q Board Quiz</button>
+        <button class="btn btn-violet" onclick="STATE.omimSectionFilter='CH_'+${meta.num}; setMode('omim')">🧬 Chapter OMIM & Gene Atlas</button>
+        <button class="btn btn-amber" onclick="setMode('pheno')">🩺 Phenotype Differential Matcher</button>
+        <button class="btn" onclick="setMode('figures')">🖼️ View ${meta.figs} Figures</button>
+        ${meta.num > 1 ? `<button class="btn" onclick="selectChapter(${meta.num - 1})">← Ch ${meta.num - 1}</button>` : ''}
+        ${meta.num < 61 ? `<button class="btn" onclick="selectChapter(${meta.num + 1})">Ch ${meta.num + 1} →</button>` : ''}
+      </div>
+    </div>
+  `;
+
+  if (!full) {
+    html += `<div class="card-box">Loading Chapter ${meta.num} full text & figures...</div>`;
+    area.innerHTML = html;
+    return;
+  }
+
+  if ((full.genes && full.genes.length) || (full.omims && full.omims.length) || (full.subtopics && full.subtopics.length)) {
+    html += `<div class="card-box"><h3>Key Chapter Topics, Genes & OMIM Identifiers</h3><div class="tag-cloud">`;
+    (full.subtopics || []).forEach(s => { html += `<span class="topic-chip">${escapeHtml(s)}</span>`; });
+    (full.genes || []).forEach(g => {
+      html += `<span class="gene-chip" onclick="triggerGlobalSearchChip('${escapeAttr(g)}')">🧬 ${escapeHtml(g)}</span>`;
+    });
+    (full.omims || []).forEach(o => {
+      html += `<span class="omim-chip" onclick="triggerGlobalSearchChip('${escapeAttr(o)}')">OMIM ${escapeHtml(o)}</span>`;
+    });
+    html += `</div></div>`;
+  }
+
+  if (full.pearls && full.pearls.length) {
+    html += `<div class="card-box"><h3>⚡ High-Yield Clinical & Diagnostic Pearls (Chapter ${meta.num})</h3><ul class="pearl-list">`;
+    full.pearls.forEach(p => { html += `<li>${formatInlineMd(p)}</li>`; });
+    html += `</ul></div>`;
+  }
+
+  html += `<div class="card-box"><div class="wiki-body">${renderMarkdownToHtml(full.body_md)}</div></div>`;
+  area.innerHTML = html;
+}
+
+/* ---------------- OMIM & GENE ATLAS MODE (FOCUS-SAFE) ---------------- */
+function getFilteredOmimList() {
+  const all = window.RARE_OMIM_ATLAS || [];
+  const q = (STATE.omimQuery || '').trim();
+  const secF = STATE.omimSectionFilter || 'ALL';
+
+  return all.filter(item => {
+    if (secF.startsWith('CH_')) {
+      const targetCh = parseInt(secF.slice(3), 10);
+      if (item.ch !== targetCh) return false;
+    } else if (secF !== 'ALL' && item.part !== secF) {
+      return false;
+    }
+    if (!q) return true;
+    const chTitle = STATE.chTitleMap[item.ch] || '';
+    const blob = [
+      item.disorder || '',
+      item.genes || '',
+      item.inh || '',
+      item.omim || '',
+      item.features || '',
+      (item.tags || []).join(' '),
+      chTitle,
+      'ch ' + item.ch
+    ].join(' ');
+    return matchesMultiTokenQuery(blob, q);
+  });
+}
+
+function setOmimScope(scopeVal) {
+  STATE.omimSectionFilter = scopeVal;
+  const btnAll = document.getElementById('omim-btn-all');
+  const btnCh = document.getElementById('omim-btn-ch');
+  if (btnAll && btnCh) {
+    btnAll.className = 'btn ' + (scopeVal === 'ALL' ? 'btn-primary' : '');
+    btnCh.className = 'btn ' + (scopeVal.startsWith('CH_') ? 'btn-violet' : '');
+  }
+  renderOmimTableOnly();
+}
+
+function renderOmimMode(area, meta) {
+  const all = window.RARE_OMIM_ATLAS || [];
+  const filtered = getFilteredOmimList();
+  const secF = STATE.omimSectionFilter || 'ALL';
+
+  let html = `
+    <div class="hero-banner">
+      <div class="part-tag">Vikkypaedia Rare Disease Reference</div>
+      <h2>🧬 Master Rare Disease Gene & OMIM Atlas</h2>
+      <div class="meta-row">
+        <span id="omim-count-label">Showing <b>${filtered.length.toLocaleString()}</b> of ${all.length.toLocaleString()} header-aware syndrome, gene, inheritance & OMIM records across 61 chapters</span>
+      </div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:10px;">
+        <input type="text" id="omim-search-input" class="in-tab-input" value="${escapeHtml(STATE.omimQuery)}" placeholder="Type freely to filter by syndrome, gene symbol (e.g. WDR45, PANK2, COL1A1), inheritance (AD, AR, XLD, Imprinting), or OMIM #..." oninput="STATE.omimQuery=this.value; renderOmimTableOnly()" />
+        <button id="omim-btn-all" class="btn ${secF==='ALL'?'btn-primary':''}" onclick="setOmimScope('ALL')">All 61 Chapters (${all.length.toLocaleString()})</button>
+        <button id="omim-btn-ch" class="btn ${secF==='CH_'+meta.num?'btn-violet':''}" onclick="setOmimScope('CH_'+${meta.num})">Current Chapter ${meta.num} Only</button>
+        <button class="btn" onclick="STATE.omimQuery=''; document.getElementById('omim-search-input').value=''; setOmimScope('ALL')">Reset</button>
+      </div>
+    </div>
+    <div class="card-box" id="omim-table-container">
+      ${buildOmimTableHtml(filtered)}
+    </div>
+  `;
+  area.innerHTML = html;
+}
+
+function renderOmimTableOnly() {
+  const all = window.RARE_OMIM_ATLAS || [];
+  const filtered = getFilteredOmimList();
+  const countEl = document.getElementById('omim-count-label');
+  if (countEl) {
+    countEl.innerHTML = `Showing <b>${filtered.length.toLocaleString()}</b> of ${all.length.toLocaleString()} header-aware syndrome, gene, inheritance & OMIM records across 61 chapters`;
+  }
+  const container = document.getElementById('omim-table-container');
+  if (container) container.innerHTML = buildOmimTableHtml(filtered);
+}
+
+function buildOmimTableHtml(list) {
+  if (!list.length) {
+    return `<p style="color:var(--text-muted)">No matching OMIM/Gene records in this filter. Try switching to "All 61 Chapters" or broadening your search query.</p>`;
+  }
+  const shown = list.slice(0, 250);
+  let h = `<div class="wiki-body"><table><thead><tr><th>Ch</th><th>Disorder / Syndrome</th><th>Gene(s) / Locus</th><th>Inheritance</th><th>OMIM</th><th>Key Clinical & Molecular Features</th></tr></thead><tbody>`;
+  shown.forEach(r => {
+    h += `<tr>
+      <td><button class="btn btn-primary" style="padding:4px 8px; font-size:11.5px;" onclick="setMode('wiki'); selectChapter(${r.ch})">Ch ${r.ch}</button></td>
+      <td><b>${formatInlineMd(r.disorder)}</b></td>
+      <td><span class="gene-chip" onclick="triggerGlobalSearchChip('${escapeAttr((r.genes||'').split(',')[0].trim())}')">${escapeHtml(r.genes || '—')}</span></td>
+      <td><span class="inh-chip">${escapeHtml(r.inh || 'Genetic')}</span></td>
+      <td>${r.omim ? `<span class="omim-chip" onclick="triggerGlobalSearchChip('${escapeAttr((r.omim||'').split(',')[0].trim())}')">${escapeHtml(r.omim)}</span>` : '—'}</td>
+      <td>${formatInlineMd(r.features)}</td>
+    </tr>`;
+  });
+  h += `</tbody></table>`;
+  if (list.length > 250) {
+    h += `<p style="color:var(--text-muted); font-size:12.5px;">Showing top 250 of ${list.length.toLocaleString()} matches. Type additional keywords above to narrow results.</p>`;
+  }
+  h += `</div>`;
+  return h;
+}
+
+/* ---------------- BEDSIDE PHENOTYPE MATCHER ("PHENOMIZER LITE") MODE (FOCUS-SAFE) ---------------- */
+function computePhenoMatches() {
+  const all = window.RARE_OMIM_ATLAS || [];
+  const freeTerms = (STATE.phenoFreeText || '').trim().toLowerCase().split(/[\s,;]+/).filter(Boolean);
+  const scored = [];
+
+  if (!STATE.selectedPhenos.length && !freeTerms.length) {
+    return scored;
+  }
+
+  all.forEach(r => {
+    let score = 0;
+    const matchedTags = [];
+    const rowTags = r.tags || [];
+    STATE.selectedPhenos.forEach(t => {
+      if (rowTags.includes(t)) {
+        score += 10;
+        matchedTags.push(t);
+      }
+    });
+    if (freeTerms.length) {
+      const chTitle = STATE.chTitleMap[r.ch] || '';
+      const blob = [
+        r.disorder || '',
+        r.features || '',
+        r.genes || '',
+        r.inh || '',
+        r.omim || '',
+        rowTags.join(' '),
+        chTitle
+      ].join(' ').toLowerCase();
+
+      let allFreeMatched = true;
+      freeTerms.forEach(ft => {
+        if (blob.includes(ft)) {
+          score += 6;
+          matchedTags.push(`"${ft}"`);
+        } else {
+          allFreeMatched = false;
+        }
+      });
+      if (allFreeMatched && freeTerms.length > 1) {
+        score += 12;
+      }
+    }
+    if (score > 0) {
+      scored.push({ row: r, score, matchedTags });
+    }
+  });
+
+  scored.sort((a, b) => b.score - a.score || a.row.ch - b.row.ch);
+  return scored;
+}
+
+function buildPhenoResultsHtml(scored) {
+  const freeTerms = (STATE.phenoFreeText || '').trim().split(/\s+/).filter(Boolean);
+  if (!STATE.selectedPhenos.length && !freeTerms.length) {
+    return `<p style="color:var(--text-muted)">Select one or more clinical features above — or type any clinical/molecular findings into the search box — to generate a ranked differential diagnosis across all 61 chapters.</p>`;
+  }
+  if (!scored.length) {
+    return `<p style="color:var(--text-muted)">No exact matches for that combination. Try deselecting one feature or broadening your search term.</p>`;
+  }
+  let html = `<div class="wiki-body"><table><thead><tr><th>Match</th><th>Ch</th><th>Disorder / Syndrome</th><th>Gene(s)</th><th>Inheritance</th><th>OMIM</th><th>Clinical & Molecular Profile</th></tr></thead><tbody>`;
+  scored.slice(0, 120).forEach(item => {
+    const r = item.row;
+    html += `<tr>
+      <td><span class="pill" style="border-color:var(--accent); color:var(--accent); font-weight:700;" title="${escapeAttr(item.matchedTags.join(', '))}">${item.matchedTags.length} hit${item.matchedTags.length>1?'s':''}</span></td>
+      <td><button class="btn btn-primary" style="padding:4px 8px; font-size:11.5px;" onclick="setMode('wiki'); selectChapter(${r.ch})">Ch ${r.ch}</button></td>
+      <td><b>${formatInlineMd(r.disorder)}</b></td>
+      <td><span class="gene-chip" onclick="triggerGlobalSearchChip('${escapeAttr((r.genes||'').split(',')[0].trim())}')">${escapeHtml(r.genes || '—')}</span></td>
+      <td><span class="inh-chip">${escapeHtml(r.inh || 'Genetic')}</span></td>
+      <td>${r.omim ? `<span class="omim-chip">${escapeHtml(r.omim)}</span>` : '—'}</td>
+      <td>${formatInlineMd(r.features)}</td>
+    </tr>`;
+  });
+  html += `</tbody></table></div>`;
+  return html;
+}
+
+function renderPhenoResultsOnly() {
+  const scored = computePhenoMatches();
+  const resEl = document.getElementById('pheno-results-container');
+  const cntEl = document.getElementById('pheno-match-count');
+  const selEl = document.getElementById('pheno-selected-count');
+  const rstBtn = document.getElementById('pheno-reset-btn');
+  if (resEl) resEl.innerHTML = buildPhenoResultsHtml(scored);
+  if (cntEl) cntEl.textContent = scored.length.toLocaleString();
+  if (selEl) selEl.textContent = STATE.selectedPhenos.length;
+  if (rstBtn) rstBtn.textContent = `Reset All (${STATE.selectedPhenos.length} tags)`;
+}
+
+function togglePhenoTag(tag) {
+  const idx = STATE.selectedPhenos.indexOf(tag);
+  if (idx >= 0) STATE.selectedPhenos.splice(idx, 1);
+  else STATE.selectedPhenos.push(tag);
+  document.querySelectorAll('.pheno-chip').forEach(chEl => {
+    const tName = chEl.getAttribute('data-pheno');
+    const isSel = STATE.selectedPhenos.includes(tName);
+    chEl.classList.toggle('selected', isSel);
+    chEl.textContent = (isSel ? '✓ ' : '+ ') + tName;
+  });
+  renderPhenoResultsOnly();
+}
+
+function clearPhenoTags() {
+  STATE.selectedPhenos = [];
+  STATE.phenoFreeText = '';
+  const inp = document.getElementById('pheno-free-input');
+  if (inp) inp.value = '';
+  document.querySelectorAll('.pheno-chip').forEach(chEl => {
+    const tName = chEl.getAttribute('data-pheno');
+    chEl.classList.remove('selected');
+    chEl.textContent = '+ ' + tName;
+  });
+  renderPhenoResultsOnly();
+}
+
+function renderPhenoMode(area, meta) {
+  const phenoCategories = (window.RARE_INDEX && window.RARE_INDEX.phenotypes) || [];
+  const scored = computePhenoMatches();
+
+  let html = `
+    <div class="hero-banner">
+      <div class="part-tag">Bedside Clinical Decision Support</div>
+      <h2>🩺 Rare Disease Phenotype-to-Syndrome Differential Matcher ("Phenomizer Lite")</h2>
+      <div class="meta-row">
+        <span>Click 1 or more bedside phenotypic features below — or type any combination of clinical signs, imaging patterns, or genes (e.g., <code>eye-of-the-tiger</code>, <code>molar tooth</code>, <code>cherry-red spot</code>, <code>macroglossia</code>) — to rank matching syndromes across all 61 chapters.</span>
+      </div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:10px;">
+        <input type="text" id="pheno-free-input" class="in-tab-input" value="${escapeHtml(STATE.phenoFreeText)}" placeholder="Type freely to search signs, imaging patterns, syndromes, or genes (e.g., macroglossia hypoglycemia omphalocele, eye-of-the-tiger, molar tooth)..." oninput="STATE.phenoFreeText=this.value; renderPhenoResultsOnly()" />
+        <button id="pheno-reset-btn" class="btn btn-amber" onclick="clearPhenoTags()">Reset All (${STATE.selectedPhenos.length} tags)</button>
+      </div>
+    </div>
+
+    <div class="card-box">
+      <h3>Select Bedside Phenotypic Features (<span id="pheno-selected-count">${STATE.selectedPhenos.length}</span> selected)</h3>
+      <div class="tag-cloud" id="pheno-chips-container">
+        ${phenoCategories.map(p => `
+          <span class="pheno-chip ${STATE.selectedPhenos.includes(p) ? 'selected' : ''}" data-pheno="${escapeAttr(p)}" onclick="togglePhenoTag('${escapeAttr(p)}')">
+            ${STATE.selectedPhenos.includes(p) ? '✓ ' : '+ '}${escapeHtml(p)}
+          </span>
+        `).join('')}
+      </div>
+    </div>
+
+    <div class="card-box">
+      <h3>Ranked Syndrome Differential Diagnosis (<span id="pheno-match-count">${scored.length.toLocaleString()}</span> matches)</h3>
+      <div id="pheno-results-container">
+        ${buildPhenoResultsHtml(scored)}
+      </div>
+    </div>
+  `;
+  area.innerHTML = html;
+}
+
+/* ---------------- PRECISION THERAPIES MATRIX MODE (FOCUS-SAFE) ---------------- */
+function getFilteredTherapiesList() {
+  const all = window.RARE_THERAPIES || [];
+  const q = (STATE.therapyQuery || '').trim();
+  const sc = STATE.therapyScope || 'ALL';
+
+  return all.filter(t => {
+    if (sc === 'CH' && t.ch !== STATE.currentCh) return false;
+    if (!q) return true;
+    const chTitle = STATE.chTitleMap[t.ch] || '';
+    const blob = [
+      t.disorder || '',
+      t.genes || '',
+      t.therapy || '',
+      t.context || '',
+      chTitle,
+      'ch ' + t.ch
+    ].join(' ');
+    return matchesMultiTokenQuery(blob, q);
+  });
+}
+
+function buildTherapiesTableHtml(filtered) {
+  if (!filtered.length) {
+    return `<p style="color:var(--text-muted)">No matching therapeutic entries in this filter. Try switching to "All 61 Chapters" or broadening your search term.</p>`;
+  }
+  const shown = filtered.slice(0, 250);
+  let h = `
+    <div class="wiki-body">
+      <table>
+        <thead><tr><th>Ch</th><th>Disorder / Clinical Context</th><th>Target Gene(s)</th><th>Therapy / Intervention</th><th>Clinical & Molecular Details</th></tr></thead>
+        <tbody>
+          ${shown.map(t => `
+            <tr>
+              <td><button class="btn btn-primary" style="padding:4px 8px; font-size:11.5px;" onclick="setMode('wiki'); selectChapter(${t.ch})">Ch ${t.ch}</button></td>
+              <td><b>${formatInlineMd(t.disorder)}</b></td>
+              <td><span class="gene-chip" onclick="triggerGlobalSearchChip('${escapeAttr((t.genes||'').split(',')[0].trim())}')">${escapeHtml(t.genes || '—')}</span></td>
+              <td><span class="inh-chip">${formatInlineMd(t.therapy)}</span></td>
+              <td>${formatInlineMd(t.context)}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+  `;
+  if (filtered.length > 250) {
+    h += `<p style="color:var(--text-muted); font-size:12.5px;">Showing top 250 of ${filtered.length.toLocaleString()} matches. Type additional keywords above to narrow results.</p>`;
+  }
+  h += `</div>`;
+  return h;
+}
+
+function setTherapyScope(sc) {
+  STATE.therapyScope = sc;
+  const bAll = document.getElementById('ther-btn-all');
+  const bCh = document.getElementById('ther-btn-ch');
+  if (bAll && bCh) {
+    bAll.className = 'btn ' + (sc === 'ALL' ? 'btn-primary' : '');
+    bCh.className = 'btn ' + (sc === 'CH' ? 'btn-violet' : '');
+  }
+  renderTherapiesTableOnly();
+}
+
+function renderTherapiesTableOnly() {
+  const all = window.RARE_THERAPIES || [];
+  const filtered = getFilteredTherapiesList();
+  const cntEl = document.getElementById('therapies-count-label');
+  if (cntEl) {
+    cntEl.innerHTML = `Showing <b>${filtered.length.toLocaleString()}</b> of ${all.length.toLocaleString()} curated therapeutic & management entries across all 61 chapters`;
+  }
+  const tblEl = document.getElementById('therapies-table-container');
+  if (tblEl) {
+    tblEl.innerHTML = buildTherapiesTableHtml(filtered);
+  }
+}
+
+function renderTherapiesMode(area, meta) {
+  const all = window.RARE_THERAPIES || [];
+  const filtered = getFilteredTherapiesList();
+  const sc = STATE.therapyScope || 'ALL';
+
+  let html = `
+    <div class="hero-banner">
+      <div class="part-tag">Orphan Drugs, ERTs, Gene Therapies & Clinical Management</div>
+      <h2>💊 Master Precision Therapies & Management Matrix</h2>
+      <div class="meta-row">
+        <span id="therapies-count-label">Showing <b>${filtered.length.toLocaleString()}</b> of ${all.length.toLocaleString()} curated therapeutic & management entries across all 61 chapters</span>
+      </div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:10px;">
+        <input type="text" id="therapy-search-input" class="in-tab-input" value="${escapeHtml(STATE.therapyQuery)}" placeholder="Type freely to search by drug/therapy (e.g., enzyme replacement, gene therapy, diazoxide, growth hormone, sirolimus, eculizumab) or syndrome..." oninput="STATE.therapyQuery=this.value; renderTherapiesTableOnly()" />
+        <button id="ther-btn-all" class="btn ${sc==='ALL'?'btn-primary':''}" onclick="setTherapyScope('ALL')">All 61 Chapters (${all.length.toLocaleString()})</button>
+        <button id="ther-btn-ch" class="btn ${sc==='CH'?'btn-violet':''}" onclick="setTherapyScope('CH')">Current Chapter ${meta.num} Only</button>
+        <button class="btn" onclick="STATE.therapyQuery=''; document.getElementById('therapy-search-input').value=''; setTherapyScope('ALL')">Reset</button>
+      </div>
+    </div>
+    <div class="card-box" id="therapies-table-container">
+      ${buildTherapiesTableHtml(filtered)}
+    </div>
+  `;
+  area.innerHTML = html;
+}
+
+/* ---------------- FLASHCARDS MODE (WITH FOCUS-SAFE IN-TAB SEARCH) ---------------- */
+function buildFlashcardDeck() {
+  const all = window.RARE_FLASHCARDS || [];
+  const meta = getChMeta(STATE.currentCh);
+  let pool = [];
+  if (STATE.fcScope === 'chapter') {
+    pool = all.filter(c => c.ch === meta.num);
+  } else if (STATE.fcScope === 'part') {
+    pool = all.filter(c => c.part === meta.part_num);
+  } else if (STATE.fcScope === 'review') {
+    pool = all.filter(c => STATE.fcStatus[c.id] === 'review');
+  } else {
+    pool = all.slice();
+  }
+  const q = (STATE.fcQuery || '').trim();
+  if (q) {
+    pool = pool.filter(c => matchesMultiTokenQuery(`${c.q} ${c.a} ${c.cat} ch ${c.ch}`, q));
+  }
+  STATE.fcDeck = pool;
+  STATE.fcIndex = 0;
+  STATE.fcFlipped = false;
+}
+
+function setFcScope(scope) {
+  STATE.fcScope = scope;
+  buildFlashcardDeck();
+  renderMain();
+}
+
+function onFcSearchInput(val) {
+  STATE.fcQuery = val;
+  buildFlashcardDeck();
+  renderFlashcardStageOnly();
+}
+
+function toggleFlipCard() {
+  STATE.fcFlipped = !STATE.fcFlipped;
+  renderFlashcardStageOnly();
+}
+
+function nextCard(delta) {
+  if (!STATE.fcDeck.length) return;
+  STATE.fcIndex = (STATE.fcIndex + delta + STATE.fcDeck.length) % STATE.fcDeck.length;
+  STATE.fcFlipped = false;
+  renderFlashcardStageOnly();
+}
+
+function shuffleDeck() {
+  for (let i = STATE.fcDeck.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [STATE.fcDeck[i], STATE.fcDeck[j]] = [STATE.fcDeck[j], STATE.fcDeck[i]];
+  }
+  STATE.fcIndex = 0;
+  STATE.fcFlipped = false;
+  renderFlashcardStageOnly();
+}
+
+function markCard(status) {
+  const card = STATE.fcDeck[STATE.fcIndex];
+  if (!card) return;
+  STATE.fcStatus[card.id] = status;
+  localStorage.setItem('vikkypaedia_rare_fc_status', JSON.stringify(STATE.fcStatus));
+  const masteredCount = Object.values(STATE.fcStatus).filter(v => v === 'mastered').length;
+  const reviewCount = Object.values(STATE.fcStatus).filter(v => v === 'review').length;
+  const mBadge = document.getElementById('fc-mastered-pill');
+  const rBtn = document.getElementById('fc-review-btn');
+  if (mBadge) mBadge.textContent = `✅ Mastered: ${masteredCount}`;
+  if (rBtn) rBtn.textContent = `Needs Review (${reviewCount})`;
+  nextCard(1);
+}
+
+function buildFlashcardStageHtml() {
+  if (!STATE.fcDeck.length) {
+    return `<div class="card-box">No flashcards match this filter. Try clearing the search box or switching to "All 61 Chapters".</div>`;
+  }
+  const card = STATE.fcDeck[STATE.fcIndex];
+  const st = STATE.fcStatus[card.id];
+  return `
+    <div class="fc-stage">
+      <div class="fc-card ${STATE.fcFlipped ? 'flipped' : ''}" onclick="toggleFlipCard()">
+        <div class="fc-top-bar">
+          <span>${escapeHtml(card.cat)} · Card ${STATE.fcIndex + 1} of ${STATE.fcDeck.length.toLocaleString()}</span>
+          <span>${st === 'mastered' ? '✅ Mastered' : st === 'review' ? '🟠 Needs Review' : 'Click or press Space to flip'}</span>
+        </div>
+        <div class="fc-content">
+          <div style="font-size:12px; color:var(--accent); font-weight:700; margin-bottom:8px;">
+            ${STATE.fcFlipped ? 'CLINICAL & MOLECULAR ANSWER' : 'ACTIVE-RECALL PROMPT'}
+          </div>
+          ${formatInlineMd(STATE.fcFlipped ? card.a : card.q)}
+          ${card.img ? `<img src="figures/${card.img}" onclick="event.stopPropagation(); openLightbox(this.src, '${escapeAttr(card.a)}')" />` : ''}
+        </div>
+        <div class="fc-footer">
+          <span>Ch ${card.ch} (${escapeHtml(STATE.chTitleMap[card.ch] || '')}) · Section ${card.part}</span>
+          <span>Shortcuts: [Space] Flip · [←/→] Prev/Next · [1] Review Again · [2] Mastered</span>
+        </div>
+      </div>
+    </div>
+    <div style="display:flex; justify-content:space-between; align-items:center; gap:10px;">
+      <button class="btn" onclick="nextCard(-1)">← Previous Card</button>
+      <div style="display:flex; gap:10px;">
+        <button class="btn btn-amber" onclick="markCard('review')">1 · Needs Review</button>
+        <button class="btn btn-primary" onclick="toggleFlipCard()">Flip Card (Space)</button>
+        <button class="btn btn-success" onclick="markCard('mastered')">2 · Got It / Mastered</button>
+      </div>
+      <button class="btn" onclick="nextCard(1)">Next Card →</button>
+    </div>
+  `;
+}
+
+function renderFlashcardStageOnly() {
+  const stg = document.getElementById('fc-stage-container');
+  if (stg) stg.innerHTML = buildFlashcardStageHtml();
+}
+
+function renderFlashcardsMode(area, meta) {
+  const masteredCount = Object.values(STATE.fcStatus).filter(v => v === 'mastered').length;
+  const reviewCount = Object.values(STATE.fcStatus).filter(v => v === 'review').length;
+  const totalFc = (window.RARE_FLASHCARDS || []).length;
+
+  let html = `
+    <div class="fc-controls">
+      <div style="display:flex; gap:6px; flex-wrap:wrap;">
+        <button class="btn ${STATE.fcScope==='chapter'?'btn-primary':''}" onclick="setFcScope('chapter')">Current Chapter (Ch ${meta.num})</button>
+        <button class="btn ${STATE.fcScope==='part'?'btn-primary':''}" onclick="setFcScope('part')">Section ${meta.part_num}</button>
+        <button class="btn ${STATE.fcScope==='all'?'btn-primary':''}" onclick="setFcScope('all')">All 61 Chapters (${totalFc.toLocaleString()})</button>
+        <button id="fc-review-btn" class="btn ${STATE.fcScope==='review'?'btn-amber':''}" onclick="setFcScope('review')">Needs Review (${reviewCount})</button>
+      </div>
+      <div style="display:flex; gap:8px; align-items:center;">
+        <span id="fc-mastered-pill" class="pill">✅ Mastered: ${masteredCount}</span>
+        <button class="btn" onclick="shuffleDeck()">🔀 Shuffle Deck</button>
+      </div>
+    </div>
+    <div style="display:flex; gap:10px; margin-bottom:14px;">
+      <input type="text" id="fc-search-input" class="in-tab-input" value="${escapeHtml(STATE.fcQuery)}" placeholder="Filter current flashcard deck by keyword, syndrome, gene, or OMIM #..." oninput="onFcSearchInput(this.value)" />
+      <button class="btn" onclick="STATE.fcQuery=''; document.getElementById('fc-search-input').value=''; onFcSearchInput('')">Clear Filter</button>
+    </div>
+    <div id="fc-stage-container">
+      ${buildFlashcardStageHtml()}
+    </div>
+  `;
+  area.innerHTML = html;
+}
+
+/* ---------------- MCQ QUIZ MODE (WITH FOCUS-SAFE IN-TAB SEARCH) ---------------- */
+function buildMcqList() {
+  const all = window.RARE_MCQS || [];
+  const meta = getChMeta(STATE.currentCh);
+  let pool = [];
+  if (STATE.mcqScope === 'chapter') {
+    pool = all.filter(q => q.ch === meta.num);
+  } else if (STATE.mcqScope === 'part') {
+    pool = all.filter(q => q.part === meta.part_num);
+  } else if (STATE.mcqScope === 'all') {
+    pool = all.slice();
+  } else if (STATE.mcqScope === 'exam25') {
+    const copy = all.slice();
+    for (let i = copy.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [copy[i], copy[j]] = [copy[j], copy[i]];
+    }
+    pool = copy.slice(0, 25);
+  }
+  const qStr = (STATE.mcqQuery || '').trim();
+  if (qStr) {
+    pool = pool.filter(q => matchesMultiTokenQuery(`${q.q} ${q.options.join(' ')} ${q.explanation} ${q.sec} ch ${q.ch}`, qStr));
+  }
+  STATE.mcqList = pool;
+}
+
+function setMcqScope(scope) {
+  STATE.mcqScope = scope;
+  buildMcqList();
+  renderMain();
+}
+
+function onMcqSearchInput(val) {
+  STATE.mcqQuery = val;
+  buildMcqList();
+  renderMcqListOnly();
+}
+
+function answerMcq(qId, chosenIdx) {
+  if (STATE.mcqAnswers[qId] !== undefined) return;
+  STATE.mcqAnswers[qId] = chosenIdx;
+  renderMcqListOnly();
+}
+
+function resetMcqQuiz() {
+  STATE.mcqList.forEach(q => { delete STATE.mcqAnswers[q.id]; });
+  renderMcqListOnly();
+}
+
+function buildMcqListHtml() {
+  if (!STATE.mcqList.length) {
+    return `<div class="card-box">No MCQs match this filter. Try switching to "All 850 MCQs" or clearing the search filter above.</div>`;
+  }
+  const shown = STATE.mcqList.slice(0, 100);
+  let html = '';
+  shown.forEach((q, idx) => {
+    const userAns = STATE.mcqAnswers[q.id];
+    const locked = userAns !== undefined;
+    html += `
+      <div class="mcq-card">
+        <div class="mcq-header">
+          <span>Question ${idx + 1} · Ch ${q.ch} (${escapeHtml(q.sec)})</span>
+          <span>${locked ? (userAns === q.answer ? '✅ Correct' : '❌ Incorrect') : 'Unanswered'}</span>
+        </div>
+        <div class="mcq-stem">
+          ${formatInlineMd(q.q)}
+          ${q.img ? `<img src="figures/${q.img}" onclick="openLightbox(this.src, '${escapeAttr(q.explanation)}')" />` : ''}
+        </div>
+        <div class="mcq-options">
+    `;
+    q.options.forEach((opt, oi) => {
+      let cls = 'mcq-opt';
+      if (locked) {
+        cls += ' locked';
+        if (oi === q.answer) cls += ' correct';
+        else if (oi === userAns) cls += ' wrong';
+      }
+      const letter = 'ABCD'[oi];
+      html += `<button class="${cls}" onclick="answerMcq('${q.id}', ${oi})"><b>${letter}.</b> ${escapeHtml(opt)}</button>`;
+    });
+    html += `
+        </div>
+        <div class="mcq-expl ${locked ? 'visible' : ''}">
+          ${formatInlineMd(q.explanation)}
+        </div>
+      </div>
+    `;
+  });
+  if (STATE.mcqList.length > 100) {
+    html += `<div class="card-box" style="color:var(--text-muted); font-size:13px;">Showing first 100 of ${STATE.mcqList.length.toLocaleString()} matching questions. Use the search box above to narrow to specific syndromes, genes, or chapters.</div>`;
+  }
+  return html;
+}
+
+function renderMcqListOnly() {
+  let answered = 0, correct = 0;
+  STATE.mcqList.forEach(q => {
+    if (STATE.mcqAnswers[q.id] !== undefined) {
+      answered++;
+      if (STATE.mcqAnswers[q.id] === q.answer) correct++;
+    }
+  });
+  const pct = answered ? Math.round((correct / answered) * 100) : 0;
+  const scEl = document.getElementById('mcq-score-pill');
+  if (scEl) {
+    scEl.innerHTML = `Score: <b>${correct} / ${answered}</b> (${pct}%) · Total in Block: ${STATE.mcqList.length.toLocaleString()}`;
+  }
+  const lstEl = document.getElementById('mcq-list-container');
+  if (lstEl) {
+    lstEl.innerHTML = buildMcqListHtml();
+  }
+}
+
+function renderMcqsMode(area, meta) {
+  let answered = 0, correct = 0;
+  STATE.mcqList.forEach(q => {
+    if (STATE.mcqAnswers[q.id] !== undefined) {
+      answered++;
+      if (STATE.mcqAnswers[q.id] === q.answer) correct++;
+    }
+  });
+  const pct = answered ? Math.round((correct / answered) * 100) : 0;
+  const totalMcqs = (window.RARE_MCQS || []).length;
+
+  let html = `
+    <div class="fc-controls">
+      <div style="display:flex; gap:6px; flex-wrap:wrap;">
+        <button class="btn ${STATE.mcqScope==='chapter'?'btn-primary':''}" onclick="setMcqScope('chapter')">Chapter ${meta.num} Quiz (${meta.mcqs})</button>
+        <button class="btn ${STATE.mcqScope==='part'?'btn-primary':''}" onclick="setMcqScope('part')">Section ${meta.part_num} Block</button>
+        <button class="btn ${STATE.mcqScope==='exam25'?'btn-primary':''}" onclick="setMcqScope('exam25')">🎲 Random 25-Q Board Block</button>
+        <button class="btn ${STATE.mcqScope==='all'?'btn-primary':''}" onclick="setMcqScope('all')">All ${totalMcqs.toLocaleString()} MCQs</button>
+      </div>
+      <div style="display:flex; gap:10px; align-items:center;">
+        <span id="mcq-score-pill" class="pill" style="font-size:13px; padding:5px 12px; color:#fff;">
+          Score: <b>${correct} / ${answered}</b> (${pct}%) · Total in Block: ${STATE.mcqList.length.toLocaleString()}
+        </span>
+        <button class="btn" onclick="resetMcqQuiz()">Reset Answers</button>
+      </div>
+    </div>
+    <div style="display:flex; gap:10px; margin-bottom:16px;">
+      <input type="text" id="mcq-search-input" class="in-tab-input" value="${escapeHtml(STATE.mcqQuery)}" placeholder="Filter questions in current block by syndrome, gene, clinical sign, or therapy..." oninput="onMcqSearchInput(this.value)" />
+      <button class="btn" onclick="STATE.mcqQuery=''; document.getElementById('mcq-search-input').value=''; onMcqSearchInput('')">Clear Filter</button>
+    </div>
+    <div id="mcq-list-container">
+      ${buildMcqListHtml()}
+    </div>
+  `;
+  area.innerHTML = html;
+}
+
+/* ---------------- FIGURE SPOTTER MODE (WITH SCOPE & FOCUS-SAFE SEARCH) ---------------- */
+function getFilteredFiguresList(meta) {
+  const sc = STATE.figScope || 'chapter';
+  const q = (STATE.figQuery || '').trim();
+  const figs = [];
+
+  if (sc === 'chapter') {
+    const full = STATE.loadedChapters[meta.num];
+    if (full && full.figs) {
+      full.figs.forEach(fg => figs.push({ ...fg, ch: meta.num, chTitle: meta.title }));
+    }
+  } else {
+    window.RARE_INDEX.chapters.forEach(c => {
+      if (sc === 'part' && c.part_num !== meta.part_num) return;
+      const full = STATE.loadedChapters[c.num];
+      if (full && full.figs) {
+        full.figs.forEach(fg => figs.push({ ...fg, ch: c.num, chTitle: c.title }));
+      }
+    });
+  }
+
+  if (!q) return figs;
+  return figs.filter(fg => matchesMultiTokenQuery(`${fg.label} ${fg.caption} ${fg.chTitle} ch ${fg.ch}`, q));
+}
+
+function buildFiguresGridHtml(list) {
+  if (!list.length) {
+    return `<div class="card-box">No figures match this filter. Try switching to "All 61 Chapters" or clearing the search box.</div>`;
+  }
+  const shown = list.slice(0, 120);
+  let html = `<div class="fig-grid">`;
+  shown.forEach(fg => {
+    const imgSrc = `figures/${fg.img}`;
+    html += `
+      <div class="fig-card ${STATE.spotterBlind ? 'blind' : ''}">
+        <img src="${imgSrc}" onclick="openLightbox(this.src, '${escapeAttr(fg.label + ': ' + fg.caption)}')" loading="lazy" />
+        <div class="fig-body">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <span style="color:var(--accent); font-weight:700;">${escapeHtml(fg.label)}</span>
+            <button class="btn" style="padding:2px 7px; font-size:11px;" onclick="setMode('wiki'); selectChapter(${fg.ch})">Ch ${fg.ch}</button>
+          </div>
+          <div class="fig-caption-text" onclick="this.style.filter='none'" title="Click to reveal caption">
+            ${escapeHtml(fg.caption)}
+          </div>
+        </div>
+      </div>
+    `;
+  });
+  html += `</div>`;
+  if (list.length > 120) {
+    html += `<p style="color:var(--text-muted); font-size:12.5px; margin-top:12px;">Showing first 120 of ${list.length.toLocaleString()} matching figures. Type keywords above to narrow results.</p>`;
+  }
+  return html;
+}
+
+function renderFiguresGridOnly() {
+  const meta = getChMeta(STATE.currentCh);
+  const list = getFilteredFiguresList(meta);
+  const cntEl = document.getElementById('fig-count-pill');
+  if (cntEl) cntEl.textContent = `${list.length.toLocaleString()} figure${list.length===1?'':'s'}`;
+  const gridEl = document.getElementById('fig-grid-container');
+  if (gridEl) gridEl.innerHTML = buildFiguresGridHtml(list);
+}
+
+function setFigScope(sc) {
+  STATE.figScope = sc;
+  renderMain();
+}
+
+function toggleSpotterBlind() {
+  STATE.spotterBlind = !STATE.spotterBlind;
+  renderMain();
+}
+
+function renderFiguresMode(area, meta) {
+  const list = getFilteredFiguresList(meta);
+  let html = `
+    <div class="fc-controls">
+      <div style="display:flex; gap:6px; flex-wrap:wrap; align-items:center;">
+        <button class="btn ${STATE.figScope==='chapter'?'btn-primary':''}" onclick="setFigScope('chapter')">Current Chapter (Ch ${meta.num})</button>
+        <button class="btn ${STATE.figScope==='part'?'btn-primary':''}" onclick="setFigScope('part')">Section ${meta.part_num} Figures</button>
+        <button class="btn ${STATE.figScope==='all'?'btn-primary':''}" onclick="setFigScope('all')">All 61 Chapters (591 Figures)</button>
+        <span id="fig-count-pill" class="pill">${list.length.toLocaleString()} figure${list.length===1?'':'s'}</span>
+      </div>
+      <div>
+        <button class="btn ${STATE.spotterBlind ? 'btn-amber' : 'btn-primary'}" onclick="toggleSpotterBlind()">
+          ${STATE.spotterBlind ? '👁️ Reveal All Captions' : '🙈 Spotter Self-Test Mode (Blur Captions)'}
+        </button>
+      </div>
+    </div>
+    <div style="display:flex; gap:10px; margin-bottom:16px;">
+      <input type="text" id="fig-search-input" class="in-tab-input" value="${escapeHtml(STATE.figQuery)}" placeholder="Search figure captions by dysmorphic sign, MRI pattern, syndrome, or pathway..." oninput="STATE.figQuery=this.value; renderFiguresGridOnly()" />
+      <button class="btn" onclick="STATE.figQuery=''; document.getElementById('fig-search-input').value=''; renderFiguresGridOnly()">Clear</button>
+    </div>
+    <div id="fig-grid-container">
+      ${buildFiguresGridHtml(list)}
+    </div>
+  `;
+  area.innerHTML = html;
+}
+
+/* ---------------- GLOBAL SEARCH ---------------- */
+function renderSearchResults(q) {
+  const area = document.getElementById('content-area');
+  const chHits = window.RARE_INDEX.chapters.filter(c => {
+    const metaBlob = [
+      c.title,
+      c.summary || '',
+      c.part_title || '',
+      (c.genes || []).join(' '),
+      (c.omims || []).join(' '),
+      (c.subtopics || []).join(' '),
+      'ch ' + c.num
+    ].join(' ');
+    if (matchesMultiTokenQuery(metaBlob, q)) return true;
+    const full = STATE.loadedChapters[c.num];
+    return full && full.body_md && matchesMultiTokenQuery(full.body_md, q);
+  }).slice(0, 20);
+
+  const omimHits = (window.RARE_OMIM_ATLAS || []).filter(r =>
+    matchesMultiTokenQuery(`${r.disorder || ''} ${r.genes || ''} ${r.omim || ''} ${r.features || ''} ${(r.tags || []).join(' ')}`, q)
+  ).slice(0, 15);
+
+  const therHits = (window.RARE_THERAPIES || []).filter(t =>
+    matchesMultiTokenQuery(`${t.disorder || ''} ${t.genes || ''} ${t.therapy || ''} ${t.context || ''}`, q)
+  ).slice(0, 12);
+
+  const fcHits = (window.RARE_FLASHCARDS || []).filter(f =>
+    matchesMultiTokenQuery(`${f.q} ${f.a} ${f.cat}`, q)
+  ).slice(0, 15);
+
+  const mcqHits = (window.RARE_MCQS || []).filter(m =>
+    matchesMultiTokenQuery(`${m.q} ${m.options.join(' ')} ${m.explanation}`, q)
+  ).slice(0, 15);
+
+  let html = `
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:14px;">
+      <h2 style="margin:0;">🔍 Global Search Results for "${escapeHtml(q)}"</h2>
+      <button class="btn btn-amber" onclick="clearGlobalSearch()">✕ Close Search & Return to Tab</button>
+    </div>
+  `;
+
+  html += `<div class="card-box"><h3>Matching Chapters (${chHits.length})</h3>`;
+  if (!chHits.length) html += `<p style="color:var(--text-muted)">No matching chapters.</p>`;
+  chHits.forEach(c => {
+    html += `
+      <div style="padding:8px 0; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:center; gap:12px;">
+        <div>
+          <b>Ch ${c.num}: ${escapeHtml(c.title)}</b> <span class="pill">Section ${c.part_num}</span>
+          <div style="font-size:12.5px; color:var(--text-muted); margin-top:3px;">${escapeHtml(c.summary)}</div>
+        </div>
+        <button class="btn btn-primary" style="flex-shrink:0;" onclick="setMode('wiki'); selectChapter(${c.num})">📖 Open Chapter</button>
+      </div>
+    `;
+  });
+  html += `</div>`;
+
+  if (omimHits.length) {
+    html += `<div class="card-box"><h3>Matching OMIM & Gene Atlas Records (${omimHits.length})</h3>${buildOmimTableHtml(omimHits)}</div>`;
+  }
+
+  if (therHits.length) {
+    html += `<div class="card-box"><h3>Matching Precision Therapies (${therHits.length})</h3>${buildTherapiesTableHtml(therHits)}</div>`;
+  }
+
+  html += `<div class="card-box"><h3>Matching Flashcards (${fcHits.length})</h3>`;
+  if (!fcHits.length) html += `<p style="color:var(--text-muted)">No matching flashcards.</p>`;
+  fcHits.forEach(f => {
+    html += `
+      <div style="padding:8px 0; border-bottom:1px solid var(--border); font-size:13.5px; display:flex; justify-content:space-between; align-items:flex-start; gap:12px;">
+        <div>
+          <div style="color:var(--accent); font-weight:600;">[Ch ${f.ch}] ${formatInlineMd(f.q)}</div>
+          <div style="margin-top:4px;">${formatInlineMd(f.a)}</div>
+        </div>
+        <button class="btn" style="flex-shrink:0; font-size:12px;" onclick="selectChapter(${f.ch}); setMode('flashcards')">🃏 Study Deck</button>
+      </div>
+    `;
+  });
+  html += `</div>`;
+
+  html += `<div class="card-box"><h3>Matching MCQs (${mcqHits.length})</h3>`;
+  if (!mcqHits.length) html += `<p style="color:var(--text-muted)">No matching MCQs.</p>`;
+  mcqHits.forEach(m => {
+    html += `
+      <div style="padding:8px 0; border-bottom:1px solid var(--border); font-size:13.5px; display:flex; justify-content:space-between; align-items:flex-start; gap:12px;">
+        <div>
+          <div style="font-weight:600;">[Ch ${m.ch}] ${formatInlineMd(m.q)}</div>
+          <div style="color:var(--green); margin-top:4px;">Answer: ${escapeHtml(m.options[m.answer])}</div>
+        </div>
+        <button class="btn" style="flex-shrink:0; font-size:12px;" onclick="selectChapter(${m.ch}); setMode('mcqs')">📝 Open Quiz</button>
+      </div>
+    `;
+  });
+  html += `</div>`;
+  area.innerHTML = html;
+}
+
+/* ---------------- MARKDOWN RENDERER & HELPERS ---------------- */
+function openLightbox(src, cap) {
+  document.getElementById('lightbox-img').src = src;
+  document.getElementById('lightbox-cap').textContent = cap || '';
+  document.getElementById('lightbox').style.display = 'flex';
+}
+
+function escapeHtml(s) {
+  return String(s || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function escapeAttr(s) {
+  return escapeHtml(s).replace(/'/g, '&#39;').replace(/\n/g, ' ');
+}
+
+function formatInlineMd(s) {
+  let out = escapeHtml(s || '');
+  out = out.replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>');
+  out = out.replace(/\*([^*]+)\*/g, '<i>$1</i>');
+  out = out.replace(/_([^_]+)_/g, '<i>$1</i>');
+  out = out.replace(/`([^`]+)`/g, '<code>$1</code>');
+  out = out.replace(/\n/g, '<br/>');
+  return out;
+}
+
+function renderMarkdownToHtml(md) {
+  if (!md) return '';
+  const lines = md.split(/\r?\n/);
+  let out = [];
+  let inTable = false;
+  let tableRows = [];
+  let inList = false;
+
+  function flushTable() {
+    if (!inTable) return;
+    inTable = false;
+    if (!tableRows.length) return;
+    let th = '<table><thead><tr>';
+    const hdr = tableRows[0];
+    hdr.forEach(c => { th += `<th>${formatInlineMd(c)}</th>`; });
+    th += '</tr></thead><tbody>';
+    for (let r = 1; r < tableRows.length; r++) {
+      const row = tableRows[r];
+      if (row.every(c => /^[-:\s]*$/.test(c))) continue;
+      th += '<tr>';
+      row.forEach(c => { th += `<td>${formatInlineMd(c)}</td>`; });
+      th += '</tr>';
+    }
+    th += '</tbody></table>';
+    out.push(th);
+    tableRows = [];
+  }
+
+  function flushList() {
+    if (inList) {
+      out.push('</ul>');
+      inList = false;
+    }
+  }
+
+  for (let i = 0; i < lines.length; i++) {
+    const raw = lines[i];
+    const t = raw.trim();
+    if (t.startsWith('<!--')) continue;
+
+    if (t.startsWith('|') && t.endsWith('|')) {
+      flushList();
+      inTable = true;
+      const cells = t.slice(1, -1).split('|').map(c => c.trim());
+      tableRows.push(cells);
+      continue;
+    } else {
+      flushTable();
+    }
+
+    if (!t) {
+      flushList();
+      continue;
+    }
+
+    const imgM = t.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+    if (imgM) {
+      flushList();
+      const src = imgM[2];
+      out.push(`<img src="${escapeAttr(src)}" onclick="openLightbox(this.src, '')" loading="lazy" />`);
+      continue;
+    }
+
+    const hM = t.match(/^(#{1,5})\s+(.+)$/);
+    if (hM) {
+      flushList();
+      const lvl = Math.min(4, hM[1].length);
+      out.push(`<h${lvl}>${formatInlineMd(hM[2])}</h${lvl}>`);
+      continue;
+    }
+
+    if (t.startsWith('- ') || t.startsWith('* ') || t.startsWith('• ')) {
+      if (!inList) {
+        out.push('<ul>');
+        inList = true;
+      }
+      out.push(`<li>${formatInlineMd(t.slice(2))}</li>`);
+      continue;
+    } else {
+      flushList();
+    }
+
+    out.push(`<p>${formatInlineMd(t)}</p>`);
+  }
+  flushTable();
+  flushList();
+  return out.join('\n');
+}
+
+window.addEventListener('DOMContentLoaded', initApp);
+</script>
+</body>
+</html>

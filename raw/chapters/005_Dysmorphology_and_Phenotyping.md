@@ -1,0 +1,563 @@
+
+<!-- p.94 -->
+
+# 5 Dysmorphology and Phenotyping 
+
+**SHAHIDA MOOSA, PETER M. KRAWITZ** 
+
+Dysmorphologists combine knowledge and concepts from morphogenesis, embryology, developmental biology, molecular genetics, and genomics along with other clinical disciplines, notably pediatrics, to study and document aberrant structural development which result in dysmorphic features and contribute to the study and delineation of rare diseases. 
+
+The term **dysmorphology** was created to describe the study of human congenital malformations. Linguistically, dysmorphology means abnormal morphology or abnormal form. Those physical features, which are not usually found in other individuals from the same age and ethnic background, are called dysmorphic. Certain features are always considered abnormal in all circumstances (such as premature fusion of the cranial sutures: craniosynostosis); others may or may not contribute to defining a diagnosis (such as persistent fetal finger pads). 
+
+Although dysmorphic is usually used to refer to visible, distinctive features, the term more correctly refers to the presence of an abnormal structure, which may include internal organs. Knowing what is considered normal or average or typical and being able to distinguish these from what is considered dysmorphic is key to the understanding and practice of dysmorphology. It is also key to recognizing what is rare. 
+
+Dysmorphologists look for recognizable signs and patterns to delineate and define a specific condition or syndrome. Dysmorphology plays a pivotal role in rare diseases, not only in diagnosis, but also in delineating new disorders and contributing to the description of the clinical spectra of diseases. Dysmorphic features are combined with results from other investigations, such as biochemistry, imaging, and psychosocial or behavioral assessments, to delineate the patient’s phenotype. **Phenotypes** are used to guide the interpretation of genetic and genomic results. The genetic result can be used as a basis to _group_ certain phenotypes and to understand the spectrum of disease for a particular gene or pathway. 
+
+The dysmorphologist will undertake a meticulous evaluation of the person presenting with a suspected rare genetic disorder. In addition to clinical acumen, artificial intelligence (AI)-based tools (facial recognition) have become part of the dysmorphologist’s toolbox. Using all available tools, including the latest genomic tests, the dysmorphologist 
+
+aims to provide definitive diagnoses and to accurately describe the clinical spectra of an ever-increasing number of rare genetic disorders. 
+
+## **Congenital Anomalies** 
+
+A congenital anomaly is a structural anomaly present at birth. They are often also termed _birth defects_ . They may be isolated or present as part of a syndrome. Major congenital abnormalities occur in about 3% of live births and have medical, surgical, and cosmetic significance (Table 5.1). Major anomalies are defined as those that, if untreated or unable to be corrected, could result in considerable impairment of normal body function, or even reduce life expectancy. They are a major cause of perinatal deaths worldwide. Minor anomalies, while more frequent, in isolation are not usually of any medical consequence (Table 5.2) unless there are multiple minor malformations (Fig. 5.1). 
+
+### **Etiology of Congenital Anomalies** 
+
+The causes of congenital anomalies are extensive. They can be subdivided into genetic and nongenetic causes. If a phenotype that is caused by an environmental influence, such as a teratogenic drug, and it mirrors a genetic condition, it is referred to as **phenocopy** . Phenocopies are not inherited, but the underlying molecular mechanism may be related. For a large number of anomalies, no underlying cause has yet been identified (Table 5.3). 
+
+### **_Genetic Causes_** 
+
+There are many ways in which genetic and genomic variation can lead to a congenital anomaly. Approximately 50% of anomalies identified in the newborn have a genetic basis (Table 5.3). **Chromosomal** disorders such as Down syndrome result from the chromosomal imbalance caused by the presence of a third copy of chromosome 21 (trisomy 21). **Copy number variations** , **microduplications** and **microdeletions** , are often implicated because their effect on gene dosage can disrupt normal developmental pathways. Up to 10% of congenital anomalies are attributed to single gene defects or monogenic disorders. **Monogenic disorders**
+
+<!-- p.95 -->
+
+###### **TABLE** 
+
+#### **Major Malformations*** 
+
+###### **5.1** 
+
+**Neurological Abdominal Wall** Severe hydrocephalus Gastroschisis Lissencephaly Omphalocele Schizencephaly **Craniofacial** Megalencephaly Neural tube defect Craniosynostosis Meningomyelocele Facial cleft Encephalocele Cleft lip and palate Structural eye defect **Cardiovascular** Coloboma Various congenital heart malformations Aniridia Cardiomyopathy Structural ear Genetic arrhythmia syndromes defects Microtia **Genitourinary** Aplasia of the Ambiguous genitalia auditory canal Kidney malformations Urachal defects **Limb** Amelia **Respiratory** Split/hand foot Congenital pulmonary malformation airway malformation Tracheoesophageal fistula 
+
+*Not an inclusive list. From Basel D. Dysmorphology in a genomic era. _Clin Perinatol_ . 2020; 47:15-23, Table 1. Also from Kliegman RM, St. Geme JW III, et al., eds. _Nelson Textbook of Pediatrics._ 22nd ed. Philadelphia: Elsevier; 2025 (Table 100.5, p. 785). 
+
+are also termed Mendelian disorders; achondroplasia results from pathogenic variants in a single gene _(FGFR3)_ . Other genomic factors that may contribute to congenital anomalies include **oligogenic diseases** caused by variants in several genes (e.g., some ciliopathies), mitochondrial disorders, and single-nucleotide polymorphisms (SNPs) which increase susceptibility to a particular condition (e.g., congenital scoliosis). Multifactorial disorders are conditions which result from the interaction between environmental factors and multiple genes (e.g., nonsyndromic cleft lip or neural tube defects). Epigenetic changes may affect the expression of certain genes, disrupting the precise gene regulation required for normal development. 
+
+### **_Nongenetic Causes_** 
+
+Exposure to teratogens during critical periods of embryonic and fetal development can also result in congenital anomalies. The first trimester (up to week 13 of gestation) is generally considered the highest-risk period. The timing of exposure to the teratogen is crucial, and different agents have different effects depending on when during the pregnancy exposure occurs (Fig. 5.2). Furthermore, the severity of the consequences may vary depending on factors such as dosage, duration of exposure, and individual susceptibility. Many medications, drugs, infectious agents, maternal illnesses (diabetes mellitus, phenylketonuria), and environmental toxins (mercury) have proven teratogenic effects (Tables 5.4, 5.5). Well-known examples include isotretinoin, an oral derivative of vitamin A, which is commonly used to 
+
+###### **TABLE** 
+
+#### **Minor Malformations*** 
+
+###### **5.2** 
+
+**Craniofacial Hand** Large fontanel Simian crease Flat or low nasal bridge Bridged upper palmar Saddle nose, upturned nose creases Micrognathia Fifth finger clinodactyly Cutis aplasia of the scalp Joint hypermobility (hyperextension of thumb) **Eye** Cutaneous syndactyly Palpebral fissures Polydactyly Telecanthus or epicanthus Short, broad thumb Up or down slanting Narrow or hyperconvex nails Hypertelorism Hypoplastic nails Brushfield spots Camptodactyly **Ear** Short fourth metacarpal Posteriorly rotated pinna **Foot** Lack of helical fold Syndactyly of second/third Preauricular with or without toe auricular skin tags Asymmetric toe length Small pinna Clinodactyly of second toe Auricular (preauricular) Overlapping toes pit or sinus Nail hypoplasia Folding of helix Wide gap between hallux Darwinian tubercle and second toe Crushed (crinkled) ear Deep plantar crease Asymmetric ear sizes between hallux and Low-set ears second toe **Skin Other** Dimpling over the bones Mild calcaneovalgus Capillary hemangioma Hydrocele (face/posterior neck) Shawl scrotum Dermal melanosis Hypospadias (African, Asian) Hypoplasia of labia majora Sacral dimple Supernumerary nipples Pigmented nevi Undescended testes Redundant skin folds Tongue tie Cutis marmorata Café-au-lait macules 
+
+*Not an inclusive list. From Basel D. Dysmorphology in a genomic era. _Clin Perinatol_ . 2020; 47:15–23, Table 2. Also from Kliegman RM, St. Geme JW III, et al., eds. _Nelson Textbook of Pediatrics_ . 22nd ed. Philadelphia: Elsevier; 2025 (Table 100.6, p. 785). 
+
+treat severe acne. Prenatal exposure to isotretinoin confers a 35% risk to the fetus for major anomalies, including cardiovascular, central nervous system, and craniofacial defects. Alcohol is a potent teratogen, and prenatal exposure can result in a spectrum of abnormalities included under the umbrella term **fetal alcohol spectrum disorder** . The subsequent effect of the teratogen depends on the agent, its amount/dosage, and timing, as well as the fetal and maternal genetic background to determine how severely the fetus or child is affected. 
+
+### **Classification of Congenital Anomalies** 
+
+It is helpful to classify congenital anomalies by their pathogenic mechanism: most congenital anomalies can be
+
+<!-- p.96 -->
+
+![](../../figures/fig_p0097_02.jpg)
+
+
+
+![](../../figures/vfig_p0096_01.jpg)
+
+**Fig. 5.1** Frequency of major malformations in relation to the number of minor anomalies detected in a given newborn baby. (From Jones KJ. _Smith’s Recognizable Patterns of Human Malformation._ 6th ed. Philadelphia: Saunders; 2006. Also from Kliegman RM, St. Geme III JW, et al., eds. _Nelson Textbook of Pediatrics_ . 22nd ed. Philadelphia: Elsevier; 2025 [Fig. 100.8, p. 785].) 
+
+#### **TABLE Causes of Congenital Anomalies Identified in 5.3 the Newborn** 
+
+|Cause|Percent|
+|---|---|
+|Genetic/Genomic|15–25|
+|_Chromosomal_|10–25|
+|_Single gene_|2–10|
+|Multifactorial|20–25|
+|Environmental|8–12|
+|Twinning|Up to 1|
+|Unknown|40–60|
+
+
+divided into those which result from deformations, disruptions, dysplasias, and malformations, respectively (Fig. 5.3). 
+
+- **Malformation** . A morphological abnormality of an organ/body part that arises due to an abnormal _developmental program_ (e.g., a unilateral cleft lip arises from the failure of the maxillary prominence on the affected side to unite properly with the merged medial nasal prominences) (Fig. 5.4). 
+
+- **Deformation** . An altered shape or position of a body part due to _abnormal mechanical forces_ which distort an otherwise normal structure (club feet arising from intrauterine constraint as a consequence of oligohydramnios) (Fig. 5.5). 
+
+- **Disruption** . A nonprogressive anomaly resulting from _destruction_ of a tissue, structure, or body part which inherently had a normal developmental potential (e.g., interruption of the blood supply to a toe, due to amniotic bands, resulting in amputation of that digit) (Fig. 5.6). 
+
+- **Dysplasia** . An anomaly arising from abnormal cellular constitution, tissue organization, or function within a tissue resulting in structural changes (e.g., within cartilage and bone, resulting in **skeletal dysplasia** ). 
+
+#### **_How congenital anomalies interact with one another can also be used to subclassify them._** 
+
+- **Syndrome** . A recognizable pattern of congenital anomalies thought to be causally related (trisomy 21) (Fig. 5.7). 
+
+- **Sequence** . One or more secondary anomalies known or presumed to cascade from a single event (malformation, disruption, dysplasia, or deformation); Pierre Robin sequence is the combination of cleft palate, micrognathia, and upper airway obstruction that are consequences of a single event due to the failure of normal growth of the mandible during the eighth to tenth week of embryonic development (Fig. 5.8). 
+
+- **Association** . A pattern of anomalies that occur together more often than would be expected by chance, but where a causal link has not been identified, such as the non-random co-occurrence of 6 anomalies in VACTERL: vertebral anomalies, anal atresia, cardiac defects, trachea-esophageal fistula, renal defects, and limb anomalies. 
+
+## **Recognizing Variation** 
+
+Dysmorphologists are usually concerned with patients with major anomalies, and those in whom three or more minor anomalies are identified because the likelihood of a syndrome becomes greater with each additional minor anomaly (Fig. 5.1). Many syndromes have a genetic cause, and the dysmorphologist is interested in accurately characterizing the associated clinical features to define a phenotype, make a diagnosis, or narrow the differential diagnosis. 
+
+To recognize anomalies, one needs to have an excellent understanding of what is normal; this includes normal stages and important timings of embryonic development (Fig. 5.2), the normal structure, measurements, and ratios of the human body at various ages, and an understanding of neurocognitive and motor development and behavior. 
+
+### **Embryology** 
+
+Major malformations can result from a disturbance in diverse molecular mechanisms during embryonic development. These may interfere with an array of normal processes, such as cell migration (e.g., neural crest cells), apoptosis (programed cell death), intra-and intercellular signaling, and epigenetic perturbations, such as chromatin remodeling. 
+
+The period during which development is disturbed is one of the most critical elements which determines the extent and severity of the resultant anomalies. During implantation, the first 2 weeks after fertilization, almost any interference with normal processes will result in spontaneous miscarriage. The **embryonic period** (gestational week 3–8) is the period of maximum risk for major malformations because tissue differentiation and organogenesis are taking place. A plethora of developmental processes are occurring at the same time and a single insult could result in multiple malformations and anomalies, resulting in the seemingly
+
+<!-- p.97 -->
+
+![](../../figures/fig_p0098_01.jpg)
+
+
+**Fig. 5.2** Critical periods in human embryological and fetal development. (From Moore KL, Persaud TVN, Torchia MG. _The Developing Human_ . 10th ed. Philadelphia: Elsevier; 2021 [page 474 Figure 20-15].) 
+
+#### **TABLE Agents Acting on Pregnant Persons That May Adversely Affect the Structure or Function of the 5.4 Fetus and Newborn** 
+
+|Accutane (isotretinoin)|Facial-ear anomalies, heart disease, CNS anomalies|
+|---|---|
+|Alcohol|Congenital cardiac, CNS, limb anomalies; IUGR; developmental delay; attention<br>deficits; autism|
+|ACE inhibitors, angiotensin receptor antagonists|Oligohydramnios, IUGR, renal failure, Potter sequence|
+|Carbamazepine|Neural tube defects, possible neurodevelopmental delay|
+|Carbimazole|Scalp defects, choanal atresia, esophageal atresia, developmental delay|
+|Chorionic villus sampling|Possible limb reduction defects if performed before 9 weeks|
+|Danazol|Virilization|
+|Hyperthermia|Spina bifida|
+|Lithium|Possible increased cardiac defects (Ebstein anomaly)|
+|Methyl mercury|Minamata disease, microcephaly, deafness, blindness, intellectual disability|
+|Methyltestosterone|Masculinization of female fetus|
+|Misoprostol|Arthrogryposis, cranial neuropathies (Möbius syndrome), equinovarus|
+|Mycophenolate mofetil|Craniofacial, limb, cardiovascular defects, spontaneous abortion|
+|Norethindrone|Masculinization of female fetus with large doses|
+|Penicillamine|Cutis laxa|
+|Phenytoin|Congenital anomalies, neuroblastoma, bleeding (vitamin K deficiency)|
+|Prednisone|Oral clefts|
+|Stilbestrol (diethylstilbestrol [DES])|Clear cell adenocarcinoma of vagina and cervix in adolescence|
+|Streptomycin|Deafness|
+
+
+_(Continued)_
+
+<!-- p.98 -->
+
+#### **TABLE Agents Acting on Pregnant Persons That May Adversely Affect the Structure or Function of the 5.4 Fetus and Newborn—cont’d** 
+
+|Thalidomide|Phocomelia, deafness, other malformations|
+|---|---|
+|Toluene (solvent abuse)|Craniofacial abnormalities, prematurity, hypertonia|
+|Topiramate|Cleft lip|
+|Trimethadione and paramethadione|Spontaneous abortion, multiple malformations, cognitive impairment|
+|Valproate|CNS (neural tube defects), facial and cardiac anomalies, limb defects, impaired<br>neurological function, autism spectrum disorder|
+|Warfarin (Coumadin)|Fetal bleeding and death, hypoplastic nasal structures, stippled epiphyses|
+|_ACE,_Angiotensin-converting enzyme;_CNS,_central nerv<br>cardiac, tracheoesophageal fistula, renal, arterial, limb.<br>Modified from Kliegman RM, St. Geme JW III, et al., eds.|ous system;_IUGR,_intrauterine growth restriction;_LBW,_low birthweight;_VACTERAL,_vertebral, anal,<br>_Nelson Textbook of Pediatrics_. 22nd ed. Philadelphia: Elsevier; 2025 (Table 117.6, p. 1023).|
+
+
+
+#### **TABLE 5.5** Maternal Infections f Affecting the Fetus or Newborn
+
+|Infection|Mode(s) of Transmission|Neonatal Outcome|
+|---|---|---|
+|**Virus**<br>Rubella|Transplacental|Congenital rubella|
+|Cytomegalovirus|Transplacental, breast milk (rare)|Congenital cytomegalovirus or asymptomatic|
+|HIV|Transplacental, vaginal passage,<br>breast milk|Congenital or acquired immunodeficiency syndrome|
+|Hepatitis B|Vaginal passage, transplacental,<br>breast milk|Neonatal hepatitis, chronic hepatitis B surface<br>antigen carrier state|
+|Hepatitis C|Transplacental and vaginal passage|Rarely neonatal hepatitis,~5% chronic carrier state<br>possible|
+|Herpes simplex type 2 or 1|Intrapartum exposure|Neonatal herpes simplex virus<br>Neonatal encephalitis; disseminated viremia, or<br>cutaneous infection|
+|Varicella-zoster|Transplacental:||
+||Early|Congenital anomalies|
+||Late|Neonatal varicella|
+|Parvovirus|Transplacental|Fetal anemia, hydrops|
+|Coxsackievirus B|Fecal-oral|Myocarditis, meningitis, hepatitis|
+|Rubeola|Transplacental|Abortion, fetal measles|
+|West Nile|Transplacental (rare)<br>Possible perinatal|Uncertain, possible rash, encephalitis|
+|Zika|Transplacental|Congenital microcephaly, intracranial<br>calcifications, brain abnormalities,<br>retinal lesions|
+|Chikungunya|Transplacental (rare), perinatal|Neonatal encephalitis|
+|Dengue|Transplacental, perinatal|Neonatal sepsis-like symptoms|
+|**Parasites**|||
+|Toxoplasmosis|Transplacental|Congenital toxoplasmosis|
+|Malaria|Transplacental|Abortion, prematurity, intrauterine growth restriction|
+
+
+Modified from Kliegman RM, St. Geme JW III, et al., eds. _Nelson Textbook of Pediatrics_ . 22nd ed. Philadelphia: Elsevier; 2025 (Table 116.4, p. 1013).
+
+<!-- p.99 -->
+
+![](../../figures/fig_p0100_01.jpg)
+
+
+
+![](../../figures/vfig_p0099_01.jpg)
+
+**Fig. 5.3** Mechanisms of abnormal morphogenesis. (From Jones KL, Jones MC, Del Campo M. _Smith’s Recognizable Patterns of Human Malformation_ . 8th ed. Philadelphia: Elsevier; 2021 [page xviii, Figure 2].) 
+
+
+![](../../figures/fig_p0100_03.jpg)
+
+
+**Fig. 5.4** Unilateral left-sided cleft lip. (From Jones KL, Jones MC, Del Campo M. _Smith’s Recognizable Patterns of Human Malformation_ . 8th ed. Philadelphia: Elsevier; 2021 [page 339, Figure 2A].) 
+
+unrelated dysmorphic features seen in some syndromes. Many anomalies may be recognized using prenatal imaging (ultrasonography or MRI). It is imperative to understand developmental timing, such as when the various bones are expected to ossify while assessing a fetus for possible skeletal dysplasia. After all organs are fully formed, the fetus is expected to grow and the brain is still undergoing maturation. During this time of fetal growth, the fetus remains at risk of injury to the developing brain and central nervous system and is vulnerable to teratogens and the intrauterine environmental changes. 
+
+### **Anthropometry** 
+
+Meticulous measurements play a key role in dysmorphology examination. They provide an objective and standardized basis for characterizing physical features and observed abnormalities. Measurements should be taken at every encounter (including in utero) with a healthcare professional and plotted on country/region-specific growth charts, like those issued by the CDC. There are standardized charts for 
+
+
+![](../../figures/fig_p0100_08.jpg)
+
+
+
+![](../../figures/vfig_p0099_03.jpg)
+
+**Fig. 5.5** Deformation abnormalities resulting from uterine compression. (From Kliegman RM, Jenson HB, Marcdante KJ, et al., eds. _Nelson Essentials of Pediatrics_ , 5th ed. Philadelphia: Saunders; 2005. Also from Kliegman RM, St. Geme JW III, et al., eds. _Nelson Textbook of Pediatrics_ . 22nd ed. Philadelphia: Elsevier; 2025 [Fig. 100.2, p. 781].) 
+
+height, weight, and head circumference, as well as for most body parts. For some rare diseases, there are _conditionspecific growth charts_ available. While a single measurement is very useful, plotting serial measurements and observing longitudinal trends are invaluable.
+
+<!-- p.100 -->
+
+![](../../figures/fig_p0101_02.jpg)
+
+
+**Fig. 5.6** Amniotic bands resulting in amputation of digits. (From Jones KL, Jones MC, Del Campo M. _Smith’s Recognizable Patterns of Human Malformation_ . 8th ed. Philadelphia: Elsevier; 2021 [page 900, Figure 1A].) 
+
+### **Childhood Development** 
+
+Normal childhood development is a dynamic and multifaceted process encompassing physical, cognitive, social, and emotional domains. Milestones represent key achievements or abilities that are typically attained by children within specific age ranges. Individual variability exists, and not all children will reach milestones at the same time. What the dysmorphologist needs to assess is if the development is appropriate for the child’s age. This forms part of the assessment and contributes to the patient’s phenotype. 
+
+## **Pathways and Heterogeneity** 
+
+The dysmorphologist must also recognize similarities. The first gene discoveries for rare diseases were achieved by performing genetic analyses on patients who resembled one another, or shared a **phenotype** , to see which genetic variants they also had in common. Although some patients may be phenotypically similar, the underlying gene may differ. Often, these genes would be in a common pathway, or interact with each other in some way. A good example of this is the RAS/MAPK pathway: germline pathogenic variants in several of the genes within this pathway can lead to aberrant signaling and contribute to the development of a group of related disorders, collectively known as the **RASopathies** (Fig. 5.9). The RASopathies, such as Noonan syndrome, Costello syndrome, cardio-facio-cutaneous syndrome, and neurofibromatosis type 1, have overlapping clinical features (Fig. 5.10), including craniofacial dysmorphism, congenital cardiac anomalies, and neurocognitive impairment. Another example is **Cornelia de Lange syndrome (CdLS)** , which is characterized by distinctive facial dysmorphic features, growth restriction, and upper limb abnormalities. Patients with a clinical diagnosis of CdLS can have pathogenic variants in any one of 6 genes which are important in the cohesin pathway. 
+
+
+![](../../figures/fig_p0101_08.jpg)
+
+
+**Fig. 5.7** Characteristic syndromic features of trisomy 21. (A–C) Young infant. Flat facies, straight hair, protrusion of tongue, single crease on inturned fifth finger. (D) Brushing spots. (E) Wide space between toes 1 and 2. (From Jones KL, Jones MC, Del Campo M. _Smith’s Recognizable Patterns of Human Malformation_ . 8th ed. Philadelphia: Elsevier; 2021 [page 5, Figure 1A, 1B, 1C and page 7 Figure 3A, 3C].) 
+
+## **Beyond Descriptive Terminology** 
+
+The dysmorphic feature must be described in a manner which is easily understood. Dysmorphologists have attempted to standardize their descriptive terminology and nomenclature (Table 5.6). Initiatives like the Human Phenotype Ontology (HPO) have provided standardized vocabulary of dysmorphic features and medically relevant phenotypic features frequently encountered in the clinic. This facilitates
+
+<!-- p.101 -->
+
+![](../../figures/fig_p0102_01.jpg)
+
+
+**Fig. 5.8** Pierre Robin sequence. (From Jones KL, Jones MC, Del Campo M. _Smith’s Recognizable Patterns of Human Malformation_ . 8th ed. Philadelphia: Elsevier; 2021 [page 335 Figure 1B and C].) 
+
+
+![](../../figures/fig_p0102_03.jpg)
+
+
+**Fig. 5.9** The RAS/MAPK pathway showing the genes as associated disorders. (From Rauen KA. The RASopathies. _Annu Rev Genomics Hum Genet_ . 2013;14:355-369.) The RAS/MAPK signal transduction pathway. The MAPK signaling pathway of protein kinases is critically involved in cellular proliferation, differentiation, motility, apoptosis, and senescence. The RASopathies are patterns of anomalies caused by pathogenic variants in genes that encode components or regulators of the RAS/MAPK pathway (indicated by _dashed lines_ ). These disorders include neurofibromatosis type one (NF1), Noonan syndrome (NS), Noonan syndrome with multiple lentigines (NSML), capillary malformation–arteriovenous malformation syndrome (CM-AVM), Costello syndrome (CS), cardiofaciocutaneous syndrome (CFC), and Legius syndrome. _RAS/MAPK,_ RAS protein family/mitogen-activated protein kinase.
+
+<!-- p.102 -->
+
+![](../../figures/fig_p0103_02.jpg)
+
+
+**Fig. 5.10** Overlapping clinical features of RASopathies. (A) Neurofibromatosis type 1 _(NF1)_ , (B) Noonan syndrome _(PTPN11)_ , (C) Costello syndrome _(HRAS)_ , (D) Cardio-facio-cutaneous syndrome _(MEK1)_ . (From Rauen KA. The RASopathies. _Annu Rev Genomics Hum Genet_ . 2013;14:355–369 [Figure 2].) 
+
+the sharing and integration of phenotypic data across different centers, research studies, and databases. 
+
+HPO terms, however, are not sufficient to adequately describe more granular information, such as actual centile or standard deviations (SD), when describing microcephaly or height. Nor do they allow for descriptions of when features appeared much beyond “prenatal” and “congenital.” A gap remains in our ability to fully describe phenotypes, but HPO has made a significant effort at harmonizing clinical descriptions globally. 
+
+## **The Dysmorphology Consultation** 
+
+When consulting on a patient with congenital anomalies suspected of having a rare disorder, most dysmorphologists will follow a structured approach: history, examination, further investigations, and genetic or genomic testing. The aim is a definitive diagnosis to guide management and treatment, as well as to inform effective genetic counseling, recurrence risks, and prognosis. This approach, however, needs to be tailored to the individual patient and to the situation. 
+
+The consultation begins when the family meets in the waiting area and the family and patient are observed. A simple 
+
+handshake may give a vital clue to the ensuing diagnosis (myotonic dystrophy). Observing the child’s gait, seeing how they interact with their parents, what their general appearance is provides important clues even before the first questions have been posed. 
+
+A _spot diagnosis_ , that is, being able to immediately recognize a condition based on observation alone, is possible for an experienced clinician or with an easily recognized rare disorder. This is becoming increasingly difficult because the number of genetic conditions has increased to include rare diseases (defined as those affecting less than 1 in 2,000 individuals), as well as ultra-rare (affecting less than 1 in 50,000 individuals) and even hyper-rare (less than 1 in 10<sup>8</sup> individuals) and nano-rare conditions (a condition with up to 30 patients with the same pathogenic variant identified worldwide). 
+
+### **Family History and Drawing a Pedigree** 
+
+A 3-generation family tree or pedigree should be constructed with as much information as possible. This pedigree provides a visual representation of familial relationships and can give important clues about possible inheritance
+
+<!-- p.103 -->
+
+#### **TABLE Glossary of Selected Terms Used in 5.6 Dysmorphology** 
+
+##### **Terms Pertaining to the Face and Head** 
+
+- Brachycephaly: A condition in which head shape is shortened from front to back along the sagittal plane; the skull is rounder than normal 
+
+- Canthus: The lateral or medial angle of the eye formed by the junction of the upper and lower lids 
+
+- Columella: The fleshy tissue of the nose that separates the nostrils 
+
+- Glabella: Bony midline prominence of the brows 
+
+- Nasal alae: The lateral flaring of the nostrils 
+
+- Nasolabial fold: Groove that extends from the margin of the nasal alae to the lateral aspects of the lips 
+
+- Ocular hypertelorism: Increased distance between the pupils of the 2 eyes 
+
+- Palpebral fissure: The shape of the eyes based on the outline of the eyelids 
+
+- Philtrum: The vertical groove in the midline of the face between the nose and upper lip 
+
+- Plagiocephaly: A condition in which head shape is asymmetric in the sagittal or coronal planes; can result from asymmetry in suture closure or from asymmetry of brain growth 
+
+- Scaphocephaly: A condition in which the head is elongated from front to back in the sagittal plane; most normal skulls are scaphocephalic 
+
+- Synophrys: Eyebrows that meet in the midline 
+
+- Telecanthus: A wide space between the medial canthi 
+
+##### **Terms Pertaining to the Extremities** 
+
+- Brachydactyly: A condition of having short digits 
+
+- Camptodactyly: A condition in which a digit is bent or fixed in the direction of flexion (a “trigger finger”–type appearance) 
+
+- Clinodactyly: A condition in which a digit is crooked and curves toward or away from adjacent digits 
+
+- Hypoplastic nail: An unusually small nail on a digit 
+
+- -melia: A suffix meaning “limb” (e.g., amelia—missing limb; brachymelia—short limb) 
+
+- Polydactyly: The condition of having 6 or more digits on an extremity 
+
+- Syndactyly: The condition of having 2 or more digits at least partially fused (can involve any degree of fusion, from webbing of skin to full bony fusion of adjacent digit) 
+
+From Behrman RE, Kliegman RM. _Nelson Essentials of Pediatrics_ . 4th ed. Philadelphia: Saunders; 2002:149. Also from Kliegman RM, Toth H, Bordini BJ, Basel D, eds. _Nelson Pediatric Symptom-Based Common Diseases and Their Mimics_ . 2nd ed. 2023 (Table 29.4, p. 486). 
+
+patterns (Table 5.7) or help identify possible carriers or atrisk individuals. The parental ages, for example, should be documented: advanced maternal age may suggest an increased risk of a chromosomal disorder, while advanced paternal age may suggest an increased risk for _de novo_ (new dominant) single gene disorders. Pedigree is also essential in genetic counseling and risk assessment. Standardized pedigree symbols should be used throughout (Fig. 5.11). 
+
+Important points to note include: other affected members and to document their features as extensively as possible, including consanguinity, disabilities, multiple miscarriages, live births, stillbirths, early neonatal or childhood deaths, cancer, age at death, and cause of death of deceased members. 
+
+### **Pregnancy History** 
+
+Pregnancy history is important because information about both the mother’s health and habits, as well as the fetal health and intrauterine environment can inform the interpretation of dysmorphic features. A history of decreased fetal movement (possible **fetal akinesia** ) sets the scene for possible associated features: breech presentation, limb malformations and contractures at birth, and a possible underlying neuromuscular disorder (Fig. 5.12). **Polyhydramnios** may indicate that the fetus had difficulty swallowing, and oligohydramnios may be indicative of a fetal renal anomaly. 
+
+Important points to note include: maternal illnesses with medications and dosages, history of maternal pyrexia or rashes, list of medications (including over-the-counter medication and preconception supplements like folate), any substances consumed with details about frequency and amount, fetal movement, amniotic fluid volume (oligohydramnios, polyhydramnios), abnormal maternal serum screening, results of prenatal ultrasonography and any abnormal fetal morphology, fetal growth (intrauterine growth restriction (IUGR), overgrowth, disproportionate growth abnormalities), abnormalities of the placenta, abnormalities of the umbilical cord, and results of any prenatal testing. 
+
+### **Birth History** 
+
+Knowing as much as possible about the details of the birth and the time immediately following birth is vital. Assisted vaginal deliveries can result in abnormal head shapes for the first few days. These can be confused with pathological processes like craniosynostosis. An accurate record of the birth measurements forms the baseline for all future measurements and interpretation of trends in growth. 
+
+Important points to note include: type of delivery and presenting part (normal vaginal, assisted vaginal [forceps, vacuum], Caesarian section; vertex, breech, footling), gestation at delivery, evidence of fetal distress, birth weight, birth length and birth head circumference measurements, APGAR scores, any immediate postnatal and neonatal problems identified (neonatal respiratory distress, feeding difficulties, significant jaundice, neonatal hypoglycemia, neonatal seizures, severe infections, any congenital abnormalities noted). 
+
+### **Medical/Surgical History** 
+
+Most individuals presenting for an assessment to a dysmorphologist have an extensive medical and surgical history. A comprehensive medical and surgical history provides
+
+<!-- p.104 -->
+
+#### **TABLE Patterns of Inheritance 5.7** 
+
+|Inheritance Pattern|Cardinal Features|
+|---|---|
+|Autosomal dominant|Affected individuals have one normal allele and one altered/variant allele on one of the<br>autosomes<br>Males and females equally affected<br>Vertical transmission with affected individuals in each generation<br>50% recurrence risk for future pregnancies<br>_De novo_occurrence possible|
+|Autosomal recessive|Affected individuals have two altered/variant alleles (biallelic)<br>Parents of affected individuals are heterozygous carriers and healthy<br>Consanguinity may be present<br>25% recurrence risk|
+|X-linked|Affected individuals have an altered/variant allele on their X chromosome<br>Males are hemizygous<br>Males typically more severely affected than females<br>Skewed X-inactivation plays a role in affected females<br>Affected males will pass the altered/variant allele to all daughters|
+|Mitochondrial|Mitochondrial DNA is inherited from the mother<br>Severity and onset of symptoms vary widely as influenced by heteroplasmy and<br>tissue-specific effects<br>Males and females equally affected|
+
+
+information on the individual’s health background. Information must be gathered regarding symptoms, age of onset of symptoms, medical visits, doctor’s reports, medications, surgical interventions, results of biopsies, other results. At this point information on exposures and habits can also be gathered (environmental exposures, both occupational and residential as well as lifestyle habits like smoking). 
+
+Important points to note include: comprehensive health history including medical conditions with information about onset, progression, list of physicians and specialists seen, management and treatment, hospitalizations, allergies, history of recurrent infections, surgical history noting all previous and planned surgeries, exposure to anesthesia, and any adverse reactions or events. 
+
+### **Developmental History and Behavioral History** 
+
+Enquiring about an individual’s developmental and behavioral history provides insight into the early milestones, overall development, and developmental trajectory and trends. Monitoring of development allows for early detection of delays, or deviations from expected patterns. Many genetic conditions manifest with developmental delays, and some may even exhibit specific patterns or phenotypes. **Regression** of any milestones can be a significant marker for certain conditions, like Rett syndrome. Certain behaviors can also increase the likelihood for some conditions, like hand flapping in Angelman syndrome. Ideally, all individuals with developmental issues should be seen by a neurodevelopmental pediatrician for a formal assessment. 
+
+Important points to note include: early developmental milestones (motor, fine-motor, speech and language), any 
+
+history of regression of milestones/abilities, other neurological features (seizures), with information on the timing and context (related to illness, fever, trauma, environmental changes), other psychiatric features, autism or autistic features, social and emotional development, cognitive and academic progress, behavioral patterns (including temperament, sleep, eating, self-care, interests), and behavioral changes. 
+
+## **Physical Examination** 
+
+The key to good practice in dysmorphology is accurate observation and meticulous measurement and documentation of findings. It is equally important to examine and document the normal features. Parents, siblings, and other family members may be available for comparison, especially of facial features. Just because a child resembles his mother, does not exclude the presence of a syndrome because both may have the same condition inherited in an autosomal dominant manner (Table 5.7). 
+
+Major anomalies may be obvious, while minor ones may require more careful attention to detail. Features naturally change over time, and in the case of dysmorphic features may become either more obvious or less obvious with age, depending on the condition. It is thus important to examine the patient and document features at _every_ visit. _Photographs from early childhood are very useful_ . Different features may present at different time points or ages. A baby or child with a storage disorder (mucopolysaccharidoses) may initially present with only inguinal hernias and organomegaly. It is only with time that the facial features coarsen, and the joints become stiff. Later features will include cognitive decline and slowing of growth.
+
+<!-- p.105 -->
+
+![](../../figures/fig_p0106_01.jpg)
+
+
+- **Fig. 5.11** Standard pedigree symbols, definitions, and abbreviations. (From Bennett RL, French KS, 
+
+- Resta RG, et al. Standardized human pedigree nomenclature: update and assessment of the recommendations of the National Society of Genetic Counselors. _J Genet Couns._ 2008;17:424-433.)
+
+
+![](../../figures/vfig_p0105_01.jpg)
+
+
+<!-- p.106 -->
+
+![](../../figures/fig_p0107_02.jpg)
+
+
+
+![](../../figures/vfig_p0106_01.jpg)
+
+**Fig. 5.12** Diagram demonstrating the etiologically heterogeneous phenotype that results from fetal akinesia. (From Graham JL. _Smith’s Recognizable Patterns of Human Malformation_ . 3rd ed. Philadelphia: Elsevier; 2007 [Fig. 47-2A]. Also Fig.100.5A in _Nelson Textbook of Pediatrics_ 22/e, p. 782.) 
+
+## **Observation** 
+
+Observing the patient’s body habitus, gait, facial expressions, interaction with caregivers, behavior, and general demeanor can give important clues even before the formal assessment. These observations can guide the dysmorphologist’s approach to an individual patient. 
+
+## **Clinical Examination** 
+
+Although a structured approach to the patient with dysmorphic features is ideal, in reality, this may not always be feasible. As long as all body parts are examined, the order of examination is left up to the physician. Dysmorphologists typically spend a lot of time looking in detail at body parts that other physicians do not focus on, like the palms of the hands or behind the patient’s ears. This can be quite a new experience for the patients and their caregivers. 
+
+Table 5.8 provides a general checklist of important features to note on the clinical examination. 
+
+## **The Face in Dysmorphology** 
+
+The face is a critical region in the dysmorphology examination. Perhaps more than any other body part, the face provides a starting point to define syndromes. While each syndrome may exhibit a recognizable facial pattern, the manifestations can vary widely, ranging from subtle changes to severe malformations. 
+
+The facial phenotype is referred to as the _facial gestalt_ . Many well-known syndromes have a recognizable facial gestalt, which makes a _spot diagnosis_ easier. The face is a complex structure which undergoes intricate and highly regulated embryological development and deviations from the norm manifest as distinct facial anomalies. In addition 
+
+
+#### **TABLE 5.8** Checklist of Important Features to Note on the Dysmorphological Clinical Examination
+
+|General appearance|Body proportions and symmetry<br>Vital signs<br>Growth parameters|
+|---|---|
+|Head and neck|Head shape<br>Fontanelles<br>Hair: texture, color, distribution, hairlines (low, high)<br>Neck: length, masses, fistulae, embryonic remnants, webbing, redundant skin|
+|Ears|Position, preauricular tags/pits, creases on lobes/helix, shape of lobes and position, hearing aids|
+|Face|Shape<br>Appearance<br>Symmetry<br>Unusual facies, e.g., myotonic|
+|Forehead|Shape, presence of nevi, frontal bossing, biparietal narrowing|
+|Eyebrows|Thickness, sparseness, arched, synophrus|
+|Eyes|Shape and size (microphthalmia)<br>Measurements: distances between each eye, inner-canthal, outer canthal, interpupillary<br>Iris (color, unusual pattern/spots, aniridia)<br>Lids (ptosis)<br>Pupils (colobomas)<br>Epicanthal folds, telecanthus, palpebral fissure length and alignment<br>Eyelashes (long, curly, absent)|
+|Nose|Shape, size and position<br>Nasal root (prominent, flat), bridge (prominent, flat), tip (broad, flat), alae nasi (hypoplastic, anteverted),<br>columella (long, short)|
+
+
+_(Continued)_
+
+<!-- p.107 -->
+
+
+#### **TABLE 5.8** Checkli st of Important Features to Note on the Dysmorphological Clinical Examination—cont’d
+
+|Mouth|Size (wide, macrostomia)<br>Philtrum (long, short, smooth, prominent philtral groove), upper vermillion, nasolabial folds, lips (thick, thin),<br>corners of mouth (downturned), lip pits, clefts (lip, palate)<br>Palate (high-arched, cleft), uvula (bifid, cleft, absent, long), dentition (oligodontia, dental caries, single<br>incisor), tongue (lobulated, macroglossia, microglossia)|
+|---|---|
+|Chin|Shape and size (micrognathia, prognathism), unusual creases|
+|Chest|Shape and proportion (pectus carinatum/excavatum)<br>Chest wall deformity<br>Clavicles (short, absent)|
+|Nipples|Widely spaced<br>Inverted<br>Supernumerary|
+|Abdomen|Shape and proportion<br>Abdominal wall defect<br>Abdominal musculature<br>Organomegaly<br>Umbilical hernia<br>Omphalocele<br>Gastroschisis|
+|Genitalia|Ambiguous genitalia<br>Micropenis<br>Cryptorchidism<br>Hypospadias<br>Bifid scrotum<br>Labia majora/minora abnormality<br>Enlarged clitoris|
+|Anus|Position, patency, tone|
+|Limbs|Length and proportions of segments (rhizomelic, mesomelic, acromelic)<br>Shape (bowing, deformities, defects, asymmetry)<br>Joints (range of movement, deformities, contractures)<br>Digit number, length, shape, placement (oligodactyly, polydactyly, clinodactyly, syndactyly, proximally<br>inserted, overlapping)<br>Palmar and plantar creases|
+|Nails|Hypoplastic, grooved, thickened, tapered, aplastic|
+|Back|Scoliosis, exaggerated lordosis, gibbus, winged scapulae, sacral dimples, neural tube defects|
+|CNS|Tone, reflexes, movements, muscle weakness|
+|Skin|Texture<br>Pigmentary abnormalities<br>Nevi, freckles, telangiectasia, venous malformations<br>Cutis laxa<br>Fragility, scars, elasticity<br>Tumors|
+
+
+to individual dysmorphic features, the face also allows us to observe facial expressions, which can form part of a phenotype. 
+
+Due to the common lineage of the craniofacial bones and the central nervous system from cranial neural crest cells, the _facial gestalt_ is of particular interest in many disorders that affect psychomotor development. The binary distinction between syndromic and nonsyndromic intellectual disability, for instance, is increasingly replaced by a concept 
+
+that allows different degrees of distinctiveness of a dysmorphic phenotype. 
+
+The face is embryologically complex, with contributions from neural crest, branchial arches, and mesoderm. **Neural crest** cells arise from the dorsal neural tube during early embryonic development. They undergo epithelial to mesenchymal transition and migrate extensively throughout the embryo, contributing to the formation of various tissues and structures, including the face. Disruptions in the
+
+<!-- p.108 -->
+
+### **TABLE 5.9 Developmental Pathways Involved in Facial Morphogenesis** 
+
+|Pathway|Role in Facial Morphogenesis and Example Syndrome|
+|---|---|
+|Fibroblast growth factor (FGF)<br>signaling|FGF signaling plays a crucial role in facial development by regulating cell proliferation,<br>migration, and differentiation.<br>Example:_Apert syndrome_|
+|Sonic Hedgehog (SHH) signaling|SHH signaling is essential for patterning the face along the anterior-posterior axis and<br>regulating the growth of facial prominences.<br>Example:_Holoprosencephaly_|
+|Wnt signaling|Wnt signaling is involved in various aspects of facial development, including facial patterning,<br>epithelial-mesenchymal interactions, and tissue polarity.<br>Example:_Robinow syndrome_|
+|Transforming Growth Factor<br>Beta (TGF-β) signaling|TGF-βsignaling regulates cell proliferation, differentiation, and extracellular matrix production<br>during facial morphogenesis.<br>Example:_Loeys-Dietz syndrome_|
+|Homeobox (HOX) genes|HOX genes are transcription factors that play a critical role in specifying regional identities<br>along the anterior-posterior axis during embryonic development.<br>Example:_Bosley-Salih-Alorainy syndrome_|
+
+
+migration, proliferation, or differentiation of these cells can lead to craniofacial anomalies, most notably, premature fusion of the cranial sutures (craniosynostosis), cleft lip and palate, midface retrusion (midface hypoplasia), closely spaced/widely spaced eyes (hypo/hypertelorism), small or absent chin (micrognathia or agnathia), and abnormalities of the nose, eyes, ears, and teeth. Collectively, these findings account for ~30% of congenital anomalies which characterize hundreds of syndromes, including 22q11 deletion syndrome, Treacher Collins syndrome, and frontonasal dysplasia. 
+
+Understanding the underlying embryology helps to determine the origin of many facial anomalies and can provide clues about the underlying genetic alterations or pathways which have been disrupted. Facial morphogenesis is intricately regulated by numerous signaling pathways, including bone morphogenic proteins (BMPs), fibroblast growth factors (FGFs), sonic hedgehog signaling (SHH), and others (Table 5.9). Dysregulation in any of these pathways can disrupt facial development, leading to dysmorphism, with notable examples (Table 5.9). A patient with midline facial anomalies such as a proboscis, hypotelorism, cleft lip and palate suggest a Sonic Hedgehog signaling dysregulation. 
+
+## **Clinical Photography and Videography** 
+
+Photographs are taken (with permission) of all dysmorphic features, most commonly the frontal face and profile, full length body (front, side and back), and hands and feet. A ruler or other standard is included for scale. Serial photographs document how the dysmorphic features change over time and serve as a valuable resource to dysmorphologists, especially if they are seeing an older patient for the first time. Video is also useful in documenting particular behaviors, gait, or facial expressions. Parents often have video 
+
+evidence of a particular behavior or when a child is having a seizure because these may not be evident in the consultation. The photographs should be taken against a neutral background and have a scale to estimate size. 
+
+# **Investigations** 
+
+Dysmorphologists rely on the results of further investigations to complement their clinical assessment of family history and physical examination. In the context of a rare genetic disorder, the patient often presents with a large list of previous investigations, which may include biochemistry, imaging, and genetic testing. 
+
+Imaging may also be useful for measurements (when assessing the skull or the bones in the hand), but also for 3D reconstruction and planning of surgery (craniosynostoses). 
+
+_Exome and genome sequencing have allowed the identification of many disease-causing genes_ . The number of rare and ultra-rare disorders is consequently growing. In some cases, the dysmorphologist is consulted before genetic or genomic testing, and would then request the appropriate test based on the clinical differential diagnosis based on the phenotype. At other times, patients are referred after they have a genetic test result, to have a clinical dysmorphological assessment to see if the genetic test results fit with the phenotype. 
+
+## **Next-Generation Phenotyping** 
+
+The process of phenotyping is a multidimensional and iterative undertaking which involves dysmorphology, clinical assessments, genetic and genomic testing, data integration, and careful validation. Increasingly, the meticulous phenotyping of patients may be insufficient to make a diagnosis without further assistance. In the case of the patient with facial dysmorphic features, which are not reminiscent
+
+<!-- p.109 -->
+
+![](../../figures/fig_p0110_01.jpg)
+
+
+**Fig. 5.13** The framework of facial recognition for genetic syndrome detection. _CLM,_ Constrained local model; _DS,_ Down syndrome; _HCLM,_ hierarchical CLM; _ICA,_ independent component analysis; _ROC,_ receiver operating characteristics. (From Zhao Q, Okada K, Rosenbaum K, et al. Digital facial dysmorphology for genetic screening: hierarchical constrained local model using ICA. _Med Image Anal_ . 2014;18: 699-710 [Fig. 2]. Also Fig. 110.9 in _Nelson Textbook of Pediatrics_ 22/e, p. 786.) 
+
+of any known disorder, dysmorphologist physicians may use AI-based tools for **next-generation phenotyping (NGP)** . 
+
+Machine learning and computer vision have rapidly developed, allowing these NGP tools to analyze facial photographs of patients with dysmorphic features (Fig. 5.13) and not only make an NGP assessment of which syndromes are the likely diagnosis based on the analysis, but also, as is the case with GestaltMatcher, to match patients with novel syndromes. 
+
+In the field of NGP, the use of the term _dysmorphic_ is based on probability distributions, which refer to complex shapes and structures that can be learned by humans but also by artificial neural networks by means of statistical inference. For many one-dimensional features that can be measured and are normally distributed in the human population, such as height, there are adjectives to refer to outliers (e.g., a person is _tall_ or _short_ ). In a dysmorphology context, prefixes such as _hypo_ , _hyper_ , _micro_ , and _macro_ are often used to indicate abnormal measurements (hypotelorism, hypertelorism, microcephaly, and macrocephaly). The more complex a form becomes, the more likely the abnormality will be described by a list of abnormal features, or simply as a _characteristic gestalt._ 
+
+For a machine to _learn_ a disorder or phenotype, there are several approaches or algorithms to do so and they differ 
+
+depending on the input data. Algorithms can work with text or images, and both have specific challenges. For instance, in **brachydactyly type E (BDE)** , the major clinical finding is shortening of the third, fourth, and fifth metacarpals. This would be a combination of the abnormality in three separate structures. In BDE, for example, it is crucial to know whether _only_ metacarpals three to five are shortened or whether metacarpals one and two are also involved. Text-based NGP relies on expert knowledge with respect to the encoding such as in HPO terminology, and operating procedures with respect to reporting. It might be likely to report a brachydactyly of the first and second metacarpal if it is present in all metacarpals. For findings that might require an additional examination, missing information is more likely, complicating this kind of NGP’s ability to accurately assess the information. Algorithms as well as physicians who work with clinical notes need to consider this uncertainty. In fact, during the diagnostic process, often additional information (from molecular testing) becomes available which requires **re-phenotyping** . 
+
+NGP on portraits is the most advanced due to the availability of photos from affected and unaffected individuals. Anything that would be described in OMIM as a distinctive “syndromic” face could be recognized by NGP tools, such as GestaltMatcher, with human expert-level accuracy, while small
+
+<!-- p.110 -->
+
+features, such as long eyelashes, or epicanthal folds, may not yet be individually assessed by the tool. What GestaltMatcher and similar AIs do is learn an abstract representation of the phenotype. At the core, humans and machines perform conceptually very similar tasks with their neural networks: A human dysmorphologist might refer to a facial gestalt as having a recognizable pattern, and for an AI that might simply mean that the encodings of those photographs are close to each other in the latent feature space (in the literature also sometimes referred to as the clinical face phenotype space [CFPS]). 
+
+NGP can also be applied in the delineation of novel disease phenotypes, or the characterization of significant syndromic similarities. This task is also referred to as the “lumper and splitter” problem, and in statistical terms it is related to clustering analysis. If the positions of portraits of individuals with disease-causing variants in a certain gene are located close to each other in the clinical face phenotype space (CFPS) and can be separated from other data points, they form a distinct cluster, because they share a characteristic facial gestalt. If that area or region in the CFPS is not populated yet by other data points, then a new phenotype can be delineated. If there are already other entries with a molecular cause in another gene, then lumping can be considered and the phenotype can be called genetically heterogeneous. If imaging data of patients with pathogenic variants in the same gene form more than one cluster, this could indicate pleiotropy perhaps due to different molecular mechanisms and splitting should be considered. 
+
+# **Re-Phenotyping and Variant Classification** 
+
+The diagnostic process is iterative, and whether one starts with sequencing or phenotyping does not matter. Nextgeneration sequencing tests such as exome or genome may be inconclusive at first because many variants in known disease genes are of _unknown clinical significance_ at first sight and will only be able to be classified as (likely) pathogenic if the phenotype matches that of _other_ patients with 
+
+proven pathogenic variants in that gene. The more specific, distinct, or characteristic a phenotype is, the more evidence can be attributed to the similarity. While microcephaly or short stature are usually only considered to be supportive for a certain diagnosis, the typical phenotypic appearance of Kabuki syndrome and/or a high gestalt score can be indicative of this disease. 
+
+# **Bibliography** 
+
+- Aase JM. _Diagnostic Dysmorphology_ . New York: Plenum Medical Book Company; 1990. 
+
+- Bennett RL, French KS, Resta RG, et al. Standardized human pedigree nomenclature: update and assessment of the recommendations of the National Society of Genetic Counselors. _J Genet Couns_ . 2008;17:424-433. 
+
+- Erickson RP, Wynshaw-Boris AJ. _Epstein’s Inborn Errors of Development_ . 3rd ed. New York: Oxford University Press; 2016. 
+
+- Firth HV, Hurst JA. _Oxford Desk Reference Clinical Genetics and Genomics_ . 2nd ed. Oxford: Oxford University Press; 2017. 
+
+- Gripp KW, Slavotinek AM, Hall JG, Allanson JE. _Handbook of Physical Measurements_ . 3rd ed. New York: Oxford University Press; 2013. 
+
+- Hennekam RCM, Krantz ID, Allanson JE. _Gorlin’s Syndromes of the Head and Neck_ . 4th ed. New York: Oxford University Press; 2010. 
+
+- Hsieh TC, Bar-Haim A, Moosa S, et al. GestaltMatcher facilitates rare disease matching using facial phenotype descriptors. _Nat Genet_ . 2022;54(3):349-357. 
+
+- Jones KL, Jones MC, Del Campo M. _Smith’s Recognizable Patterns of Human Malformation_ . 8th ed. Philadelphia: Elsevier; 2021. 
+
+- Moore KL, Persaud TVN, Torchia MG. _The Developing Human: Clinically Orientated Embryology_ . 10th ed. Philadelphia: Elsevier; 2015. 
+
+- Rauen KA. The RASopathies. _Annu Rev Genomics Hum Genet_ . 2013; 14:355-369. 
+
+- Stevenson RE, Hall JG, Everman DB, Solomon BD. _Human Malformations and Related Anomalies_ . 3rd ed. New York: Oxford University Press; 2016.
+
+<!-- p.111 -->

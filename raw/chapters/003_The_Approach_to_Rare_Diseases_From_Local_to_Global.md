@@ -1,0 +1,529 @@
+
+<!-- p.62 -->
+
+# 3 The Approach to Rare Diseases From Local to Global 
+
+**DAVID ADAMS, GARETH BAYNAM, MARIELA LARRANDABURU, HELEN MALHERBE, CARMENCITA D. PADILLA, FRANCESC PALAU** 
+
+## **An Overview of Rare Diseases** 
+
+Rare diseases (RDs) are a global healthcare priority and a challenge for health professionals, scientific researchers, affected individuals, and their families. Despite highly diverse clinical findings, pathophysiologies, and prognoses, RDs share many common features. The majority (80%) result from genetic causes, individually affect a limited number of people, and are chronic and frequently disabling. Additionally, most RDs onset in childhood (up to 70%), result in high morbidity and mortality, and represent the largest proportion of cause-of-death in children in high-income countries. Therapeutic resources for RDs are generally limited. In the United States, the Rare Diseases Act of 2002 defines a rare disease as one that affects fewer than 200,000 individuals. The European Union establishes that a disorder or health condition can be labeled as a rare disease if the number of people affected is fewer than 5 per 10,000; prevalence rates that define a disorder as rare vary among other countries and world regions, with the global prevalence threshold averaging 4 per 10,000 individuals (Fig. 3.1). In 2022, Rare Diseases International (RDI), working with a global panel of experts and collaborating with the World Health Organization (WHO) International Classification of Diseases (ICD), developed an internationally endorsed _Operational Description of Rare Diseases:_ A rare disease is a medical condition with a specific pattern of clinical signs, symptoms, and findings that affects fewer than or equal to 1 in 2000 persons living in any WHOdefined region of the world. Rare diseases include but are not limited to rare genetic diseases. They can also include rare cancers, rare infectious diseases, rare poisonings, rare immune-related diseases, rare idiopathic diseases, and rare undetermined conditions. 
+
+Some rare diseases are relatively common, such as cystic fibrosis or spinal muscular atrophy, but the majority are **ultra-rare** , affecting fewer than 1 in 50,000 individuals. This concept of rarity raises a social and health dilemma 
+
+termed the **rarity paradox** : each individual disease is infrequent but the collective group of _people living with a rare disease (PLWRD)_ is large. In aggregate, it is estimated that there are over 300 million people in the world affected by rare disorders. 
+
+Broader social awareness of the challenges faced by PLWRD has progressively increased over time, largely due to the patient’s own advocacy and to the actions of rare disease organizations representing affected individuals and their families. Common and cross-cutting themes that have drawn attention include difficulty in obtaining an early and accurate diagnosis (i.e., the **diagnostic odyssey** , which lasts more than 5 years on average); uncertainty in genetic interpretations of gene variants of unknown significance (VUS); in RD with a specific genetic abnormality a paucity of specific therapies to correct the gene deficit including gene therapies; the lack of multidisciplinary, coordinated, and integrated intersectoral care (for example, among health, education, and social services); the shortage of specific interventions for mental health and well-being; the lack of information about rare diseases; the need for support at the time of diagnosis; personal and family-centered care; and the availability of research on the pathophysiology of and therapies for rare diseases. 
+
+### **Public Health** 
+
+Labeling an individual disorder or group of disorders (e.g., Friedreich ataxia or inherited cerebellar ataxias) as rare collectively elevates them to a public health priority. Scleroderma or Charcot-Marie-Tooth disease, even with prevalence at the higher end of being categorized as rare diseases (at 4.2 and 2.8 per 10,000 individuals, respectively), are not necessarily considered sizeable individual challenges to public health. However, the collective impact of RDs (for example, 1 in 17 individuals in the Middle East and North African region lives with a rare disease) necessitates a public health-focused scientific and healthcare
+
+<!-- p.63 -->
+
+![](../../figures/fig_p0064_01.jpg)
+
+
+**Fig. 3.1** Rare disease prevalence per 100,000 across countries and jurisdictions. The size of the circles corresponds to the average prevalence threshold (number of cases per 100,000 people). _Black and white circles_ correspond to jurisdictions in which the average prevalence in definitions of rare disease is lower or higher, respectively, than the average across all jurisdictions of 40 cases/100,000 people. Map lines delineate study areas and do not necessarily depict accepted national boundaries. (From Richter T, Nestler-Parr S, Babela R, et al: Rare disease terminology and definitions—a systematic global review: Report of the ISPOR rare disease special interest group. Value Health 2015;18:906-914 [Fig. 1, p. 911].) 
+
+approach. To focus public health approaches, reliable data on the prevalence, epidemiology, and individual and collective burden of RDs in the population must be established. 
+
+individual to another, which guides the clinical and preventive actions taken by health services. In the case of Mendelian diseases, the profiles may vary within the same family. 
+
+### **Natural History: Diversity and Heterogeneity** 
+
+Natural history refers to the causes of the disease _(etiology)_ , the age of onset and temporal development of the disease _(chronobiology)_ , the clinical expression _(semiology and pathophysiology)_ , and the degree of severity _(seriousness and prognosis)_ . In the case of RDs, natural histories are diverse. The nature of the pathological processes varies from diseases that affect a single organ system to multisystem diseases; in the case of retinitis pigmentosa and the group of retinal dystrophies, the affected organ is the eye and individuals suffer from a sensory disorder. In muscular dystrophies, skeletal muscle is the affected structure, and individuals suffer from locomotor dysfunction. On the other hand, in the case of metabolic conditions such as Gaucher disease, the disorder affects different organ systems including the hematopoietic, nervous, and skeletal systems. Similarly, systemic diseases like lupus erythematosus or scleroderma involve several organs. The heterogeneity of these diseases becomes apparent in their diverse natural history profiles, which vary from one disease to another and from one 
+
+### **Comprehensive and Multidisciplinary Care** 
+
+A rare disease is often chronic and debilitating. In many cases, affected individuals require care that goes beyond that offered by a single specialized healthcare provider. This care must be considered in the context of global management guidelines, involving pediatric or family medicine primary care providers, the medical specialty or specialties that understand specialty-specific clinical problems, nursing, physiotherapy, social services, and psychological support. For many affected individuals, especially those with multiple impacted organs or systems, comprehensive care requires the reconciliation of multiple perspectives, incorporating different areas of expertise into a single coordination framework of multidisciplinary care. 
+
+### **Coordinated and Integrated Health and Social Care** 
+
+Many rare diseases involve a high degree of dependence upon the healthcare system and entail significant social,
+
+<!-- p.64 -->
+
+![](../../figures/fig_p0065_01.jpg)
+
+
+health, and economic burdens. Although this challenge is not unique to rare diseases, there are certain aspects of rare diseases that differentiate them, largely due to the notion that the first symptoms of many of these diseases occur in childhood or adolescence, resulting in a lifelong personal, family, and social burden. Consequently, PLWRD have specific healthcare, social, educational, and occupational needs over a long period, which requires constant, ongoing provision of planned, coordinated long-term action and management. 
+
+### **Genetics, Inheritance, and Risk of Recurrence** 
+
+Up to 80% of rare diseases are genetic, and most follow either Mendelian or mitochondrial monogenic inheritance, meaning that the underlying cause is a pathogenic variant in autosomal dominant, X-linked, or mitochondrial cases and biallelic pathogenic variants in autosomal recessive cases. Increasing knowledge of genetic disease, including genetic variability, gene pathways, and relationships between genotype and phenotype, adds to the understanding of the epidemiology of disease variants in specific populations. The risk of recurrence of single-gene, genomic (i.e., microdeletion and microduplication), and chromosomal disorders makes genetic counseling an essential component of rare disease healthcare for both affected individuals and their families. 
+
+### **Geographical Dispersion** 
+
+The random distribution of PLWRD across broad geographic regions is an intrinsic component of rare diseases and means that new cases can occur anywhere, whether in an urban or rural environment, without being concentrated in any specific area. Exceptions to this rule occur in circumstances where the isolation of a population has caused a bottleneck and **founder effect** of disease-causing pathogenic variants, with a consequent increase in the carrier rate in that population, or the presence of a population cluster due to environmental problems (e.g., Lyme disease, heavy metals). This geographical dispersion makes it difficult to implement specific actions aimed at these diseases, especially in resourcelimited environments. 
+
+### **Treatment Opportunities and Therapy Development** 
+
+Therapeutic options for RDs are few and many are ineffective. Research and development of new therapies has historically required and continues to require incentivization. This incentivization is the objective of orphan drug policies that provide dedicated resource support when a drug, gene therapy, or cell therapy is specifically intended for the treatment of a RD. Obtaining sufficient evidence on the safety and efficacy of these therapies in PLWRD is difficult, especially when many affected individuals are children. The design of clinical trials is further challenged by the limited availability and interest of clinical researchers, 
+
+financing capacity, and the recruitment of patients with the correct diagnosis who meet the inclusion criteria. 
+
+### **Global Health** 
+
+While low-and middle-income countries have traditionally focused most of their public health efforts on infectious diseases and poor nutrition, rare disease care is increasingly identified as a priority for all countries and populations, regardless of national economic status. Incorporating rare disease care into universal healthcare policies and aligning local interventions with global actions requires significant collaboration including the improvement of national and regional health systems and social structures. The International Rare Diseases Research Consortium (IRDiRC) was established in 2011 and has identified three major goals to achieve by 2027: (i) to provide all individuals with a suspected RD a diagnosis within 1 year; (ii) to approve a thousand new therapies for RDs; and (iii) to develop new methodologies for assessing the impact of RD diagnoses and therapies. In December 2021, the General Assembly of the United Nations (UN) Member States adopted the resolution proposed by EURORDIS-Rare Diseases Europe, Rare Disease International (RDI), and the Committee on Non-Governmental Organizations for RDs, which aims to promote greater integration of RDs in the Sustainable Development Goals of the 2030 Agenda. These global actions are important milestones in achieving greater awareness and recognition of RDs. Along with global actions, additional disease delineation and coding efforts, such as the ORPHAcode, help facilitate proper diagnoses and treatments. 
+
+## **Rare Disease Diagnostics** 
+
+Achieving a high-confidence diagnosis for an individual with a rare disease is often delayed relative to symptom onset, with an average delay of 6 to 8 years. The causes of diagnostic delays for PLWRD are multifactorial. 
+
+Medical training prioritizes efficient recognition of disorders that are common and treatable over diseases that may not be seen in the lifetime of a provider, exemplifying the common saying, adapted from an aphorism coined by Dr. Theodore Woodward, “When you hear hoofbeats, think horses, not zebras.” The diagnosis of a RD may require esoteric testing that is not widely available. Expertise related to a RD may be rare; many families report that they are more expert in their disorder than most or all their medical providers. In the age of clinical genomic medicine, the number of newly defined diseases has increased dramatically, often outpacing the ability of any one individual clinician to stay updated on the latest advances. In addition, diagnosing diseases by genomic testing rather than by phenotype recognition has expanded the phenotypic scope for many disorders, broadening the understanding of how those disorders typically present and are diagnosed. Further inequalities arise from economic, geographic, and other social factors.
+
+<!-- p.65 -->
+
+All these factors pose significant barriers to rapid, definitive RD diagnosis. 
+
+Patients and families may spend many years in an undiagnosed state, either because of diagnostic delay for a known rare disorder or the presence of a yet-to-be-described medical condition. This undiagnosed state presents affected individuals with additional challenges. Well-meaning providers may offer a protracted set of testing options, creating a seemingly unending cycle of potentially expensive, invasive, and inconclusive interventions. Similarly, symptomatic management plans may not be directed at underlying pathophysiology and may introduce iatrogenic symptoms, confounding the disease phenotype. Families and individuals frequently report uncomfortable encounters with both medical providers and other social contacts when they are unable to name a reason for their or their child’s medical problems. Not having a diagnosis may impede the characterization of an accurate prognosis or identification of a best treatment. Finally, both rare and undiagnosed diseases leave many affected individuals feeling isolated, both in terms of their disease-related experience and the curtailment of social contacts by disease management obligations, reducing their quality of life. 
+
+## **Mental Health and Well-Being, Stigma, and Considerations in Indigenous and Other Culturally and Linguistically Diverse Populations** 
+
+People living with a RD have unique risk factors and vulnerabilities that compound to adversely affect mental health and well-being. At an individual level, poor mental health is a comorbidity specifically associated with many RDs; at a population level, increased psychological distress is associated with the rare disease journey across all stages of life. PLWRD and their families additionally are exposed to social inequalities and discrimination at disproportionate rates. 
+
+While RDs are medically heterogeneous, their rarity results in numerous common stressors, including long diagnostic journeys, limited access to and availability of treatments, uncoordinated care pathways, as well as the challenges of living with disabilities, limited work opportunities, unemployment and underemployment, isolation, and social stigma. Most rare diseases onset in childhood and these stressors are often interdependent and accumulate over the lifespan. Up to 85% of PLWRD indicate that their condition impacts multiple aspects of their everyday life and their physical and mental health; PLWRD report three times higher levels of unhappiness and depression than the general population. 
+
+Additionally, the lack of focus on the mental health and well-being of PLWRD contributes to a hidden mental health burden that is often overshadowed by complex physical health challenges. This further marginalizes and excludes people with RD across all facets of their life, including health, education, and community integration. 
+
+The RD community has identified as an absolute priority the need to look beyond the physical symptoms of a RD and take concrete action to address psychological impact. 
+
+**Stigma** , as seminally defined in the work of 20th century sociologist Erving Goffman, is a discrediting attribute that distinguishes an individual from others by reducing them “from a whole and usual person to a tainted, discounted one.” Stigma is a critical health and social barrier that is identified as an explicit challenge by up to 1 in 3 PLWRD, equating to more than 100 million worldwide, or approximately 3 times the global population living with HIV. People with RDs experience _structurally enacted stigma_ in the forms of healthcare stigma, education or workplace stigma, and an overall lack of accessibility. They also face _interpersonally enacted_ stigma, including insufficient social support, a lack of understanding from others, and capitalist norms of productivity and self-sufficiency. PLWRD experience additional stigma related to shame and the pressure to pass as _able-bodied_ . Stigma generates inequality, marginalization, discrimination, and exclusion that impair access to health, social, and community services. Stigma frequently prevents the start of or progress through diagnostic, therapeutic, and care odysseys. Stigma’s physical, mental, and social consequences are likely a key contributor to the lower quality of life reported by PLWRD compared to those with more common diseases. Until destigmatization is globally prioritized and comprehensively reviewed through an international lens, and the pathways for implementing culturally safe and responsive mechanisms are identified and acted upon, the global goals for diagnosis, care, and social inclusion cannot be met. 
+
+Indigenous and other culturally and linguistically diverse populations frequently have challenged access to RD diagnosis and care services due to decreased referral rates, referral bias, fewer and more geographically remote care locations, higher care costs, lower availability of resources and care personnel, and lack of cultural appropriateness. This cultural appropriateness includes education materials that resonate with Indigenous narratives and that incorporate Indigenous languages, meeting places and clinical processes that accommodate familial and community participation, consent processes adaptable to family structures, involvement of culturally appropriate support and liaison persons for addressing racism and discrimination, cultural competency training among RD healthcare staff, and improved capacity to care for rare diseases in primary care settings. 
+
+## **From Local to Global** 
+
+While RDs are not included as a specific health topic on the WHO agenda, there is an evolving WHO Global Network for Rare Diseases; this effort and other global initiatives for RDs are presented in Table 3.1. RDI advocates for global recognition of RDs as a public health concern within the WHO Universal Health Coverage agenda. The UN, led by the Non-Governmental Organization (NGO) Committee
+
+<!-- p.66 -->
+
+
+#### **TABLE 3.1** Global and M f ultinational Coordinated Efforts for Rare Diseases
+
+|Action|Concept|URL|
+|---|---|---|
+|Rare Diseases<br>International<br>(RDI)|RDI promotes international initiatives such as the Global<br>Network for Rare Disease, supporting the rare disease<br>community in developing a person-centered global network<br>of care and expertise for all people living with a rare disease,<br>and the adoption of 12 main recommendations to be<br>addressed at international level as a matter of priority.|https://www.rarediseasesinternational.<br>org/collaborative-global-network/.<br>https://www.<br>rarediseasesinternational.org/joint-<br>declaration/<br>https://www.rarediseasesinternational.<br>org/description-for-rd/|
+|The United Nations|The NGO Committee for Rare Diseases is a substantive<br>committee established under the umbrella of the Conference<br>of NGOs (nongovernmental organizations) in Consultative<br>Relationship with the United Nations (CoNGO). The goal is to<br>promote rare diseases as a priority in global health, research,<br>and social and medical care as part of the UN 2030 Agenda:<br>the Sustainable Development Goals (SDGs).|http://download2.eurordis.org.<br>s3.amazonaws.com/<br>ngocommittee/ngocommittee_<br>report.pdf|
+|World Health<br>Organization,<br>International<br>Classification of<br>Diseases—ICD11|ICD-11 includes some 5,500 rare diseases and their synonyms.<br>The rare diseases are regularly updated, in close collaboration<br>and conceptual identity with Orphanet. The work is also<br>linked to the WHO Collaborative Global Network for Rare<br>Diseases.|https://www.who.int/standards/<br>classifications/frequently-asked-<br>questions/rare-diseases<br>https://www.who.int/standards/<br>classifications/classification-of-<br>diseases|
+|The International<br>Rare Diseases<br>Research<br>Consortium|An international action on research to enable all people living<br>with a rare disease to receive accurate diagnosis, care, and<br>therapy available within 1 year of receiving medical attention.|https://irdirc.org/|
+|Undiagnosed<br>Diseases<br>Network<br>International<br>(UDNI)|An international network focused on addressing undiagnosed<br>rare diseases as conditions that elude diagnosis.|https://www.udninternational.org/|
+
+
+for Rare Diseases, RDI, and EURORDIS-Rare Diseases Europe, has placed a statement on RDs on its Sustainable Development Goals 2030 Agenda; the UN Resolution of Addressing the Challenges of Persons and Families with Rare Diseases was unanimously adopted by all UN Member States. As a global patient movement, RDI has adopted 12 recommendations as a matter of priority, which include issues related to RD visibility, patient empowerment, universal access to healthcare, research, networking of patient registries, and cooperation in policy formulation at the international level. However, health, social, and economic structures differ across various countries and geographic regions around the world; addressing these specific regional barriers and moving from fragmented local to unified global care continues to be a challenge. 
+
+### **Canada and the United States** 
+
+Canada and the United States are large, high-income countries known for extensive investment in medical research and healthcare. Canada is the second largest country, covering approximately 10 million square kilometers. Most of the population is concentrated in a few areas in the 
+
+southern half of the country. The United States is the fourth largest country, covering 9.8 million square kilometers. Both countries have diverse populations, socioeconomic settings, and healthcare facility concentrations. 
+
+### **_Demographics and Epidemiology_** 
+
+The US 2023 population is estimated at 340 million, having grown from 331 million in 2020 (population growth rate 0.7%). The birth rate is 12.21 births/1,000 (149th in the world). The population is 60% White, 12% Black or African American, 10% “mixed,” and 6% Asian. Hispanic populations are inconsistently defined, but comprise approximately 18% of the population. Indigenous populations make up less than 2%. The median age is 38 years. The mean maternal age at first birth is 27 years. Maternal mortality is 32.9 deaths/100,000 live births. The infant mortality rate is 5.6 deaths/1,000 live births. Land use is 45% agricultural. Health expenditure is 18.8% of GDP with 2.6 physicians/1,000 population. 
+
+Canada’s population is approximately 39 million. Self-described ethnicities include approximately 80% Old Canadian and/or European. Other populations include First Nations (1.7%) and Indian (3.7%). The population growth rate is 0.7%. The country has two official languages,
+
+<!-- p.67 -->
+
+English and French. The median age is 41.8 years. The mean maternal age at first birth is 29 years. Maternal mortality is 11/100,000 live births, and infant mortality is 4.4 deaths/1,000 live births. Health expenditure is 12.9% of GDP with 2.4 physicians/1,000 population. 
+
+Both countries have large, relatively stable economies. Canada’s real GDP is 1.8 trillion; the US’s real GDP is 21 trillion. 
+
+### **_The Rare Disease Landscape in Canada and the United States_** 
+
+For both Canada and the United States, the past two decades have seen a rapid expansion in RD advocacy groups. Groups range in size, resources, and focus. In addition to disease-specific groups, broader networks have emerged. Broad networks may encompass related diseases or provide resources of general utility to many disease-specific groups. Example initiatives undertaken by advocacy groups include the generation of formal registries, fundraising and research support, direct support to families, political advocacy, testing referrals, and the provision of institutional review board functionality for formal studies. 
+
+The United States passed the **Orphan Drug Act** in 1983, creating incentives for RD pharmacologic therapy development. The **Rare Disease Act of 2002** established a definition of rarity (<200,000 cases in the United States), established a RD office at the National Institutes of Health, and provided funding for a research network for selected rare diseases (Rare Diseases Clinical Research Network or RDCRN). Examples include the Genetic Alliance (https://geneticalliance.org/), the Rare Epilepsy Network (https://www.rareepilepsynetwork.org/), the National Organization for Rare Diseases (https://rarediseases.org/), the Undiagnosed Diseases Network (https://undiagnosed.hms.harvard.edu/), and Global Genes (https://global genes.org/). These groups foster communication and infrastructure development among the RD community. Many have international components and see their scope as larger than just the US population. 
+
+Canada published a National Strategy for Rare Diseases in March of 2022. It includes 1.5 billion dollars of funding over three years and goals focused on patient outcomes and investment in innovation. Exemplar RD organizations in Canada include the Canadian Organization for Rare Disorder (CORD, https://www.raredisorders.ca/) and Care for Rare (https://www.care4rare.ca/). 
+
+### **_Healthcare Coverage, Infrastructure, and Services for Rare Diseases_** 
+
+Healthcare provision in the United States consists of a diverse collection of institutions, funders, and settings. Most day-to-day medical care is provided by private or nonprofit healthcare organizations that own systems of regional hospitals, laboratories, and clinics. These organizations may be associated with academic tertiary healthcare centers. Many large cities have public hospitals with some capacity to treat under-and uninsured individuals. Payment for services is either by private insurance, government 
+
+subsidy, or self-payment. Government-provided healthcare funding is provided to certain segments of the population, such as low-income or elderly individuals. Available programs and funding levels vary between US states and are subject to political forces. 
+
+In Canada, 70% of healthcare is provided by 10 provincial governments, providing a healthcare coverage safety net. 
+
+Both Canada and the United States have broad primary prevention initiatives through routine primary medical care. Examples include hazardous product regulation, safety campaigns, and childhood immunizations. Similarly, secondary prevention initiatives include pregnancy screening, childhood developmental screening, cancer screening, and policy infrastructure for workplace accommodations. Cultural, political, resource-related, socioeconomic, and other factors prevent universal deployment and uptake. An example in the United States is vaccine hesitancy, a term used to describe the refusal of available vaccinations for a variety of reasons. 
+
+### **_Newborn Screening for Rare Diseases_** 
+
+Both the United States and Canada have ceded decisions about newborn screening (NBS) to individual states and provinces, respectively. Both countries have a complex process for adding new tests, with the “Recommended Uniform Screening Panel” in the United States serving as an example (https://www.hrsa.gov/advisory-committees/heritabledisorders/rusp). Regional population parameters, politics, and resource differences have resulted in a patchwork of offerings among locations. In general, both countries universally offer a core set of testing including metabolic disorders detected by mass spectrometry. Significant differences exist for other conditions—for example, lysosomal storage diseases. Both countries have established referral networks for follow-up of positive NBS results. Several pilot studies and a rapidly expanding fund of medical knowledge have explored the feasibility of genome-wide sequencing as an NBS methodology; however, this approach has not yet been implemented as standard practice. 
+
+### **_Challenges_** 
+
+Despite extensive investment in research and healthcare, barriers to RD diagnosis and treatment in World Bank high-income countries such as Canada and the United States are similar in many ways to barriers in other lowerincome countries. General health disparities related to income, race, socioeconomic status, and other factors are amplified for PLWRD. Necessary expertise is often still rare and concentrated in large urban environments. 
+
+In the United States, the combination of private and public healthcare reimbursement systems creates inequities in which individuals with financial and educational resources face fewer barriers navigating the healthcare system. One in 10 individuals in the United States is uninsured. In addition to insurance coverage status, health disparities in the United States are associated with race, education, education access, and other social determinants. In Canada, there
+
+<!-- p.68 -->
+
+![](../../figures/fig_p0069_01.jpg)
+
+
+are substantial challenges related to population aging, access to medical care from remote locations, cultural and linguistic diversity, and navigation of the unique rights of Canada’s Indigenous populations. 
+
+Both the United States and Canada have extensive healthcare delivery expertise and resources. Despite this expertise, both continue to face challenging problems related to equitable access and delivery of these resources. 
+
+### **Latin America and the Caribbean** 
+
+Latin America and the Caribbean are highly diverse, not just with respect to population genetics, but also geographically, demographically, ethnically, and socioculturally. This heterogeneity explains in part the numerous barriers PLWRD there face with respect to diagnosis, treatment, follow-up, access to medical care, social support, and education. 
+
+### **_Demographics and Epidemiology_** 
+
+In 2022, the maternal mortality rate in Latin America and the Caribbean was 68/100,000 live births, and the infant mortality was 15.5/1,000 live births. Of the total number of PLWRD worldwide, less than 15% are Latin Americans. Among these, 13 million live in Brazil; between 7.5 and 10 million in Mexico; approximately 3 million in Colombia; a similar figure in Argentina; between 1 and 1.5 million in Chile, Peru, Bolivia, Paraguay, and Venezuela; and up to 175,000 in Uruguay. Thus, five countries comprise twothirds of those affected by rare diseases in this region (Brazil, Mexico, Colombia, Peru, and Argentina). 
+
+There is no consensus definition for rarity in Latin America. Colombia defines a RD as affecting fewer than 1 in every 5,000 people, while Argentina, Chile, Mexico, Panama, and Uruguay adopt the European Union definition of fewer than 5 in every 10,000 people. Brazil follows the WHO definition of 1 in 1,500 (65 in 100,000). Bolivia, Ecuador, Paraguay, Peru, and Venezuela lack a specific definition. These differences impact the number of identified affected individuals and create challenges in estimates, policies, and resources for research. 
+
+### **_Health Coverage_** 
+
+Healthcare systems in Latin America are fragmented, with variations in rights, coverage, and organization among population groups. There are public services for the poor, social security for formal employees (sometimes including families), and private services. Inefficient coordination between these sectors hinders universal health coverage. This fragmentation is also reflected in care for RDs, where some countries with specific laws, such as Colombia, Brazil, Argentina, and Chile, have genetic and genomic diagnoses and treatments available for some rare conditions. 
+
+### **_Genetic Services_** 
+
+Of the 15 countries in Latin America and the Caribbean, only 8 have medical genetics services. The current workforce in Latin America is approximately 1,100 consulting 
+
+clinical geneticists; only one country (Nicaragua) offers a master’s degree in genetic counseling. The British Royal College of Physicians estimates that 0.75 full-time equivalent consultants are needed for every 250,000 inhabitants. In this sense, most Latin American countries, except for Peru and Uruguay, have an insufficient number of these specialists to care for their populations. 
+
+### **_Capacity in Medical Genetics and Genomics_** 
+
+Eight countries offer some form of professional training in medical genetics and genomics within their own countries, and 6 offer a residency program in medical genetics. The role of genetic counselor is present only in Nicaragua. 
+
+### **_Newborn Screening for Rare Diseases_** 
+
+Tandem mass spectrometry technology is implemented at national level in only 2 countries; however, testing programs are expanding. Congenital hypothyroidism is the most frequently tested pathology, followed by phenylketonuria, congenital adrenal hyperplasia, cystic fibrosis, and galactosemia. 
+
+### **_Local Legislation and International Regulatory Framework_** 
+
+Only 6 Latin American countries have specific laws for RDs (Colombia, 2010; Peru and Argentina, 2011; Mexico, 2012; Brazil, 2014; Chile, 2015). These laws concern the rights to diagnosis, treatment, monitoring, and provision of medical care. However, many of these laws face numerous barriers that prevent their broad enforcement, development, and practical implementation. In addition, there are several UN and WHO resolutions or documents that, while lacking an enforcement mechanism, help leverage and generate funds that allow actions to be prioritized within the member states. 
+
+### **_Collaborative Agreements and Institutions_** 
+
+In 2013, ALIBER (the Spanish-language acronym for the Ibero-American Rare Diseases Alliance) was established, formalizing partnerships and coordination among RD institutions in Spain, Portugal, 11 Latin American countries, and 4 additional European countries. In 2019, a collaborative proposal from Spain, Brazil, and Qatar was presented to the UN, leading to the incorporation of “Leave No One Behind Living with a Rare Disease” in the UN Sustainable Development Goals 2030 Agenda. In 2021, a historic resolution was unanimously adopted by all 197 member states, addressing “Challenges faced by People Living with Rare Diseases and Their Families.” 
+
+An ALIBER study named ENSERioLATAM is designed to identify and address various aspects of RDs in Latin America. While there is some heterogeneity in data collection among different regions, ENSERioLATAM has provided a valuable baseline to understand the healthcare needs of PLWRD in Latin America. Various scientific societies have also been instrumental in raising awareness and offering specialized training in RDs in Latin America. Notably the Latin American Human Genetics Network
+
+<!-- p.69 -->
+
+(RELAGH) actively promotes education in human and medical genetics and genomics. Many of these institutions work in coordination with the larger RD advocacy movement. 
+
+### **Europe** 
+
+#### **_Demographics and Epidemiology_** 
+
+The European region includes the countries of Western and Central Europe, the Russian Federation, the Central Asian republics, the Caucasus republics, Turkey, Lebanon, and Israel, with approximately 750 million inhabitants. Most of these countries have high or upper-middle income and have a public healthcare model, with a national health system that offers care services to the entire population, although each country has specific differences in administration; in some countries private services may also be relevant. Healthcare coverage includes genetic diagnosis and a genomebased approach to define the cause of a RD, but coverage is variable. Most countries recognize medical genetics and clinical laboratory genetics as a health specialty and formal 
+
+training is offered as a university master’s degree for genetic counseling, with a European Board of Medical Genetics supporting educational development and implementation. 
+
+### **_The Rare Disease Landscape in Europe_** 
+
+The European Union (EU) of 27 member states has developed policies and actions on RDs for over 25 years. During this time, the EU and other countries of the region have created an ecosystem for RDs that has favored the bidirectional participation of different stakeholders, from the European Union to the member states and vice versa, generating national and regional plans and strategies. The EU has advocated for orphan drug designation by the Committee of Orphan Medicinal Products (COMP) of the European Medicines Agency (EMA), research and innovation programs in the field of RDs, and the participation of various research groups and the pharmaceutical and biotechnological industries in an interstate context. The participation of affected individuals and their organizations has been fundamental, leading to a high degree of empowerment (Table 3.2). 
+
+
+#### **TABLE 3.2** European a f nd Eastern Mediterranean Coordinated Efforts for Rare Dise f ases
+
+|Action|Concept|URL|
+|---|---|---|
+|Committee for<br>Orphan<br>Medicinal<br>Products<br>(COMP)|Established in 2000, COMP is the European Medicines Agency<br>committee responsible for recommending orphan designation of<br>medicines for rare diseases.|https://www.ema.europa.eu/en/<br>committees/committee-orphan-<br>medicinal-products-comp<br>https://www.ema.europa.eu/en/<br>human-regulatory/overview/<br>orphan-designation-overview|
+|European Union<br>(EU) National<br>Plans &<br>Strategies|A European Council recommendation to EU member states to<br>implement strategic plans for rare diseases to ensure that<br>patients have access to high-quality care, including diagnostics,<br>treatments, rehabilitation for those living with a rare disease,<br>and, if possible, effective orphan drugs.|https://health.ec.europa.eu/latest-<br>updates/national-plans-or-<br>strategies-rare-diseases-page-<br>updated-1970-01-01_en|
+|EURORDIS|Rare Diseases Europe is a nonprofit alliance of over 1,000 rare<br>disease patient organizations from 74 countries that work together<br>to improve the lives of people living with a rare disease, strengthen<br>the patient voice, and shape research, policies, and patient<br>services.|https://www.eurordis.org/|
+|European<br>Reference<br>Networks<br>(ERNs)|Virtual networks coordinating healthcare providers across Europe,<br>aimed to facilitate discussion on complex or rare diseases<br>requiring highly specialized treatment and concentrated<br>knowledge and resources.|https://health.ec.europa.eu/<br>european-reference-networks/<br>overview_en|
+|MENA<br>Organization for<br>Rare Diseases|MENA is the organization for rare diseases established to serve<br>and support people with rare diseases in the region of the<br>Middle East and North Africa (MENA).|https://www.menararediseases.<br>org|
+|Orphanet|Orphanet serves as a centralized database for resources and<br>knowledge on rare diseases so as to improve the diagnosis,<br>care, and treatment of patients with rare diseases. Orphanet also<br>maintains the Orphanet rare disease nomenclature (ORPHAcode).<br>Currently, over 6,000 disorders are associated with an<br>ORPHAcode.|https://www.orpha.net|
+|Rare 2030|The Rare 2030 Foresight Study, initiated by the European Parliament<br>and co-funded by the European Commission Pilot Project and<br>Preparatory Actions Programme, provided recommendations and<br>goals for rare disease-focused initiatives.|https://www.rare2030.eu/;http://<br>download2.eurordis.org/<br>rare2030/Rare2030_<br>recommendations.pdf|
+
+<!-- p.70 -->
+
+![](../../figures/fig_p0071_01.jpg)
+
+
+During this period there have been several significant milestones. In 1999, the Orphan Medicinal Product Regulation was approved. Between 2008 and 2011 the EU established a global community strategy to support member states in the diagnosis, treatment, and care of the 36 million EU citizens living with RDs, supported by national strategies (Table 3.2). The purpose was to improve the recognition and visibility of RDs, the promotion of research on these diseases, and the establishment of links between expert centers and professionals in different countries through the creation of European Reference Networks (ERNs) for 23 groups of rare and complex diseases and a network on pediatric transplantation. These networks are key in sharing knowledge and experience, and when necessary, identifying where patients should go when this experience cannot be made available to them locally. Directive 2011/24/EU, relating to the application of patient rights in cross-border healthcare, was approved in 2011, being of great importance for PLWRD while facilitating access to medical care for EU citizens and promoting cooperation between EU member states in the field of health. 
+
+The European Commission and its member states, with the participation of different stakeholders in rare diseases, has funded health projects such as Orphanet, a centralized database and information portal for RDs and orphan drugs. Orphanet includes detailed information on over 6,000 diseases, as well as services such as an encyclopedia for professionals in 9 languages and the national Orphanet websites of 31 countries in Europe and countries in other WHO regions and continents. 
+
+EURORDIS-Rare Diseases Europe is the European Alliance for Rare Diseases, a nonprofit alliance of over 1,000 rare disease patient organizations from 74 countries. As a lay patient organization, EURORDIS advocates from the perspective of PLWRD. Selected initiatives include the European Conference on Rare Diseases and Orphan Products (ECRD), a globally recognized patient-led RD policy event, as well as the Rare 2030 Foresight Study that seeks to define what future is wanted for PLWRD in Europe. The Rare 2030 Foresight Study has proposed 8 recommendations to be implemented by 2030: long-term integrated European and individual national strategic plans; earlier, faster, more accurate diagnosis; access to high-quality healthcare; integrated and person-centered care; partnership with patients; innovative and needs-led research and development; optimizing data for patient and societal benefit; and available, accessible and affordable treatments. 
+
+EURORDIS also supports relevant public health and clinical actions, such as newborn screening, favoring the incorporation of genome sequencing to expand the early detection of more actionable genetic RDs. 
+
+### **_Newborn Screening for Rare Diseases_** 
+
+Currently, NBS programs have different implementations depending on the country. NBS for metabolic, endocrine, hematologic, immunologic, and neurologic disorders is implemented in most European countries, though with large differences between countries and at a regional level within countries. 
+
+### **Middle East and North African Countries** 
+
+#### **_Demographics and Epidemiology_** 
+
+The demic complexity of the Mediterranean Basin, an important intersection between three continents where different people and cultures have met over time, has shaped the genetic variability of Mediterranean populations. Migration, together with cultural exchanges and environmental factors, gave rise to present-day population genomic patterns. The WHO Eastern Mediterranean region comprises 21 member states and the Palestinian Authority, with a population of nearly 745 million people. With one affected person for every 17 individuals, it is estimated that there are approximately 43 million PLWRD in the region. 
+
+### **_The Rare Disease Landscape in the Middle East and North African (MENA) Countries_** 
+
+In the MENA countries, RDs collectively impose a significant burden on healthcare systems, especially in low and medium-income or developing countries, where the lack of specialized care centers and limited access to genomic services contribute to longer diagnostic odysseys, resulting in missed opportunities for personalized management plans. Establishing clinical genomics and genetic counseling departments and facilities within tertiary reference hospitals is a major issue still to be addressed. 
+
+The MENA region has one of the highest documented prevalence rates of some genetic diseases in the world. Many factors may contribute to the recurrence of monogenic pathogenic trait expression, including founder genetic variants that arise in a single ancestral individual and diffuse through generations in isolated communities. Some populations within these countries experience relatively higher rates of consanguinity and endogamy that favor an increased prevalence of recessive genetic disorders. 
+
+The structure and focus of healthcare delivery within MENA countries has changed over the last decade, with improved management and treatment of common diseases leading to increased awareness of genetic RDs and identification of RDs as a public health priority. However, common diseases with a more direct and greater population burden often remain prioritized. Economic variability among different countries has also curtailed the development of a unified approach to RDs within this region: in the Arabian Peninsula, efforts to improve the diagnostic capacity for genetic diseases has increased substantially, while efforts in the countries of North Africa have not been as robust. While there are only a limited number of broad associations dedicated to RDs in the region, the MENA Organization for Rare Diseases is dedicated to advancing research, raising awareness, and providing support for individuals with RDs by organizing annual meetings in the region. 
+
+### **Sub-Saharan Africa** 
+
+The Sub-Saharan Africa (SSA) region covers 23.9 million square kilometers and is divided into four sub-regions,
+
+<!-- p.71 -->
+
+West, East, Central, and Southern Africa. SSA includes 32 countries and is home to numerous ethnic groups and over 2,000 languages. 
+
+### **_Demographics and Epidemiology_** 
+
+The population of SSA is 1.21 billion and will double by 2050, when it is expected to account for 50% of the global population. The combined life expectancy at birth for the region is 59.7 years; age distribution skews younger, with only 3% of the population aged over 65 years. The regional fertility rate is 4.6 births per female. Rapid population growth in SSA has led many people to move from rural to urban settings, and the rapidity of this demographic change has resulted in specific challenges to health and well-being. 
+
+The region has been severely affected by the HIV/AIDS epidemic, with an adult HIV prevalence rate of 9%, compared to an overall worldwide adult HIV prevalence rate of 1.2%. An estimated 43% of global newborn deaths occur in the region, and a child born in SSA is 20 times more likely to die under 5 years of age than a child born in a highincome country. As of 2021, the regional under-5 mortality rate is 73 per 1,000 live births; infant mortality rate is 50 per 1,000 live births. 
+
+### **_The Rare Diseases Landscape in SSA_** 
+
+Approximately 30% of all global congenital anomalies, including many RDs, occur in SSA; 38% of all global deaths due to congenital anomalies in children under the age of 5 years occur in SSA. Causes for this degree of disease-related morbidity and mortality are multifactorial and include poverty, limited access to adequate nutrition, inadequate healthcare infrastructure, insufficient antenatal care combined with a high fertility rate and an increasing proportion of mothers of advanced maternal age, relatively higher levels of consanguinity, and environmental exposures. Up to 75% of the approximately 400,000 individuals with sickle cell disease born annually across the globe are born in SSA; this condition, along with other public health needs including the higher prevalence of adult HIV, has created a significant public health disease burden that leaves these and other more readily diagnosed and treated communicable diseases more prioritized relative to RDs. Compounding this resource allocation challenge is the oftentimes inadequate diagnostic capability for RDs in SSA, leading to underreporting through misdiagnosis, lack of diagnosis, and incorrect cause of death coding. 
+
+### **_Healthcare Coverage for Rare Diseases in SSA_** 
+
+Access to healthcare is a challenge for most individuals in SSA but is especially difficult for those with RDs. Care is often unavailable, inaccessible, or unaffordable, with many affected individuals dying without a diagnosis. Stigma, discrimination, and marginalization are common, especially in rural areas where traditional health beliefs may be more common. Some affected individuals are at risk of interpersonal violence secondary to stigma, such as those living with oculocutaneous albinism. Families may hide children with RDs from their community to avoid stigma and discrimination. 
+
+### **_Obstetric Screening and Prevention Efforts for Congenital Anomalies_** 
+
+Approximately 52% of pregnant females in SSA achieve the recommended minimum of four antenatal care visits, which has recently been updated to eight. In South Africa, while 83% of pregnant females completed first antenatal care visits, less than a fifth of these visits were prior to 20 weeks of pregnancy, with most (72%) occurring between 3 and 6 months of pregnancy. 
+
+Access to skilled ultrasonography during pregnancy is limited in most of SSA. In South Africa, targeted screening, including ultrasound, is recommended only for women with high-risk pregnancies. 
+
+Folate fortification for the prevention of neural tube defects is not universally mandated across SSA; South Africa has implemented mandatory folate fortification of staple crops since 2003, resulting in a 30% reduction in preventable neural tube defects. 
+
+### **_Newborn Screening for Rare Diseases_** 
+
+NBS varies across the region. Biochemical NBS for sickle cell disease is performed in many countries with higher prevalence. The Consortium on Newborn Screening in Africa (CONSA), launched in 2020, aims to standardize newborn hemoglobinopathy screening and early intervention for children with sickle cell disease in SSA. In South Africa, less than 5% of the million neonates born annually undergo biochemical NBS. Fragmented efforts have been largely focused on NBS for congenital hypothyroidism. 
+
+### **_Resource Limitations_** 
+
+The shortage and maldistribution of health workers in the SSA region pose a challenge to achieving universal health coverage. Only four SSA countries (Namibia, Mauritius, Seychelles, and South Africa) currently have the required density of healthcare workers (>4.45 per 1,000) necessary to achieve universal health coverage. South Africa is the only country in the region with training centers for clinical geneticists and genetic counselors, but the ratio of such trained professionals to the population remains inadequate. 
+
+### **_Legislation and Regulation_** 
+
+Universal health coverage is absent or in the very early stages of implementation in most SSA countries; many have dual or multifaceted health systems, with limited state-funded services and private services. The relevant national RD legislation in most countries is broad, limited mainly to national health acts and other laws related to medicines and medical products with limited local implementation. South Africa has a comprehensive legislative and regulatory framework; the provision of genetic services is specified in its National Health Act of 2004, and policy guidelines have been published by the South Africa National Department of Health. However, effective implementation of these policies is lacking. An RD strategic plan for South Africa is being developed by the Rare Disease Access Initiative.
+
+<!-- p.72 -->
+
+### **_Role of Patient Organizations_** 
+
+Many SSA countries have established national alliances for RDs. These national bodies collaborate through regional and global alliances such as the African Alliance for Rare Diseases and Rare Diseases International. Rare disease advocacy activities underway in the region include international conferences, annual participation in Rare Disease Day, and participation in research projects such as the Sub-Saharan Congenital Anomalies Network (https://sscan.tghn.org/) and Ubomi Buhle project (https://ubomibuhle.org.za/), which is dedicated to improving pregnancy outcomes and minimizing preventable congenital anomalies. 
+
+### **Southeast Asia** 
+
+More than 25% of the world’s population lives in Southeast Asia. The WHO Southeast Asia Region is composed of 11 member states: Bangladesh, Bhutan, the Democratic People’s Republic of Korea, India, Indonesia, Maldives, Myanmar, Nepal, Sri Lanka, Thailand, and Timor-Leste. The region is exceptionally diverse in terms of economy, culture, ethnic groups, and health system structure. 
+
+### **_Demographics and Epidemiology_** 
+
+The population in the region has been growing slowly, with the exception of India, whose population has rapidly expanded over the past decade. Most countries in the region are classified as lower middle income (i.e., Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Timor-Leste), and some are upper middle income (i.e., Indonesia, Maldives, Thailand). Southeast Asia has seen a significant reduction in maternal and child mortality, an improvement in the proportion of births attended by skilled health personnel, and a reduction in the incidence of communicable diseases over the past decade. Limited access to health services and health professionals remains a concern, however, as does readiness for national and global health risks, particularly among low-and middle-income countries. 
+
+### **_Rare Disease Landscape in Southeast Asia_** 
+
+Universal healthcare coverage across Southeast Asia is mostly focused on primary preventive care and acute care; infrastructure for specialized care, particularly for RDs, is less well developed. Varying definitions of rarity have underestimated the burden of RDs in Southeast Asia, leading to inadequate resource allocation at a policy level. Diagnosis is challenging, as many specialized testing assays in lowerand middle-income countries are unavailable or must be sent abroad for completion. High costs of RD-focused management, combined with a limited number of clinical experts and facilities for most rare disorders, pose additional challenges. 
+
+RD activities and initiatives vary vastly in Southeast Asia, with India, Indonesia, and Thailand having developed coordinated strategic initiatives. In India, a National Policy for Rare Diseases was formulated in 2021, which formalizes the definition and list of rare diseases and proffers an integrated 
+
+and comprehensive strategy for care among PLWRD in the country. In Thailand, a governmental rare disease policy was formulated in 2020 to ensure the inclusion of 24 inborn metabolic disorders in its universal coverage package. In addition, the policy has also provided for the inclusion of 40 rare diseases in its expanded newborn screening program starting in 2022. Patient support and advocacy groups include the Organization for Rare Diseases India, Yayasan MPS dan Penyakit Langka (the Mucopolysaccharidosis and Rare Diseases Foundation) Indonesia, and the Thai Rare Disease Foundation. 
+
+Future opportunities include expanding universal healthcare coverage and ensuring rare disease care as an essential component. Enhancing diagnostic capacity, including expanding newborn screening, and increasing the number of genetic specialists and specialty care facilities will further improve diagnostic and management access. 
+
+### **Western Pacific Region** 
+
+#### **_Demographics and Epidemiology_** 
+
+The WHO Western Pacific Region includes almost 1.9 billion people across 37 jurisdictions and extends from Mongolia in central Asia, east to the Pitcairn Islands in the Pacific Ocean, and south to New Zealand. The region includes nations with large populations, such as China (1.4 billion people), as well as small populations, such as Niue (1,000 people). Economies vary from high to middle to low income. Some populations are rapidly expanding and transitioning from rural to urban, while others are rapidly aging. Health systems vary widely in capacity and resources, and coordinated, multisystemic, and multiagency RD initiatives vary from nonexistent or emerging to robust, with some initiatives having decades of established policy initiatives. 
+
+### **_The Rare Disease Landscape in the Western Pacific Region_** 
+
+In Japan, rare diseases are referred to as Nan-Byo, and the Nan-Byo Act was established in 1972 to deliver an impartial and stable financial support system for PLWRD. Through the act, the Ministry for Health, Labour, and Welfare has allocated resources to promote research and development for RDs, and to improve hospitals, care facilities, and home care service abilities. Further sustainability of Nan-Byo interventions was supported through comprehensive tax and social security policy reform in 2013. In 2014, the Japan Agency for Medical Research and Development established the Initiative for Rare and Undiagnosed Diseases (IRUD), designed to share Japan’s RD expertise among researchers, clinicians, and patients, both nationally and internationally. The IRUD provides a centralized resource for PLWRD through a nationwide network of clinical centers, medical specialist committees, genomic analysis centers, and a central data management center for clinical and genomic records. The knowledge management platform for IRUD (i.e., IRUD Exchange) was adapted from the multinational Patient Archive platform,
+
+<!-- p.73 -->
+
+first developed as a partnership among the Undiagnosed Diseases Program, Western Australian Health Department, and the Kinghorn Centre for Clinical Genomics at the Garvan Institute of Medical Research in New South Wales. The initiative was extended subsequently (Beyond IRUD) to include a national approach to multi-omics and functional analyses. 
+
+In the Republic of Korea, the Rare Disease Management Act of 2015 provided national guidelines for implementing comprehensive policies for defining and managing RDs. The act additionally aims to improve access to orphan drugs and reduce the financial burden of RD care. Patient-led organizations include the Korean Organization for Rare Diseases. 
+
+The Philippines established a central laboratory in 1997 for a nationwide newborn screening system. The Rare Disease Act of the Philippines, approved in 2016, has provisions for RDs, including orphan drugs, patient care, registry formation, research and development, information sharing, and screening. The act also categorizes PLWRD as “persons with disability,” allowing for statutory benefits such as discounted healthcare services and medicines. 
+
+In 2018, the Chinese government developed a coordinated suite of national RD initiatives covering diagnosis and treatment, access to medication, affordability of care, informatics innovation, medical education, and resource allocation. The National Health Commission implemented measures including forming its first catalog of rare diseases, establishing a rare disease alliance, developing guidelines and a network for collaboration in rare disease diagnosis and treatment, creating mechanisms for sharing diagnostic and treatment information, and creating expert committees to ensure standardization of RD diagnosis and treatment and improve diagnostic and treatment capabilities nationwide. The National Medical Products Administration also drafted a series of policies to accelerate the review and approval of novel medicines. The Ministry of Finance implemented tax incentives for drugs to treat RDs, to encourage the marketing and importing of rare disease drugs, and to reduce drug costs for PLWRD. The National Healthcare Security Administration has adjusted its list of covered medicines to include an increasing number of RD drugs under basic medical insurance and has negotiated to reduce the price of some relevant drugs. The informatics innovation for diagnosis and treatment has extended to a network of more than 300 hospitals. 
+
+Broad advocacy for a national action plan for RDs in Australia first came from primary care organizations in 2006; from there, advocacy built and culminated in a 2011 national multistakeholder symposium for RDs in Western Australia (WA). Out of this symposium, Rare Voices Australia (RVA) was created and went on to catalyze many national governmental and nongovernmental initiatives. The WA Health System was the first southern hemisphere jurisdiction to launch a RD plan, the WA Rare Diseases Strategic Framework, 2015–2018. The Australian government commissioned RVA to deliver the Australian National 
+
+Strategic Action Plan for Rare Diseases (2020), which was followed by a series of government-funded implementation projects. The first Australian undiagnosed diseases program (UPD) in a public health system was implemented in WA Health (UPD-WA) in 2015 as part of a range of rare disease initiatives delivered through WA Health. Its development was commensurate with the co-founding of Undiagnosed Diseases Network International. Subsequently, researchbased UDPs were formed in other jurisdictions, and in 2022 a national UDP research network (UDN-Aus) commenced. 
+
+In 2023, prompted in part by a review of pharmaceutical funding, New Zealand announced its intention for a National Rare Diseases Plan. Both Australia and New Zealand identify priority populations within their plans, including Indigenous people, culturally and linguistically diverse populations, and those in remote and regional areas. The Australia Plan also identified the potential to build on existing infrastructures to support RD data collection, such as creating congenital anomaly registries. 
+
+Notable regional initiatives or global initiatives with a significant regional footprint include the Undiagnosed Diseases Network International (e.g., Australia, Japan, China, Singapore, Hing Kong, New Zealand, South Korea), the Asia-Pacific Economic Cooperation Action Plan on Rare Diseases, the Global Nursing Network for Rare Diseases, the Asia-Pacific Alliance of Rare Diseases Organizations and the BRIDGE-ASEAN (Bringing Research Innovations for the Diagnosis of Genetic diseases in ASEAN) initiative, as well as a range of genomics-focused projects and alliances. 
+
+## **Bibliography** 
+
+- Abou Tayoun AN, Fakhro KA, Alsheikh-Ali A, Alkuraya FS. Genomic medicine in the Middle East. _Genome Med._ 2021;13(1):184. 
+
+- Abou Tayoun AN, Rehm HL. Genetic variation in the Middle East— an opportunity to advance the human genetics field. _Genome Med._ 2020;12(1):116. 
+
+- Adachi T, El-Hattab AW, Jain R, et al. Enhancing equitable access to rare disease diagnosis and treatment around the world: a review of evidence, policies, and challenges. _Int J Environ Res Public Health_ . 2023;20:4732. 
+
+- Alianza Iberoamericana de Enfermedades Raras (ALIBER). _Estudio EnSERio Latinomérica_ . 2022. https://fundhemi.org/wp-content/ uploads/2022/06/01_2022_publicacion_ENSERioLATAM_estudio_esp_v8.pdf. 
+
+- Allison MA, Armstrong DG, Goodney PP, et al. Health disparities in peripheral artery disease: a scientific statement from the American Heart Association. _Circulation_ . 2023;148(3):286-296. 
+
+- Asian Development Bank. _Key Indicators for Asia and the Pacific 2021_ . 52nd ed. Asian Development Bank; 2021. 
+
+- Austin CP, Cutillo CM, Lau LPL, et al. Future of rare diseases research 2017-2027: an IRDiRC perspective. _Clin Transl Sci._ 2017;11:21-27. 
+
+- Baynam GS, Groft S, van der Westhuizen FH, et al. A call for global action for rare diseases in Africa. _Nat Genet._ 2020;52(1):21-26. 
+
+- Beck M, Frank B, Minaeian S, Nicholls SG. Decision-making about newborn screening panels in canada: risk management and public
+
+<!-- p.74 -->
+
+participation. In: _Democratizing Risk Governance: Bridging Science, Expertise, Deliberation and Public Values_ . Cham: Springer International Publishing; 2023:217-243. 
+
+- Bordini BJ, Walsh RD, Basel D, Deshmukh T. Attaining diagnostic excellence: how the structure and function of a rare disease service contribute to ending the diagnostic odyssey. _Med Clin North Am._ 2024;108(1):1-14. 
+
+- Borrajo GJC. Newborn screening in Latin America: a brief overview of the state of the art. _Am J Med Genet C Semin Med Genet_ . 2021;187:322-328. 
+
+- Boycott KM, Lau LP, Cutillo CM, Austin CP. International collaborative actions and transparency to understand, diagnose, and develop therapies for rare diseases. _EMBO Mol Med._ 2019; 11(5):e10486. 
+
+- Boycott KM, Rath A, Chong JX, et al. International cooperation to enable the diagnosis of all rare genetic diseases. _Am J Hum Genet._ 2017;100(5):695-705. 
+
+- Bros-Facer V, Taylor S, Patch C. Next-generation sequencing-based newborn screening initiatives in Europe: an overview. _Rare Dis Orphan Drugs J._ 2023;2:21. 
+
+- Carrión Tudela J, Pino-Ramírez G, Males Henao A. Perfil Organizacional del Movimiento Asociativo de las Enfermedades Raras en Iberoamérica Interacción y Perspectiva Revista de Trabajo Social 2019;9(1):72-94. https://produccioncientificaluz.org/index. php/interaccion/article/view/29837/30806. 
+
+- Chan AYL, Chan VKY, Olsson S, et al. Access and unmet needs of orphan drugs in 194 countries and 6 areas: a global policy review with content analysis. _Value Health._ 2020;23(12):1580-1591. 
+
+- Christianson A, Howson CP, Modell B. _March of Dimes: Global Report on Birth Defects, the Hidden Toll of Dying and Disabled Children_ . 2006. 
+
+- Chung CCY, Hong Kong Genome Project, Chu ATW, Chung BHY. Rare disease emerging as a global public health priority. _Front Public Health._ 2022;10:1028545. 
+
+- Cortial L, Nguyen C, Julkowska D, et al. Managing rare diseases: examples of national approaches in Europe, North America and East Asia. _Rare Dis Orph Drugs J_ . 2022;1(2):10. 
+
+- D’Angelo CS, Hermes A, McMaster CR, et al. Barriers and considerations for diagnosing rare diseases in indigenous populations. _Front Pediatr._ 2020;8:579924. 
+
+- El Naofal M, Ramaswamy S, Alsarhan A et al. The genomic landscape of rare disorders in the Middle East. _Genome Med._ 2023;15(1):5. 
+
+- European Union. _Regulation (EC) N°141/2000 of the European Parliament of the Council of 16 December 1999 on Orphan Medicinal Products_ . 2000. https://eur-lex.europa.eu/EN/legal-content/summary/medicines-for-rare-diseases-orphan-drugs.html 
+
+- EURORDIS. _Juggling Care and Daily Life: The Balancing Act of the Rare Disease Community_ . 2017. https://download2.eurordis.org/ rbv/2017_05_09_Social%20survey%20leaflet%20final.pdf 
+
+- Gazali AL, Hamamy H, Al-Arrayad S. Genetic disorders in the Arab world. _Br Med J._ 2006;333(7573):831-834. 
+
+- Green NS, Zapfel A, Nnodu OE, et al. The Consortium on Newborn Screening in Africa for sickle cell disease: study rationale and methodology. _Blood Adv_ . 2022;6(24):6187-6197. 
+
+- IQVIA. _Orphan disease in the Middle East and Africa region_ . 2018. https://www.iqvia.com/locations/middle-east-and-africa/library/ white-papers/orphan-disease-in-the-middle-east-and-africa-region 
+
+- Kancherla V, Chadha M, Rowe L, et al. Reducing the burden of Anemia and neural tube defects in low-and middle-income countries: an analysis to identify countries with an immediate potential to benefit from large-scale mandatory fortification of wheat flour and Rice. _Nutrients_ . 2021;13(1):244. 
+
+- Kang D, Choi SE. Horizontal healthcare utilization inequity in patients with rare diseases in Korea. _Int J Equity Health_ . 2023;22(1):93. 
+
+- Khosla N, Valdez R. A compilation of national plans, policies and government actions for rare diseases in 23 countries. _Intractable Rare Dis Res_ . 2018;7(4):213-222. 
+
+- Kliegman RM, Bordini BJ, Basel D, Nocton JJ. How doctors think: common diagnostic errors in clinical judgment-lessons from an Undiagnosed and Rare Disease Program. _Pediatr Clin North Am._ 2017;64(1):1-15. 
+
+- Larrandaburu M, Vianna F LS, Griot K, et al. Rare diseases in uruguay: focus on infants with abnormal newborn screening. _J Inborn Errors Metab Screen._ 2019;7. 
+
+- Leke AZ, Malherbe H, Kalk E, et al. The burden, prevention and care of infants and children with congenital anomalies in sub-Saharan Africa: a scoping review. _PLOS Glob Public Health_ . 2023;3(6): e0001850. 
+
+- Lopez Gousset V, Bolz-Johnson M. _Common Needs of the Rare Disease Population Identified Globally_ . 2021. https://www.rarediseasesinternational.org/final-Common-Needs-of-the-Rare-Disease-Population-Identified-Globally-report-extract.pdf 
+
+- Malherbe H. Introducing the South African rare diseases access initiative. _S Afr Med J_ . 2023;113(8):8. 
+
+- Malherbe HL, Modell B, Blencowe H, Strong KL, Aldous C. A review of key terminology and definitions used for birth defects globally. _J Community Genet_ . 2023;14:241-262. 
+
+- Malherbe HL, Woods DL, Aldous C, Christianson AL. Review of the 2015 guidelines for maternity care with relevance to congenital disorders. _S Afr Med J_ . 2016;106(7):699-671. 
+
+- Marchildon GP, Allin S, Merkur S. Canada: health system review. _Health Syst Transit_ . 2020;22(3):1-194. 
+
+- Massyn N, Day C, Ndlovu N, Padayachee T. _District Health Barometer 2019/2020_ . Durban: Health Systems Trust; 2020. 
+
+- Mazzucato M, Pozza LVD, Facchin P, et al. ORPHAcodes use for the coding of rare diseases: comparison of the accuracy and crosscountry comparability. _Orphanet J Rare Dis_ . 2023;18(1):267. 
+
+- Moyo E, Moyo P, Murewanhema G, Mhango M, Chitungo I, Dzinamarira T. Key populations and Sub-Saharan Africa’s HIV response. _Front Public Health_ . 2023;11:1079990. 
+
+- Munro M, Cook AM, Bogart KR. An inductive qualitative content analysis of stigma experienced by people with rare diseases. _Psychol Health_ . 2022;37(8):948-963. 
+
+- National Department of Health. _2030 Human Resources for Health Strategy: Investing in the Health Workforce for Universal Health Coverage_ . Government Printers Pretoria; 2020. 
+
+- National Department of Health. _Clinical Guidelines for Genetic Services_ . Pretoria: National Department of Health; 2021. 
+
+- National Policy for Rare Diseases. Ministry of Health and Family Welfare Government of India; 2021. Accessed September 6, 2023. https://rarediseases.mohfw.gov.in/ 
+
+- NGO Committee for Rare Diseases. _The “Right to Health” in Rare Diseases: A Practical Contribution to Implementing and Achieving the Sustainable Development Goals_ . 2018. https://www.rarediseases international.org/wp-content/uploads/2018/05/NGO-Committeefor-Rare-Diseases-Submission-The-Right-to-Health-in-RareDiseases_Feb-15-2018-.pdf. 
+
+- Nguengang Wakap S, Lambert D, Olry A, et al. Estimating cumulative point prevalence of rare diseases: analysis of the Orphanet database. _Eur J Hum Genet_ . 2020;28(2):165-173. 
+
+- Palau F. Personalized medicine in rare diseases. _Per Med._ 2012;9(2): 137-141. 
+
+- Palau F. _Enfermedades raras_ . Madrid: Consejo Superior de Investigaciones Científicas (CSIC) and Los Libros de la Catarata; 2020.
+
+<!-- p.75 -->
+
+- Posada de la Paz M, Taruscio D, Groft SC. _Rare Diseases Epidemiology: Update and Overview_ . 2nd ed. Springer International Publishing; 2015. 
+
+- Rare2030. _Recommendations from the Rare 2030 Foresight Study_ . 2021. http://download2.eurordis.org/rare2030/Rare2030_recommendations _Exec_Summary.pdf 
+
+- Rare Disease Impact Report: Insights from patients and the medical community. 2013. https://socialvalueuk.org/reports/rare-disease-impactreport-insights-patients-medical-community/#:~:text=Reports%20 Database:,patients%20and%20the%20medical%20community &text=Yet%20looking%20at%20rare%20diseases,and%20the%20 Genetic%20Alliance%20UK.%E2%80%9D. 
+
+- Rare Disease International. _Operational Description of Rare Diseases_ . 2022. https://www.rarediseasesinternational.org/description-for-rd/. 
+
+- Rare Disease International. _Position Paper: Rare Diseases: Leaving No One Behind in Universal Health Coverage_ . 2019. https://d254mlohi 4u805.cloudfront.net/rdi/2019/RDI%20UHC%20Paper%20 Final%20October%202019.pdf. 
+
+- Rare Disease International. _UN Resolution on Persons Living with a Rare Disease_ . https://www.rarediseasesinternational.org/un-resolution; https:// www.rarediseasesinternational.org/wp-content/uploads/2022/01/FinalUN-Text-UN-Resolution-on-Persons-Living-with-a-Rare-Disease-andtheir-Families.pdf. 
+
+- Rare Disease International. _Universal Health Coverage_ . https://www. rarediseasesinternational.org/universal-health-coverage/. Accessed July 30, 2023. 
+
+- _Rare Disease Management Act_ . Korea Legislation Research Institute; June 3, 2020. https://elaw.klri.re.kr/. Accessed September 5, 2023. 
+
+- _Recommended Uniform Screening Panel_ . United States Health Resources & Services Administration. https://www.hrsa.gov/ advisory-committees/heritable-disorders/rusp. Accessed September 27, 2023. 
+
+- Rice T, Rosenau P, Unruh LY, Barnes AJ. United States: health system review. _Health Syst Transit_ . 2020;22(4):1-441. 
+
+- Richter T, Nestler-Parr S, Babela R, et al. Rare disease terminology and definitions-A systematic global review: report of the ISPOR Rare Disease Special Interest Group. _Value Health._ 2015;18(6):906-914. 
+
+- Romdhane L, Kefi R, Azaiez H, Ben Halim N, Dellagi K, Abdelhak S. Founder mutations in Tunisia: implications for diagnosis in North Africa and Middle East. _Orphanet J Rare Dis._ 2012;7:52. 
+
+- Schuermans N, Hemelsoet D, Terryn W, et al. Shortcutting the diagnostic odyssey: the multidisciplinary program for undiagnosed rare diseases in adults (UD-PrOZA). _Orphanet J Rare Dis_ . 2022; 17:210. 
+
+- Shafie AA, Chaiyakunapruk N, Supian A, et al. State of rare disease management in South-east Asia. _Orphanet J Rare Dis_ . 2016;11:107. 
+
+- Shafie AA, Supian A, Ahmad Hassali MA, et al. Rare disease in Malaysia: challenges and solutions. _PLoS One_ . 2020;15(4): e0230850. 
+
+- Suffering in Silence: Assessing the Rare Disease Awareness and Management in the Asia-Pacific. The Economist Intelligence Unit Limited; 2022. Accessed September 4, 2023. https://www.cslbehring.com.au/ 
+
+- Sujan MA. Helplessly, rare disease patients’ soldier on. _The Daily Star_ . December 25, 2022. https://www.thedailystar.net/. Accessed September 6, 2023. 
+
+- The World Bank. _Mortality, Infant and Under-5 for Sub-Saharan Africa_ . 2021. https://data.worldbank.org/indicator/SP.DYN.IMRT.IN. 
+
+- The World Factbook. https://www.cia.gov/the-world-factbook/. Accessed August 31, 2023. 
+
+- Therrell BL, Padilla CD, Loeber JG, et al. Current status of newborn screening worldwide: 2015. _Semin Perinatol_ . 2015;39(3):171-187. 
+
+- Tumiene B, Graessner H. Rare disease care pathways in the EU: from odysseys and labyrinths towards highways. _J Community Genet._ 2021;12(2):231-239. 
+
+- United Nations, General Assembly. _Resolution A/RES/76/132 Adopted by the General Assembly on 18 October 2019: Political Declaration of the High-Level Meeting on Universal Health Coverage_ . https:// www.rarediseasesinternational.org/universal-health-coverage/ 
+
+- United Nations, General Assembly. _Resolution A/RES/76/132 Adopted by the General Assembly on 16 December 2021: Addressing the Challenges of Persons Living with A Rare Disease and Their Families_ . 2021. https://digitallibrary.un.org/record/3953765?ln=es 
+
+- United Nations Department of Economic and Social Affairs. _World Population Prospects 2022: Summary of Results_ . 2022. Contract No.: UN DESA/POP/2022/TR/NO. 3. 
+
+- United Nations Inter-Agency Group for Child Mortality Estimation (UN IGME). _Levels & Trends in Child Mortality: Report 2022, Estimates Developed by the United Nations Inter-Agency Group for Child Mortality Estimation_ . New York: United Nations Children’s Fund; 2023. https://childmortality.org/wp-content/uploads/2023/01/UNIGME-Child-Mortality-Report-2022.pdf 
+
+- Walkowiak D, Bokayeva K, Miraleyeva A, Domaradzki J. The awareness of rare diseases among medical students and practicing physicians in the Republic of Kazakhstan: an exploratory study. _Front Public Health_ . 2022;10:872648. 
+
+- Wang C, Whiting A, Rath A, et al. Operational description of rare diseases: a reference to improve the recognition and visibility of rare diseases. _Orphanet J Rare Dis_ . 2024;19(1):334. 
+
+- Wanyonyi SZ, Mariara CM, Vinayak S, Stones W. Opportunities and challenges in realizing universal access to obstetric ultrasound in sub-Saharan Africa. _Ultrasound Int Open_ . 2017;3(2):E52-E59. 
+
+- World Bank Country and Lending Groups: Current Classification by Income. World Bank. Accessed 5 September 2023. https://datahelpdesk.worldbank.org 
+
+- World Economic Forum. _Global Data Access for Solving Rare Disease: A Health Economics Value Framework_ . 2020. https://www3.weforum.org/docs/WEF_Global_Data_Access_for_Solving_Rare_ Disease_Report_2020.pdf 
+
+- Yates J, Gutiérrez-Sacristán A, Jouhet V, et al. Finding commonalities in rare diseases through the undiagnosed diseases network. _J Am Med Inform Assoc._ 2021;28(8):1694-1702. 
+
+- Zerbo A, Delgado RC, González PA. Vulnerability and everyday health risks of urban informal settlements in Sub-Saharan Africa. _Global Health J._ 2020;4(2):46-50.
